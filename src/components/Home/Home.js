@@ -1,16 +1,16 @@
 import './Home.css'
-import { Link, NavLink } from "react-router-dom"
+import { NavLink } from "react-router-dom"
 
 
 function Home() {
   return (
     <div 
     style={{ 
-      backgroundImage: `url("https://i.pinimg.com/564x/ae/dc/3e/aedc3e7ca11289982fc2de972fbe6176.jpg")`
+      backgroundImage: `url("https://images.unsplash.com/photo-1494548162494-384bba4ab999?auto=format&fit=crop&w=500&q=60")`
     }} className="image"> 
-        <h1 className='heading'>Magical kenya</h1>
+        {/* <h1 className='heading'>Magical kenya</h1> */}
         <NavLink to='/hero'>
-        <img src='https://i.pinimg.com/236x/46/9e/dc/469edc56a2cd471e46d41cdb06d66b8b.jpg' text-center className='profile'></img>
+        <img src='https://i.pinimg.com/564x/e0/3a/03/e03a0310b322e567fdd6d50556a3a8f3.jpg' text-center className='profile'></img>
 
         </NavLink>
     </div>
