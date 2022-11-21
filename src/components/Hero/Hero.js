@@ -11,10 +11,145 @@ function Hero() {
    
         </p>
 
-     <NavLink to='/content'>
+     {/* <NavLink to='/content'>
       <button>Click Here To Learn More About Kenya</button>
-     </NavLink>
+     </NavLink> */}
 
+
+<div class="wrapper">
+  <div class="cards_wrap">
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+        <img src="https://i.pinimg.com/564x/26/0f/38/260f38b7772ca3734dbf032d78175870.jpg" alt="car" />
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            wildlife
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            <button>Read More</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+          <img src="https://i.pinimg.com/236x/2b/af/a0/2bafa029a0f5398c67e05782aee357f5.jpg" alt="car" />
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Coastal Kenya
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+          <button>Read More</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+        <img src="https://pbs.twimg.com/media/EQ9jJqOXYAAzv5T.jpg" alt="car" />
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Northern Kenya
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+          <button>Read More</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+        <img src="https://i.pinimg.com/564x/fb/41/59/fb41596336da4543b8bee4393bbaa37d.jpg" alt="car" />
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Nairobi city
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+          <button>Read More</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+        <img src="https://i.pinimg.com/564x/7d/72/93/7d7293b4ee5def8ad7fed894eaf963ba.jpg" alt="car" />
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            safaris
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+          <button>Read More</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+        <img src="https://i.pinimg.com/564x/5b/da/4b/5bda4b0cbfeaeadc5058fef3b9ebf25d.jpg" alt="car" />
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Diverse Culture
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            <NavLink to='/wildlife'>
+            <button>Read More</button>
+            </NavLink>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+   
+        </div>
+      </div>
 
       </div>
     );

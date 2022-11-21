@@ -5,6 +5,7 @@ import AboutUs from "./components/AboutUs"
 import Trip from "./components/Trip"
 import Destination from "./components/Destination"
 import Content from "./components/Content"
+import Wildlife from "./components/Wildlife"
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
         <Route path="hero" element={ <Hero/> } />
         <Route path="content" element={ <Content/> } />
         <Route path="trip" element={ <Trip/> } />
+        <Route path="wildlife" element={ <Wildlife/> } />
+
       </Routes>
     </div>
   )
