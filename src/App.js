@@ -6,6 +6,13 @@ import Trip from "./components/Trip"
 import Destination from "./components/Destination"
 import Content from "./components/Content"
 import Wildlife from "./components/Wildlife"
+import Coastal from "./components/Coastal"
+import North from "./components/North"
+import Nairobi from "./components/Nairobi"
+import Culture from "./components/Culture"
+import Safari from "./components/Safari"
+
+
 
 function App() {
   return (
@@ -18,6 +25,14 @@ function App() {
         <Route path="content" element={ <Content/> } />
         <Route path="trip" element={ <Trip/> } />
         <Route path="wildlife" element={ <Wildlife/> } />
+        <Route path="coast" element={ <Coastal/> } />
+        <Route path="north" element={ <North/> } />
+        <Route path="nairobi" element={ <Nairobi/> } />
+        <Route path="safari" element={ <Safari/> } />
+        <Route path="culture" element={ <Culture/> } />
+
+
+
 
       </Routes>
     </div>
