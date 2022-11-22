@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Nunito&display=swap");
+/* @import url("https://fonts.googleapis.com/css?family=Nunito&display=swap"); */
 
 * {
   margin: 0;
@@ -35,7 +35,7 @@ img {
 }
 
 .cards_wrap .card_inner {
-  background: rgb(163, 157, 157);
+  background: rgb(219, 214, 209);
 }
 
 .cards_wrap .card_top {
@@ -86,4 +86,9 @@ img {
   .cards_wrap .card_item {
     width: 100%;
   }
+}
+.button{
+    padding: 10px 25px;
+    border: 1px;
+    background-color: rgb(230, 219, 215);
 }
