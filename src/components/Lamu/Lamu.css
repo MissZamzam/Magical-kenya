@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(153, 149, 156);
+}
+.heading h1{
+    margin: 0;
+    padding: 0;
+    font-size: 120px;
+    color: #fff;
+}
+.heading:first-child{
+    background-image: url(https://i.pinimg.com/236x/f2/b9/4d/f2b94de41091d787d1135f36b910ab41.jpg);
+    background-size: cover;
+}
+.heading:last-child{
+    background-image: url(https://i.pinimg.com/236x/48/a3/b8/48a3b8ab46f5ffee596726a6f2d496a6.jpg);
+    background-size: cover;
+}

@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom"
 import Home from "./components/Home/Home"
 import Hero from "./components/Hero/Hero"
 import AboutUs from "./components/AboutUs"
-import Trip from "./components/Trip"
+import Lamu from "./components/Lamu/Lamu"
 import Destination from "./components/Destination"
 import Content from "./components/Content"
 import Wildlife from "./components/Wildlife"
@@ -23,7 +23,7 @@ function App() {
         <Route path="destination" element={ <Destination/> } />
         <Route path="hero" element={ <Hero/> } />
         <Route path="content" element={ <Content/> } />
-        <Route path="trip" element={ <Trip/> } />
+        <Route path="lamu" element={ <Lamu/> } />
         <Route path="wildlife" element={ <Wildlife/> } />
         <Route path="coast" element={ <Coastal/> } />
         <Route path="north" element={ <North/> } />
