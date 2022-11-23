@@ -5,12 +5,16 @@ import AboutUs from "./components/AboutUs"
 import Lamu from "./components/Lamu/Lamu"
 import Destination from "./components/Destination"
 import Content from "./components/Content"
-import Wildlife from "./components/Wildlife"
-import Coastal from "./components/Coastal"
+import Wildlife from "./components/Wildlife/Wildlife"
+import Coastal from "./components/Coastal/Coastal"
 import North from "./components/North"
 import Nairobi from "./components/Nairobi"
 import Culture from "./components/Culture"
 import Safari from "./components/Safari"
+import Mombasa from "./components/Mombasa/Mombasa"
+import Malindi from "./components/Malindi/Malindi"
+import Mtwapa from "./components/Mtwapa/Mtwapa"
+import Diani from "./components/Diani/Diani"
 
 
 
@@ -24,6 +28,11 @@ function App() {
         <Route path="hero" element={ <Hero/> } />
         <Route path="content" element={ <Content/> } />
         <Route path="lamu" element={ <Lamu/> } />
+        <Route path="mombasa" element={ <Mombasa/> } />
+        <Route path="malindi" element={ <Malindi/> } />
+        <Route path="mtwapa" element={ <Mtwapa/> } />
+        <Route path="diani" element={ <Diani/> } />
+
         <Route path="wildlife" element={ <Wildlife/> } />
         <Route path="coast" element={ <Coastal/> } />
         <Route path="north" element={ <North/> } />

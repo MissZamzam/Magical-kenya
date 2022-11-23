@@ -1,6 +1,6 @@
-import './Lamu.css'
+import './Mombasa.css'
 
-const Lamu = () => {
+const Mombasa = () => {
     return ( 
        <div className='container'>
         <div>
@@ -21,7 +21,7 @@ const Lamu = () => {
          );
 }
  
-export default Lamu;
+export default Mombasa;
 {/* <button  className='card-btn'>
 Visit <span>&rarr;</span>
 </button> */}

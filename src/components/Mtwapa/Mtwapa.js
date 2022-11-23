@@ -1,6 +1,6 @@
-import './Lamu.css'
+import './Mtwapa.css'
 
-const Lamu = () => {
+const Mtwapa = () => {
     return ( 
        <div className='container'>
         <div>
@@ -21,7 +21,7 @@ const Lamu = () => {
          );
 }
  
-export default Lamu;
+export default Mtwapa;
 {/* <button  className='card-btn'>
 Visit <span>&rarr;</span>
 </button> */}

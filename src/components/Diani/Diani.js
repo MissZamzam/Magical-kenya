@@ -1,6 +1,6 @@
-import './Lamu.css'
+import './Diani.css'
 
-const Lamu = () => {
+const Diani = () => {
     return ( 
        <div className='container'>
         <div>
@@ -21,7 +21,7 @@ const Lamu = () => {
          );
 }
  
-export default Lamu;
+export default Diani;
 {/* <button  className='card-btn'>
 Visit <span>&rarr;</span>
 </button> */}

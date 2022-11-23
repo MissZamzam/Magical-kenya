@@ -1,6 +1,6 @@
-import './Lamu.css'
+import './Malindi.css'
 
-const Lamu = () => {
+const Malindi = () => {
     return ( 
        <div className='container'>
         <div>
@@ -21,7 +21,7 @@ const Lamu = () => {
          );
 }
  
-export default Lamu;
+export default Malindi;
 {/* <button  className='card-btn'>
 Visit <span>&rarr;</span>
 </button> */}
