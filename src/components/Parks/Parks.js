@@ -7,7 +7,7 @@ const Parks = () => {
         <h1>National Parks & Game Reserves</h1>
             <br></br>
         <h1>Amboseli National Park</h1>
-        <img id="img1" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
+        <img id="img1" src="https://www.micato.com/wp-content/uploads/2018/09/amboseli-national-park-1110x700.jpg" alt="" />
 <p>Known as the most popular national reserve of Kenya, the Amboseli National Park welcomes you to take a walk amidst the free-ranging African elephants. Crowned by the highest peak of Africa, Mount Kilimanjaro, this National Reserve occupies 39,206 hectares of land and spreads across the Kenya-Tanzania border. The name Amboseli is derived from a Maasai word that means ‘Salty dust’. The parched condition of this national park goes perfectly with its name.
 
 Major wildlife spotted during the Amboseli National Park safari is a cheetah, lion, waterbuck, eland, impala, giraffe, etc. The most amazing Amboseli National Park fact is that it houses more than 600 different species of birds. Interacting with the local Maasai people residing around the park is also an experience of a lifetime.
@@ -32,7 +32,7 @@ Free goodies to make your safari more exciting!</p>
      
       <h1>Bogoria Lake</h1>
 
-        <img id="img2" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt=""/>
+        <img id="img2" src="https://brilliant-africa.imgix.net/africa-safari-lake-natron-2.jpg?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=1200&h=0&q=30" alt=""/>
          <p>
          Lake Bogoria, lying slightly north of the equator, is a saline-alkaline lake. It is situated amidst a half-barren land in a volcanic region to the southern part of Lake Baringo. The world’s largest population of the famous lesser flamingos can be spotted in Lake Bogoria just like in Lake Nakuru. This lake falls under the Ramsar treaty and within the lake lies, the protected National Reserve named the Lake Bogoria National Reserve.
          The drainage basin of the lake covers an area of 700 sq. km. The National Reserve within the lake, houses features like the Swamp Kesubo in the North and the Siracho Escarpment in the east. Hot springs and geysers are also popular attractions within the lake.
@@ -43,7 +43,7 @@ Bogoria has spiritual and cultural worth for Endorosis people, who are living be
          </p>
 </div>     
      <h1>Lake Naivasha</h1>
-        <img id="img1" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
+        <img id="img1" src="https://www.wildlifekenyasafari.com/wp-content/uploads/2022/05/3-Days-Lake-Naivasha-and-Lake-Nakuru-1.jpg" alt="" />
         <p>
         Lake Naivasha derives its name from the Maasai word for ‘rough water’ due to the sudden storms that are known to arise in the area. Easily accessible from Nairobi, the lake is a refreshing day trip or weekend break from Kenya’s busy capital.
         
@@ -62,7 +62,7 @@ Lake Naivasha is equidistant between Nakuru and Nairobi, and it is easily access
                 </p>
 
  <h1>Nairobi National Park</h1>
- <img id="img2" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
+ <img id="img2" src="https://i.guim.co.uk/img/media/f2f65e8cd1d4c6682c96aac75737bd9381ba2852/0_0_3500_2333/master/3500.jpg?width=445&quality=85&dpr=1&s=none" alt="" />
 
  <p>
  Welcome to Kenya’s most accessible yet incongruous safari experience. Set on the city’s southern outskirts, Nairobi National Park (at 117 sq km, one of Africa’s smallest) has abundant wildlife that can, in places, be viewed against a backdrop of city skyscrapers and planes coming in to land – it's one of the only national parks on earth bordering a capital city. Remarkably, the animals seem utterly unperturbed by it all.
