@@ -15,6 +15,7 @@ import Mombasa from "./components/Mombasa/Mombasa"
 import Malindi from "./components/Malindi/Malindi"
 import Mtwapa from "./components/Mtwapa/Mtwapa"
 import Diani from "./components/Diani/Diani"
+import Parks from "./components/Parks/Parks"
 
 
 
@@ -32,7 +33,7 @@ function App() {
         <Route path="malindi" element={ <Malindi/> } />
         <Route path="mtwapa" element={ <Mtwapa/> } />
         <Route path="diani" element={ <Diani/> } />
-
+        <Route path="parks" element={ <Parks/> } />
         <Route path="wildlife" element={ <Wildlife/> } />
         <Route path="coast" element={ <Coastal/> } />
         <Route path="north" element={ <North/> } />

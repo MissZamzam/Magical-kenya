@@ -94,7 +94,8 @@ function Hero() {
             Nairobi city
           </div>
           <div class="card_info">
-            <p class="title">10 Best Things about Travel</p>
+            <p class="title">Nairobi is a beautiful mix of natural and manmade attractions
+</p>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
             </p>
@@ -109,7 +110,7 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/7d/72/93/7d7293b4ee5def8ad7fed894eaf963ba.jpg" alt="car" />
+        <img src="https://www.amboseliparkkenya.com/wp-content/uploads/2020/10/sadfa-750x450.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -139,6 +140,54 @@ function Hero() {
         <div class="card_bottom">
           <div class="card_category">
             Diverse Culture
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            <NavLink to='/culture'>
+            <button className='button'>Read More</button>
+            </NavLink>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+        <img src="https://i.pinimg.com/564x/9e/d8/68/9ed868b537ccf9ba0deba6a54c1e31f4.jpg" alt="car" />
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            National Parks & Reserves
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            <NavLink to='/parks'>
+            <button className='button'>Read More</button>
+            </NavLink>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+        <img src="https://i.pinimg.com/564x/33/5e/48/335e4882c9e986f70656a3d457689315.jpg" alt="car" />
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Breath-Taking Physical Features
           </div>
           <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
