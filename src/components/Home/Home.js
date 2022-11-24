@@ -12,6 +12,7 @@ function Home() {
         <NavLink to='/hero'>
         <img src='https://i.pinimg.com/564x/e0/3a/03/e03a0310b322e567fdd6d50556a3a8f3.jpg' text-center className='profile'></img>
 
+
         </NavLink>
     </div>
   );  

@@ -10,7 +10,7 @@ import Coastal from "./components/Coastal/Coastal"
 import North from "./components/North"
 import Nairobi from "./components/Nairobi"
 import Culture from "./components/Culture"
-import Safari from "./components/Safari"
+// import Safari from "./components/Safari"
 import Mombasa from "./components/Mombasa/Mombasa"
 import Malindi from "./components/Malindi/Malindi"
 import Mtwapa from "./components/Mtwapa/Mtwapa"
@@ -38,7 +38,7 @@ function App() {
         <Route path="coast" element={ <Coastal/> } />
         <Route path="north" element={ <North/> } />
         <Route path="nairobi" element={ <Nairobi/> } />
-        <Route path="safari" element={ <Safari/> } />
+        {/* <Route path="safari" element={ <Safari/> } /> */}
         <Route path="culture" element={ <Culture/> } />
 
 

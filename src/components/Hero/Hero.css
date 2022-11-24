@@ -58,11 +58,11 @@ img {
 .cards_wrap .card_bottom .card_info {
   padding: 15px;
   margin: 10px 0;
-  border: 1px dashed #0071bc;
+  border: 1px dashed green;
 }
 
 .cards_wrap .card_bottom .card_info .title {
-  color: #0071bc;
+  color: green;
   font-size: 18px;
   margin-bottom: 5px;
 }
@@ -70,6 +70,7 @@ img {
 .cards_wrap .card_bottom .card_creator {
   text-align: center;
 }
+
 
 @media (max-width: 1024px) {
   .cards_wrap .card_item {
@@ -92,4 +93,10 @@ img {
     padding: 10px 25px;
     border: 1px;
     background-color: rgb(230, 219, 215);
+}
+
+#text-centre{
+  font-family: Grechen Fuemen , sans-serif;
+  font-size: 100px;
+  color: green;
 }

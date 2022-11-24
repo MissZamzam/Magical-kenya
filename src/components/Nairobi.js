@@ -4,6 +4,8 @@ const Wildlife = () => {
     return ( 
     <div className='container'>
                 <h1>Nairobi City</h1>
+                <hr></hr>
+                <br></br>
                 <p>Nairobi is the bustling capital city of Kenya and the main entry point to the country. Most visitors spend a day or two exploring the capital at the start or end of a trip. From game viewing at Nairobi National Park, to experiencing the vibrant flavours, colours, and sounds of the Maasai Market, Nairobi has plenty to offer.</p>
 
     <div>
