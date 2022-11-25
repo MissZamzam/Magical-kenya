@@ -33,6 +33,8 @@ const Coastal = () => {
             <button className='button'>Click here</button>
             </NavLink>          
             </div>
+
+            
         </div>
      </div>
     </div>
@@ -146,24 +148,6 @@ const Coastal = () => {
    
         </div>
       </div>
-
-
-
-
-            {/* <ul>
-                <li>Lamu</li>
-                <p>historic touristic town at North coast</p>
-                <li>Malindi & Watamu</li>
-                <p>The most scenic beaches in Kenya</p>
-                <li>Mombasa</li>
-                <p>Kenya's second largest city, worth visiting for its beaches and colonial heritage</p>
-                <li>Diani Beach Ukunda</li>
-                <p>village at the touristic Diani Beach</p>
-                <li>Msambweni</li>
-                <p> village at the more remote South Coast</p>
-                <li>Mtwapa</li>
-                <p>a coastal town where many Europeans live</p>
-            </ul> */}
         </div>
     );
 }

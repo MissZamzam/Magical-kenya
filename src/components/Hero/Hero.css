@@ -100,3 +100,14 @@ img {
   font-size: 100px;
   color: green;
 }
+p{
+  margin: 20px;
+}
+.paragraphs{
+  font-size: larger;
+  color: rgb(128, 0, 43);
+  font-size: 50px;
+  text-align: center;
+  font-family: Grechen Fuemen , sans-serif;
+
+}
