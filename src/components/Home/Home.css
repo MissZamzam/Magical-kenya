@@ -43,8 +43,10 @@ display: inline-block;
     opacity: 1;
   }
   .head {
-    background-color: #091d16;
+    background-color: green;
     color: white;
     font-size: 26px;
     padding: 16px 32px;
+    font-family:  sans-serif;
+
   }
