@@ -53,6 +53,7 @@ img {
 .cards_wrap .card_bottom .card_category {
   text-transform: uppercase;
   text-align: center;
+  font-size: 16px;
 }
 
 .cards_wrap .card_bottom .card_info {
@@ -69,6 +70,7 @@ img {
 
 .cards_wrap .card_bottom .card_creator {
   text-align: center;
+  font-size: 16px;
 }
 
 @media (max-width: 1024px) {
