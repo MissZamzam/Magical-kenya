@@ -11,7 +11,7 @@ function Home() {
         {/* <h1 className='heading'>Magical kenya</h1> */}
         <NavLink to='/hero'>
           <div className='imaage'>
-          <img src='https://i.pinimg.com/564x/e0/3a/03/e03a0310b322e567fdd6d50556a3a8f3.jpg' className='profile'></img>
+          <img src='https://i.pinimg.com/564x/29/7e/47/297e47215f921f56d9549d32b054c123.jpg' className='profile'></img>
           <h1 className='head'>Discover Magical Kenya</h1>
           </div>
 
