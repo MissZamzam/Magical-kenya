@@ -81,7 +81,54 @@ LAMU DONKEY SANCTUARY ▸ By some estimates, there are as many as 6,000 donkeys 
 
 THE FORT OF SHELA ▸ At the water line just south of Shela Village, one might easily mistake the imposing garrison-like structure perched on the point as a historic Omani stronghold. But in fact the impressive Fort of Shela is a much more contemporary structure (c. 2001) dreamed up by an Italian aristocrat. Following his death, his wife transformed their incredible home into a luxury hotel.</p>
        
-    </div>
+<h1>Lamu Fort</h1>
+        <img id="img1" src="https://www.islamicarchitecturalheritage.com/wp-content/uploads/2020/07/lamu-fort.jpg" alt="" />
+<p>
+The buildings of Lamu Old Town, the oldest and best-preserved Swahili settlement in East Africa, are constructed in coral stone and mangrove timber. The town is located on the island of Lamu, on the African East coast, some 250km north of Mombasa. Founded in or before the 14th century, like Kilwa, Zanzibar and other Swahili ports, a trading centre with a prominent role in the slavetrade. Lamu Old Town has maintained much of its traditional atmosphere with narrow streets and Swahili architecture which combines Swahili, Arabic, Persian, Indian and European building elements.
+
+The Lamu Fort, built between 1813-1821 by Omanis, served to protect Omani interest along the East African coast. From 1910 to 1984 it was used as a prison. Today Lamu Island has become an important centre for the study of Swahili and Islamic cultures. Lamu Old Town is a UNESCO World Heritage Site.
+
+The Zamani Project team visited Lamu Island on a field campaign in 2006 and spatially documented Lamu Fort, as well as the Swahili House Museum and the nearby Shela Mosque.
+
+The Zamani Project team visited Lamu Island on a field campaign in 2006, and spatially documented Lamu Fort, as well as the Swahili House Museum and the nearby Shela Mosque.  
+</p>
+       
+     
+       <a href='https://www.tripadvisor.com/Tourism-g294208-Lamu_Island_Coast_Province-Vacations.html'>More About Lamu</a>
+   
+       <h1>Takwa Ruins</h1>
+       <img id="img2" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/cb/3c/23/provided-by-museums-of.jpg?w=1200&h=-1&s=1" alt=""/>
+
+            <p>The ruins of Takwa are located on the south eastern corner of Manda Island Lamu District in Coast province. A 30 minute boat ride from Lamu Town.
+Takwa ruins are the remains of a thriving 15th and 16th century Swahili trading town before it was abandoned in the seventeenth century. It is not only important because of its period of occupation but also because of its dense settlement and its relatively well preserved remains. The unique Friday Mosque with a large pillar a top the qibla wall is among the most notable features. This pillar is believed to symbolize the burial of a Sheikh be low the wall.
+
+The position of the site at the narrowest location on the whole island, was most probably a strategy. Takwa’s position/location with shallow waters must have been of considerable importance especially during its peak, when many of the sails that came into view were likely to be hostile.Therefore access to the site must have been primarily from the shallow channel which could only admit vessels of shallow draft.
+
+Takwa eventual abandonment in the 17th century was due to salination of the once fresh water and endless fighting between Takwa and Pate people. These ruins were gazetted as a National Monument in 1982 in Gazette notice No. 1514. At present, Takwa is open daily to the Public. It is a very pleasant place for a casual visit, which can be complimented by a picnic and overnight camping.</p>
+    
+    
+<h1>The Fort of Shela</h1>
+       <img id="img1" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/cb/3c/23/provided-by-museums-of.jpg?w=1200&h=-1&s=1" alt=""/>
+
+            <p>Nestled along the sand dunes of Shela Beach, The Fort has been hailed as a monument to Omani architectural ingenuity. Built in 2001, the landmark is the epitome of privacy and seclusion. Its unique architecture occupies an unrivaled position overlooking the Indian Ocean on the deserted 14 kilometre beach.
+
+Peaceful and tranquil in it’s setting, surrounded by natural dunes and breezy casuarinas, The Fort is an elegant and unique sanctuary offering privacy combined with personalized hospitality. Extremely private and secure, this oasis is just a ten minute walk along the beach to Shela Village.
+
+The Fort is constructed of local coral stone and is enclosed by an imposing 50-foot high sandstone wall. The Omani style heavy wooden entrance doors, decorated with iron studs, open onto the main floor of the property, where large arches surround the central courtyard. The living area, lower dining area and lounge look onto the aesthetic pool and the beautiful garden.
+
+From the upstairs formal dining area, guests can enjoy spectacular views of the Indian Ocean as traditional dhows sail by and donkeys and camels cruise the beach. Peering out at the pristine Shela Beach one is reminded that time here has stopped.
+
+The Fort comes with a full staff to take care of all of your needs and desires. We can arrange day excursions to Lamu Town, neighboring islands, as well as fishing, snorkeling and sailing trips.</p>
+<h1>Takwa Ruins</h1>
+       <img id="img2" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/cb/3c/23/provided-by-museums-of.jpg?w=1200&h=-1&s=1" alt=""/>
+
+            <p>The ruins of Takwa are located on the south eastern corner of Manda Island Lamu District in Coast province. A 30 minute boat ride from Lamu Town.
+Takwa ruins are the remains of a thriving 15th and 16th century Swahili trading town before it was abandoned in the seventeenth century. It is not only important because of its period of occupation but also because of its dense settlement and its relatively well preserved remains. The unique Friday Mosque with a large pillar a top the qibla wall is among the most notable features. This pillar is believed to symbolize the burial of a Sheikh be low the wall.
+
+The position of the site at the narrowest location on the whole island, was most probably a strategy. Takwa’s position/location with shallow waters must have been of considerable importance especially during its peak, when many of the sails that came into view were likely to be hostile.Therefore access to the site must have been primarily from the shallow channel which could only admit vessels of shallow draft.
+
+Takwa eventual abandonment in the 17th century was due to salination of the once fresh water and endless fighting between Takwa and Pate people. These ruins were gazetted as a National Monument in 1982 in Gazette notice No. 1514. At present, Takwa is open daily to the Public. It is a very pleasant place for a casual visit, which can be complimented by a picnic and overnight camping.</p>
+    </div>    
          );
 }
  
