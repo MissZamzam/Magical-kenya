@@ -25,11 +25,11 @@ const Parks = () => {
      
         <h1>Lake Bogoria</h1>
         <img id="img2" src="https://brilliant-africa.imgix.net/africa-safari-lake-natron-2.jpg?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=1200&h=0&q=30" alt=""/>
-         <p> Lake Bogoria, lying slightly north of the equator, is a saline-alkaline lake. It is situated amidst a half-barren land in a volcanic region to the southern part of Lake Baringo. The world’s largest population of the famous lesser flamingos can be spotted in Lake Bogoria just like in Lake Nakuru. This lake falls under the Ramsar treaty and within the lake lies, the protected National Reserve named the Lake Bogoria National Reserve.
-             The drainage basin of the lake covers an area of 700 sq. km. The National Reserve within the lake, houses features like the Swamp Kesubo in the North and the Siracho Escarpment in the east. Hot springs and geysers are also popular attractions within the lake.
-             The main attraction of the lake is flamingos and eyewitness spooky evidence of the ongoing tumult beneath Earth’s surface. In the early morning, the steam coming from Brogoria’sGeysar forms a mistry. A rare animal greater kudu is also found in Bogoria. It has wide ears, vertical white striped body, and a tell-tale white chevron between the eyes. It can be easily identified by its large spiral horns. The lake can also offer you to see Grant’s gazelle, Kirk’s dik-dik, baboon, buffaloes, etc.
-             The lake is highly alkaline and twice as salty as seawater, it can’t support fish however it contains an unusual array of microbes and microorganisms from which enzymes are being produced. The enzymes can be used as antibiotics, cleaning products.
-             Bogoria has spiritual and cultural worth for Endorosis people, who are living beside Bogoria Lake for centuries. </p>
+         <p>Lake Bogoria, lying slightly north of the equator, is a saline-alkaline lake. It is situated amidst a half-barren land in a volcanic region to the southern part of Lake Baringo. The world’s largest population of the famous lesser flamingos can be spotted in Lake Bogoria just like in Lake Nakuru. This lake falls under the Ramsar treaty and within the lake lies, the protected National Reserve named the Lake Bogoria National Reserve.
+            The drainage basin of the lake covers an area of 700 sq. km. The National Reserve within the lake, houses features like the Swamp Kesubo in the North and the Siracho Escarpment in the east. Hot springs and geysers are also popular attractions within the lake.
+            The main attraction of the lake is flamingos and eyewitness spooky evidence of the ongoing tumult beneath Earth’s surface. In the early morning, the steam coming from Brogoria’sGeysar forms a mistry. A rare animal greater kudu is also found in Bogoria. It has wide ears, vertical white striped body, and a tell-tale white chevron between the eyes. It can be easily identified by its large spiral horns. The lake can also offer you to see Grant’s gazelle, Kirk’s dik-dik, baboon, buffaloes, etc.
+            The lake is highly alkaline and twice as salty as seawater, it can’t support fish however it contains an unusual array of microbes and microorganisms from which enzymes are being produced. The enzymes can be used as antibiotics, cleaning products.
+            Bogoria has spiritual and cultural worth for Endorosis people, who are living beside Bogoria Lake for centuries. </p>
         
         <h1>Lake Naivasha</h1>
         <img id="img1" src="https://www.wildlifekenyasafari.com/wp-content/uploads/2022/05/3-Days-Lake-Naivasha-and-Lake-Nakuru-1.jpg" alt="" />
@@ -89,7 +89,7 @@ const Parks = () => {
            Named for a great gash in its sheer red cliffs and its steamy geothermal billows, Hell’s Gate features three geothermal stations, the first in Africa. Lying beneath Hell’s Gate, the plants generate power from the constant energy flowing off the hot springs and geysers.
            With its three campsites, camping is safe and encouraged as is bicycling and even motorcycling. There are also plenty of opportunities for climbers along the sandstone gorges and volcanic towers.
            And being just a short drive from Nairobi, Hell’s Gate is an ideal day trip for hiking, game viewing, enjoying the hot springs and even visiting its health spa.
-          After a vigorous morning of hiking or biking you can take a lunch break here at a neighboring restaurant and enjoy the local Kenyan cuisine. And trips to nearby Crescent Island Preserve and Lakes Naivasha and Nakuru are easily arranged.</p>
+           After a vigorous morning of hiking or biking you can take a lunch break here at a neighboring restaurant and enjoy the local Kenyan cuisine. And trips to nearby Crescent Island Preserve and Lakes Naivasha and Nakuru are easily arranged.</p>
         
         <h1>Shimba Hills National Reserve</h1>
         <img id="img1" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/53/db/1a/caption.jpg?w=400&h=400&s=1" alt="" />
@@ -119,28 +119,18 @@ const Parks = () => {
         
         <h1>Lake Nakuru National Park</h1>
         <img id="img2" src="https://brilliant-africa.imgix.net/lake-nakuru-flamingos.jpg?auto=format,enhance,compress&fit=crop&crop=entropy,faces,focalpoint&w=1200&h=0&q=30" alt="" />
-        <p>  Lake Nakuru National Park is located in the southwestern part of Kenya, northwest of Nairobi.    The national park encompasses an area of 73 square miles (188 sq km).  It is a UNESCO World Heritage Site celebrating the flamingos and abundant wildlife.
-
-        Lake Nakuru is the foundation of the park serving as a wildlife haven.  The maximum depth is only 6 feet (1.8 m) with an average depth of 1 foot (.30 m) making it easy for animals to access.  It is one of the Rift Valley lakes sitting at an elevation of 5,755 feet (1,754 m) above sea level.
-
-        Nakuru is an alkaline lake, which is what further draws birds and wildlife to its shores. The national park and lake are most renowned for the tens of thousands of flamingos which can reach over a million at their peak.  The best place to view the view flamingos is from Baboon Cliff.
-
-        The serene landscapes of the area include grasslands, marsh, outcrops, rocky cliffs, and sedge.  Yellow-barked acacia trees add to the traditional African wilderness experience.
-
-        An area around 116 miles (188 km) has been fenced to create a protected area for both black and white rhinoceroses as well as giraffes.  The park features about 70 white rhinos and another 25 eastern black rhinos.  It is one of the largest collections of rhinos throughout Kenya.
-
-        Wildlife is bountiful with a populous predator presence to reflect the abundance of prey.  Predator species include lion, cheetah, leopard, and hyenas.  Large pythons might be found as well.  Giraffe and the two species of rhino are mammalian highlights however there are several other species.  The waterbuck is more common than in other parks.
-
-        There is a small number of hippo that can be found along the reeds of the lake.  Along with the waterbuck, visitors might also see Reedbuck and Bushbuck.
-
-        Birdwatchers can hope to see African fish eagle, Verreaux’s eagle, Goliath heron, kingfisher, and of course an abundance of flamingos.  It is a spectacular place for birdwatching with over 400 species.   There are over a dozen different predator bird species. The flamingo population has earned the lake and national park the slogan, “the greatest bird spectacle on earth.”
-
-        The shallow lake is rich in algae and according attracts the flamingos who eat around 551,155 pounds (250,000 kg) of algae per acre a year.
-
-        Lake Nakuru National Park is only 102 miles (164 km) away from Nairobi making it easy to make a day trip out of the city to experience this amazing encounter with wildlife.
-                </p>
-                </div>     
-
+        <p> Lake Nakuru National Park is located in the southwestern part of Kenya, northwest of Nairobi.    The national park encompasses an area of 73 square miles (188 sq km).  It is a UNESCO World Heritage Site celebrating the flamingos and abundant wildlife.
+            Lake Nakuru is the foundation of the park serving as a wildlife haven.  The maximum depth is only 6 feet (1.8 m) with an average depth of 1 foot (.30 m) making it easy for animals to access.  It is one of the Rift Valley lakes sitting at an elevation of 5,755 feet (1,754 m) above sea level.
+            Nakuru is an alkaline lake, which is what further draws birds and wildlife to its shores. The national park and lake are most renowned for the tens of thousands of flamingos which can reach over a million at their peak.  The best place to view the view flamingos is from Baboon Cliff.
+            The serene landscapes of the area include grasslands, marsh, outcrops, rocky cliffs, and sedge.  Yellow-barked acacia trees add to the traditional African wilderness experience.
+            An area around 116 miles (188 km) has been fenced to create a protected area for both black and white rhinoceroses as well as giraffes.  The park features about 70 white rhinos and another 25 eastern black rhinos.  It is one of the largest collections of rhinos throughout Kenya.
+            Wildlife is bountiful with a populous predator presence to reflect the abundance of prey.  Predator species include lion, cheetah, leopard, and hyenas.  Large pythons might be found as well.  Giraffe and the two species of rhino are mammalian highlights however there are several other species.  The waterbuck is more common than in other parks.
+            There is a small number of hippo that can be found along the reeds of the lake.  Along with the waterbuck, visitors might also see Reedbuck and Bushbuck.
+            Birdwatchers can hope to see African fish eagle, Verreaux’s eagle, Goliath heron, kingfisher, and of course an abundance of flamingos.  It is a spectacular place for birdwatching with over 400 species.   There are over a dozen different predator bird species. The flamingo population has earned the lake and national park the slogan, “the greatest bird spectacle on earth.”
+            The shallow lake is rich in algae and according attracts the flamingos who eat around 551,155 pounds (250,000 kg) of algae per acre a year.
+            Lake Nakuru National Park is only 102 miles (164 km) away from Nairobi making it easy to make a day trip out of the city to experience this amazing encounter with wildlife. </p>
+               
+         </div>     
     </div>
          );
 }
