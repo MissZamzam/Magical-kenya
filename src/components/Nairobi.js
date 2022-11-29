@@ -94,6 +94,3 @@ const Wildlife = () => {
 }
  
 export default Wildlife;
-{/* <button  className='card-btn'>
-Visit <span>&rarr;</span>
-</button> */}
