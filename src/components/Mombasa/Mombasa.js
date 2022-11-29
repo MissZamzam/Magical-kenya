@@ -21,7 +21,7 @@ const Mombasa = () => {
             Currently, the Fort is also used to show case art exhibitions for upcoming artists enabling them to meet their prospective clients who tour the Fort. A sound and light show is organized weekly, which tells an animated story of the fort to both local and international tourists. The site is located in Mombasa Island which is in the coast of Kenya</p>        
         
         <h1>Haller Park</h1>
-        <img id="img2" src="https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.0,f_auto,fl_progressive.strip_profile,g_center,h_460,q_auto,w_800/v1/filestore/ozzo3zikzr58gjlnbrtdkogz4dwu_1481609152_mmp2.jpg" alt=""/>
+        <img id="img2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvamHBHll8GfLnPidmvO_quINuNYS1pE7R_A&usqp=CAU" alt="" />
         <p>The Bamburi Portland Cement Company opened a limestone quarry just outside Mombasa in 1954. By 1971, the quarry had left an ugly gaping hole on the scenery of Mombasa, which concerned the management of the company. They decided then to try an experiment to reclaim the land and restore it back into an ecological wilderness. In 1983, the now commercially exhausted quarry, still left a scar on the landscape and the experiment continued.
 
             Findings found that the coastal limestone quarry, formed by ancient corals, is not a good substrate for growing new plants. Another problem encountered, was the water table. Being coastal, the water table is tidal, making the water very brackish. Finding plants that can survive poor soil and salty water was a challenge. Dr Haller, after spending many hours on the dusty floor of the quarry, found only a few ferns growing there.
@@ -45,7 +45,8 @@ const Mombasa = () => {
             The termite’s task is comparable to the one of millipedes but they have an important advantage by mixing the soil substrate too.</p>
         
         <h1>Mombasa Marine National Park</h1>
-        <img id="img1" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
+        <img id="img1" src="https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.0,f_auto,fl_progressive.strip_profile,g_center,h_460,q_auto,w_800/v1/filestore/ozzo3zikzr58gjlnbrtdkogz4dwu_1481609152_mmp2.jpg" alt=""/>
+
         <p>Mombasa Marine National Park and Reserve is one of the most beautiful marine parks in Kenya. The park is filled with coral reefs though covering only 10 kilometers squared. Characterized by sandy beaches, palm trees, azure ocean and many more, the national reserve is covering around 200 kilometers.
 
         
@@ -187,10 +188,6 @@ const Mombasa = () => {
 
         There are also many luxury hotels on almost all of the seaside like Nyali beach Resort, Voyager Hotel, Reef Hotel, Mombasa Beach Hotel, the beach also has numerous places of entertainment and activities for tourists such as beach volley, windsurfing, scuba diving, kite surf and a lot more.</p>
       
-        <h1>Bamburi Beach</h1>
-        <img id="img1" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium expedita facere doloribus sint illo, minus, explicabo eius quam eaque eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam odio eaque architecto corrupti sapiente consectetur laborum possimus culpa voluptate. Iure in placeat voluptate nihil quam voluptatem asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae. Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt animi aliquam? Atque ut expedita iure culpa explicabo cupiditate laborum reiciendis doloribus repellat recusandae. At sunt, iusto consequatur cumque veritatis debitis alias incidunt esse? Labore asperiores alias deleniti consequatur dolores quidem sit accusantium nemo earum minus non reprehenderit, necessitatibus nam. Enim, aspernatur, veritatis sunt quia expedita assumenda vitae pariatur itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur perferendis placeat quis earum, officiis repellat, fugit reprehenderit aut iusto minus nemo quas sed quia quae dolore neque cupiditate, expedita distinctio. Asperiores obcaecati, quidem facilis beatae accusamus aliquid enim veritatis harum, tempore autem magni sint modi voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad vero quos in ex, id doloribus labore totam cupiditate alias. Magnam minima nemo deleniti provident iure dolorem ipsa maxime architecto. Consequatur distinctio, illum fugiat suscipit repellendus exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat officiis nostrum velit.</p>
-        
         <h1>Jumba la Mtwana</h1>
         <img id="img2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jumba_la_Mtwana-mosque_on_the_beach.jpg/1280px-Jumba_la_Mtwana-mosque_on_the_beach.jpg" alt=""/>
         <p>The full name Jumba la Mtwana means in Swahili “the large house of the slave”. Within this area four mosques, a tomb and four houses have survived in recognizable condition. These houses include the House of the Cylinder, The House of the Kitchen, The House of the Many Pools, which had three phases, and the Great Mosque. The inhabitants of this town were mainly Muslims as evidenced by a number of ruined mosques.
@@ -204,7 +201,7 @@ const Mombasa = () => {
             Clearance and excavation of the ruins were first carried out in 1972 by James Kirkman with a view of dating the buildings, its period of occupation and consolidating buildings which were in danger of collapse. Ten years later Jumba la Mtwana was gazetted on 04/06/82 Gazette Notice Number 1515 as a National Monument.</p>
         
         <h1>Nguuni Nature Sanctuary</h1>
-        <img id="img1" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
+        <img id="img1" src="https://pbs.twimg.com/media/Fb-HfyuWQAAzMyC.jpg" alt="" />
         <p>Ever visited Nguu Tatu hill near Mombasa Kenya?One of the best attractions of mombasa area is a visit to Nguuni Nature Sanctuary. “What a fantastic place for a party, celebration or even just a barbeque?”
 
 A great place for having a cold drink as you light a campfire, tucked away in the bush while watching the sunset and only had to drive a few miles from Bamburi to enjoy this!
@@ -234,7 +231,7 @@ You can book one of the big fixed tables for 2,000 shillings, then its 300 shill
             The Murtis’ of Shree Sahajanand Swami, Harikrishna Radhakrishna and NarNarayan Dev were prepared in Bhuj. The Murtis’ arrived at Mombasa port on 19th November 1959. The Murtis’ were installed on 1st February 1960 after a Bhagvad Parayan, Vishnu Yag done by Shuklaji Jayashankar. The Provincial commissioner did the official opening of the temple building on 30th January 1960. Shree Laxmidas Madwani of Kenya sugarcanes did the flag hosting ceremony on 1st February 1960.</p>
       
         <h1>Mamba Village Centre</h1>
-        <img id="img2" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt=""/>
+        <img id="img2" src="https://uzamart.com/wp-content/uploads/2021/01/mamba-1.jpg" alt=""/>
         <p>Mamba Village, East Africa's largest crocodile farm, is a "must see" during your exploratory beach vacation in Mombasa if you have not seen any crocodiles on safari. Each section of the estate offers a unique experience, and the most popular is the crocodile farm where these aquatic reptiles are displayed.
 
             Your tour of the farm begins with a video presentation that introduces you to many reptile species and the valuable roles they play in the ecosystems of the world and the fascinating facts, such as the longevity of the species on earth, bite force and average life span, will give you a greater appreciation for these prehistoric animals.
@@ -244,18 +241,13 @@ You can book one of the big fixed tables for 2,000 shillings, then its 300 shill
             While the crocodile farm is the most popular area of the village, AfricanMecca guests may also enjoy horseback riding on its small estate and beginners can even take lessons, or you may prefer the more outlandish camel riding. Should you have time, take a leisurely walk through the botanical gardens before enjoying a meal at the village restaurant that features a range of game meats, such as crocodile, zebra, ostrich and many other choices.
 </p>
         <h1>Wild Waters</h1>
-        <img id="img1" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
+        <img id="img1" src="https://www.wildwaterskenya.com/img/bannerbg0.jpg" alt="" />
         <p>Wild Waters Mombasa is a water park in Nyali, Mombasa. That introduction, however, does not do Kenya’s largest water park justice. The water park is a family-themed, fun-filled, adrenalin rush, all-you-can-do-with-water kind of place. While everyone else is heading down to the beach to have a one-foot wave meekly splash against their feet, the real water action is taking place at Wild Waters Mombasa.
 
             This one of a kind water park in Kenya is located in Nyali along Links Road. It is adjacent to Mamba Village across from Nyali Golf Club. You can’t miss it. Except maybe on Mondays when it is usually closed. Maybe then you can actually enjoy a relaxing day in any one of Mombasa’s best beach resorts.
 
             Let’s Slide Into It
             Wild Waters Mombasa’s highlight feature is its slides. The slides come in various styles all guaranteed to have your heart racing as you speed down faster than the legal speed limit in Kenya – a bit of an exaggeration there – all to end up in a big splash down at the pool.
-
-
-
-
-
             Multine and Harakiri
             For those of you who may know a thing or two about Japanese Samurai culture, Harakiri was the act by a Samurai of committing suicide by disembowelment rather than surrender or be caught by the enemy. It was considered a dignified way to die rather than suffer the humiliation of being caught by the enemy. Now, why the good people at Wild Waters Mombasa decided to name one of their slides that is anyone’s guess. However, Multine and Harakiri are four slides joined next to each other and are quite popular with families or groups. Usually, the point is four individuals to take their marks at the top of the slide, sliding mats in hand, and race down the wet slides and skim across the water surface on the pool below. It’s just a lot of fun.
 
@@ -279,10 +271,29 @@ You can book one of the big fixed tables for 2,000 shillings, then its 300 shill
 
             Kids Pool
             5 pools, smaller slides, and a castle comprise the kids’ pool area. Kids can have their own fun in a safe area with reasonable depths of water.</p>
-        <h1> Ruins</h1>
-        <img id="img2" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt=""/>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium expedita facere doloribus sint illo, minus, explicabo eius quam eaque eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam odio eaque architecto corrupti sapiente consectetur laborum possimus culpa voluptate. Iure in placeat voluptate nihil quam voluptatem asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae. Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt animi aliquam? Atque ut expedita iure culpa explicabo cupiditate laborum reiciendis doloribus repellat recusandae. At sunt, iusto consequatur cumque veritatis debitis alias incidunt esse? Labore asperiores alias deleniti consequatur dolores quidem sit accusantium nemo earum minus non reprehenderit, necessitatibus nam. Enim, aspernatur, veritatis sunt quia expedita assumenda vitae pariatur itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur perferendis placeat quis earum, officiis repellat, fugit reprehenderit aut iusto minus nemo quas sed quia quae dolore neque cupiditate, expedita distinctio. Asperiores obcaecati, quidem facilis beatae accusamus aliquid enim veritatis harum, tempore autem magni sint modi voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad vero quos in ex, id doloribus labore totam cupiditate alias. Magnam minima nemo deleniti provident iure dolorem ipsa maxime architecto. Consequatur distinctio, illum fugiat suscipit repellendus exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat officiis nostrum velit.</p>
-    
+     
+        <h1>Mama Ngina Waterfront</h1>
+        <img id="img2" src="https://constructionreviewonline.com/wp-content/uploads/2020/01/Mama-Ngina-waterfront-park-696x391.jpeg?ezimgfmt=ngcb11/notWebP" alt=""/>
+        <p>Kenya officially opened Mama Ngina Waterfront Park that was redeveloped at US $4.6m. The seaside public park was reopened to the public on 20th October 2019 for the Mashujaa Day fete.
+
+            The 26-acre park that overlooks the Kilindini Channel in Mombasa County has been transformed into an integrated urban tourist attraction site. The refurbishment included landscaping and paving the waterfront with concrete blocks, construction of an amphitheatre, the Kilindini Cultural Centre, ablution blocks and two main gates.
+
+            The park is the first public landscaped waterfront in the country. The government however has has plans to redevelop the Jomo Kenyatta public beach in northern mainland of Mombasa, the Malindi waterfront, and others in Naivasha and Kisumu on lakes Naivasha and Victoria respectively.
+
+            New features
+            Mama Ngina park has always been a place for leisure resting, walking, jogging and riding. It is famous for its fried cassava and all manner of fried potatoes and pastries. The project was designed to support a 24-hour economy and its layout includes a new jetty for water taxis.
+
+            The waterfront now features a palm tree-lined walkway from the Likoni Ferry Crossing to its south through to the Mombasa Golf Club to the north. These two points are the entry and exit points both ways, and are now marked by huge monumental gates.
+
+            The waterfront park also has a sun-drenched 2.1km long promenade and a space for food vendors. The sitting area now a properly built amphitheatre, has more greenery with newly planted palm trees and grass where visitors can while away time.
+
+
+            The walkway has rail guards separating it from the cliff-face, just above the pounding waves crashing onto the rocks below making it a safe, family-friendly place. For years, this park has housed the famous Florida Nightclub & Casino and Galaxy Chinese Restaurant on the northern edge. These have been incorporated into the cultural vista of the new look park.
+
+            The amphitheatre’s design was derailed from the ancient Rome. It has a seating capacity of 3,000 people who will comfortably enjoy live cultural events and performances. The original parking squares have been retained next to the walkway to ensure orderliness. Being open 24-hours a day, the park is well lit with strategically placed security lighting, a police post and public toilets.
+
+            The redevelopment was undertaken by a local company, Suhufi Agencies. According to President Uhuru Kenyatta, the park is expected to restore the glory of Mombasa as a top tourist destination in the region.</p>
+        
         <h1>Gedi Ruins</h1>
         <img id="img1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Great_Mosque_of_Gede.jpg/1280px-Great_Mosque_of_Gede.jpg" alt="" />
         <p>Gedi lies on the coastal region of Kenya, 94 km north of Mombasa town, another historic town. Gedi was a small town built entirely from rocks and stones, which was inhabited by Swahili people of East Africa. This historic town date back from the 15th century, and through careful preservation most of the original foundations can still be seen today. In 1927, the Gedi historic town, which occupy an area of 44 hectares of land, were declared a historic monument and much excavation and preservation work carried out such that large areas of this ancient town are now revealed, including the pillar tombs, the palace and a great mosque.
@@ -326,28 +337,35 @@ You can book one of the big fixed tables for 2,000 shillings, then its 300 shill
 
         After touring the grounds, stop by the restaurant to sample Kenyan-inspired cuisine.
 
-        Address: Workshop Road, Bombolulu
+        Address: Workshop Road, Bombolulu.
+        Bombolulu Workshops and Cultural Centre is a programme of The Association for the Physically Disabled of Kenya.
+
+        I took a group of British students to this charity run establishment and found it a very worthwhile experience. We were greeted by clapping and dancing ‘tribes’ who encourage you to do the same as you enter.
+
+        We had a fabulous local lunch in the large thatched hut, local tea then more local dancing.
+
+        We then had a rather sobering (but interesting) tour of the workshops where people with disabilities were busy making their produce which you could later buy in the large shop. Employing the disabled and providing housing is essential here as the disabled are considered cursed and are often shunned or hidden away by their families, and, of course, treatment is not widely available. I did find the nursery rather upsetting.
+
+        Then you can wander and experience the local ways of life which are recreated and explained.
+
+        All students (and teachers alike) found it a very interesting visit; it certainly provided an insight into the local life culture of disadvantaged Kenyans.
 
 </p>
-        <h1>Jumba la Mtwana</h1>
-        <img id="img1" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium expedita facere doloribus sint illo, minus, explicabo eius quam eaque eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam odio eaque architecto corrupti sapiente consectetur laborum possimus culpa voluptate. Iure in placeat voluptate nihil quam voluptatem asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae. Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt animi aliquam? Atque ut expedita iure culpa explicabo cupiditate laborum reiciendis doloribus repellat recusandae. At sunt, iusto consequatur cumque veritatis debitis alias incidunt esse? Labore asperiores alias deleniti consequatur dolores quidem sit accusantium nemo earum minus non reprehenderit, necessitatibus nam. Enim, aspernatur, veritatis sunt quia expedita assumenda vitae pariatur itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur perferendis placeat quis earum, officiis repellat, fugit reprehenderit aut iusto minus nemo quas sed quia quae dolore neque cupiditate, expedita distinctio. Asperiores obcaecati, quidem facilis beatae accusamus aliquid enim veritatis harum, tempore autem magni sint modi voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad vero quos in ex, id doloribus labore totam cupiditate alias. Magnam minima nemo deleniti provident iure dolorem ipsa maxime architecto. Consequatur distinctio, illum fugiat suscipit repellendus exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat officiis nostrum velit.</p>
-        <img id="img2" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt=""/>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium expedita facere doloribus sint illo, minus, explicabo eius quam eaque eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam odio eaque architecto corrupti sapiente consectetur laborum possimus culpa voluptate. Iure in placeat voluptate nihil quam voluptatem asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae. Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt animi aliquam? Atque ut expedita iure culpa explicabo cupiditate laborum reiciendis doloribus repellat recusandae. At sunt, iusto consequatur cumque veritatis debitis alias incidunt esse? Labore asperiores alias deleniti consequatur dolores quidem sit accusantium nemo earum minus non reprehenderit, necessitatibus nam. Enim, aspernatur, veritatis sunt quia expedita assumenda vitae pariatur itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur perferendis placeat quis earum, officiis repellat, fugit reprehenderit aut iusto minus nemo quas sed quia quae dolore neque cupiditate, expedita distinctio. Asperiores obcaecati, quidem facilis beatae accusamus aliquid enim veritatis harum, tempore autem magni sint modi voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad vero quos in ex, id doloribus labore totam cupiditate alias. Magnam minima nemo deleniti provident iure dolorem ipsa maxime architecto. Consequatur distinctio, illum fugiat suscipit repellendus exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat officiis nostrum velit.</p>
-    
-        <h1>Wrap Around</h1>
-        <img id="img1" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium expedita facere doloribus sint illo, minus, explicabo eius quam eaque eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam odio eaque architecto corrupti sapiente consectetur laborum possimus culpa voluptate. Iure in placeat voluptate nihil quam voluptatem asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae. Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt animi aliquam? Atque ut expedita iure culpa explicabo cupiditate laborum reiciendis doloribus repellat recusandae. At sunt, iusto consequatur cumque veritatis debitis alias incidunt esse? Labore asperiores alias deleniti consequatur dolores quidem sit accusantium nemo earum minus non reprehenderit, necessitatibus nam. Enim, aspernatur, veritatis sunt quia expedita assumenda vitae pariatur itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur perferendis placeat quis earum, officiis repellat, fugit reprehenderit aut iusto minus nemo quas sed quia quae dolore neque cupiditate, expedita distinctio. Asperiores obcaecati, quidem facilis beatae accusamus aliquid enim veritatis harum, tempore autem magni sint modi voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad vero quos in ex, id doloribus labore totam cupiditate alias. Magnam minima nemo deleniti provident iure dolorem ipsa maxime architecto. Consequatur distinctio, illum fugiat suscipit repellendus exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat officiis nostrum velit.</p>
-        <h1>Wrap Text Around Image</h1>
+        <h1>Likoni Floating Bridge</h1>
+        <img id="img1" src="https://www.kenyans.co.ke/files/styles/article_style/public/images/media/An%20artists%20impression%20of%20a%20floating%20bridge..jpg?itok=OGYe5gNX" alt="" />
+        <p>Kenya has recently launched a 1.2-kilometer floating bridge across the Likoni Channel, which serves as a gateway for Mombasa Port. Ferries are currently used to transport people and vehicles across the channel, but due to increased demand as the population of the city grows, the viability of the ferry service has become limited.
 
-        <img id="img2" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt=""/>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium expedita facere doloribus sint illo, minus, explicabo eius quam eaque eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam odio eaque architecto corrupti sapiente consectetur laborum possimus culpa voluptate. Iure in placeat voluptate nihil quam voluptatem asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae. Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt animi aliquam? Atque ut expedita iure culpa explicabo cupiditate laborum reiciendis doloribus repellat recusandae. At sunt, iusto consequatur cumque veritatis debitis alias incidunt esse? Labore asperiores alias deleniti consequatur dolores quidem sit accusantium nemo earum minus non reprehenderit, necessitatibus nam. Enim, aspernatur, veritatis sunt quia expedita assumenda vitae pariatur itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur perferendis placeat quis earum, officiis repellat, fugit reprehenderit aut iusto minus nemo quas sed quia quae dolore neque cupiditate, expedita distinctio. Asperiores obcaecati, quidem facilis beatae accusamus aliquid enim veritatis harum, tempore autem magni sint modi voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad vero quos in ex, id doloribus labore totam cupiditate alias. Magnam minima nemo deleniti provident iure dolorem ipsa maxime architecto. Consequatur distinctio, illum fugiat suscipit repellendus exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat officiis nostrum velit.</p>
-     <h1>Wrap </h1>
-        <img id="img1" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt="" />
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium expedita facere doloribus sint illo, minus, explicabo eius quam eaque eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam odio eaque architecto corrupti sapiente consectetur laborum possimus culpa voluptate. Iure in placeat voluptate nihil quam voluptatem asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae. Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt animi aliquam? Atque ut expedita iure culpa explicabo cupiditate laborum reiciendis doloribus repellat recusandae. At sunt, iusto consequatur cumque veritatis debitis alias incidunt esse? Labore asperiores alias deleniti consequatur dolores quidem sit accusantium nemo earum minus non reprehenderit, necessitatibus nam. Enim, aspernatur, veritatis sunt quia expedita assumenda vitae pariatur itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur perferendis placeat quis earum, officiis repellat, fugit reprehenderit aut iusto minus nemo quas sed quia quae dolore neque cupiditate, expedita distinctio. Asperiores obcaecati, quidem facilis beatae accusamus aliquid enim veritatis harum, tempore autem magni sint modi voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad vero quos in ex, id doloribus labore totam cupiditate alias. Magnam minima nemo deleniti provident iure dolorem ipsa maxime architecto. Consequatur distinctio, illum fugiat suscipit repellendus exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat officiis nostrum velit.</p>
-        <img id="img2" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt=""/>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium expedita facere doloribus sint illo, minus, explicabo eius quam eaque eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam odio eaque architecto corrupti sapiente consectetur laborum possimus culpa voluptate. Iure in placeat voluptate nihil quam voluptatem asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae. Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt animi aliquam? Atque ut expedita iure culpa explicabo cupiditate laborum reiciendis doloribus repellat recusandae. At sunt, iusto consequatur cumque veritatis debitis alias incidunt esse? Labore asperiores alias deleniti consequatur dolores quidem sit accusantium nemo earum minus non reprehenderit, necessitatibus nam. Enim, aspernatur, veritatis sunt quia expedita assumenda vitae pariatur itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur perferendis placeat quis earum, officiis repellat, fugit reprehenderit aut iusto minus nemo quas sed quia quae dolore neque cupiditate, expedita distinctio. Asperiores obcaecati, quidem facilis beatae accusamus aliquid enim veritatis harum, tempore autem magni sint modi voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad vero quos in ex, id doloribus labore totam cupiditate alias. Magnam minima nemo deleniti provident iure dolorem ipsa maxime architecto. Consequatur distinctio, illum fugiat suscipit repellendus exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat officiis nostrum velit.</p>
-    
+        It is estimated that about 300,000 pedestrians and 6,000 vehicles cross the channel daily, causing immense congestion during peak demand hours.
+
+        The new floating pedestrian bridge will help alleviate this pressure, and it is expected to be operational beginning on January 1. The $17 million bridge was built by China Road and Bridge Corporation (CRBC), and it is of Bailey type, made of lattice steel designed from prefabricated parts. It has a six meter wide bridge deck and 715 meter long floating section. In the middle, it has a 150 meter swing opening to allow the passage of ships calling at Mombasa Port to transit through the channel.
+
+        The bridge will be operated by Kenya Ports Authority, whose tag boats will be deployed to open and close the movable part one hour before a ship passes. This will also provide sufficient time for withdrawing undersea gravity anchors.
+
+        Although the bridge can last for over 50 years, it will be used temporarily as a way to address social distancing at the channel due to passengers’ overcrowding. It will be dismantled once the permanent Mombasa Gate Bridge project is completed, which is currently at design stage and estimated to cost $1.8 billion.
+
+        Brian Gicheru Kinyua is a freelance writer based in Mombasa City, Kenya where he researches and writes on logistics and the African Blue Economy. His primary focus is on shipping and ports development in Sub-Saharan Africa and how it fits into the global maritime order. He also provides consulting services in communications and public relations. </p>
+       
+       
     </div>
     </div>     
 
