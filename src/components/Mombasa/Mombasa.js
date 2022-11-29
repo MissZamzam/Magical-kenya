@@ -161,65 +161,40 @@ const Mombasa = () => {
            There is a dated coral tomb with beautiful Arabic script engraved with the date 1399. From the dated tomb, one can see the Great Mosque. A spectacular 50m deep well, known as the "Well of the Great Mosque" which must have been used for ablutions is still discernible. On the other side of the mosque stands the Octagonal pillar tomb of the Imam or priest. Further into the forest, one can see the 15th century palace where the king held court and addressed women with marital problems. Chambers which had no windows or doors are believed to have been used by the noblemen to store their gold and jewels. The only way to gain entrance was through a secret door from the roof.
            Over the historic town, the shallow coral rag soil has grown a lowland semi-deciduous forest, maintained by a rainfall of around 1,100 mm/year. The 44 hectares site, surrounded by farmland, is entirely fenced, and contains around 35 hectares of coastal forest, traversed by narrow paths that wind between the excavated buildings. At least 50 indigenous tree species occur, including Gyrocarpus americanus and Sterculia appendiculata.
            It is not quite clear why the town was eventually deserted. Several theories have been put across:
-
-            1. One of the theories is that it was overcome by an army from Mombasa on its way to attack Malindi around 1530 AD.
-
-            2. Another theory suggests that the Galla people who were raiding southwards around 1600 AD made life unbearable.
-
-            3. It is also theorized that lack of water (drying of the wells) except the one which was outside the walls contributed to its abandonment.
-
-            Whatever theory is true, one thing is clear, the nobles did not flee; they had time to empty their gold and precious stones in their secret vaults since none of this type of wealth has ever been found.
-
-            Justification of Outstanding Universal Value
-            (ii), (iv): The historic town presents us with evidence of the development of an architectural complex consisting of mosques, palaces, and living quarters that were protected with two stone walls around it making it a unique landscape at this period in history.
-
-            (iii): The historic town is an outstanding testimony to the social and economic structure of the inhabitants of Gedi around the 13th century AD. Gedi was one of the most prosperous Swahili city states before its decline in the 18th Century.
-
-            Statements of authenticity and/or integrity
-            Gedi historic town is a gazetted National Monument since 1927; it is managed by the National Museums of Kenya. This was the first site to be excavated in East Africa and has remained the most intact of the preserved Swahili historic towns. It has been published extensively compared to other sites.
-
-            Comparison with other similar properties
-            The history of the rise and fall of Gedi is intricately linked to what was happening to the other Swahili states along the eastern coast of Africa such as Kilwa. While they share this history, its architectural designs are equivalent to those of the historic cities of Kilwa Kisiwani and Songo Mnara in Tanzania.</p>
+           1. One of the theories is that it was overcome by an army from Mombasa on its way to attack Malindi around 1530 AD.
+           2. Another theory suggests that the Galla people who were raiding southwards around 1600 AD made life unbearable.
+           3. It is also theorized that lack of water (drying of the wells) except the one which was outside the walls contributed to its abandonment.
+           Whatever theory is true, one thing is clear, the nobles did not flee; they had time to empty their gold and precious stones in their secret vaults since none of this type of wealth has ever been found.
+           Justification of Outstanding Universal Value
+           (ii), (iv): The historic town presents us with evidence of the development of an architectural complex consisting of mosques, palaces, and living quarters that were protected with two stone walls around it making it a unique landscape at this period in history.
+           (iii): The historic town is an outstanding testimony to the social and economic structure of the inhabitants of Gedi around the 13th century AD. Gedi was one of the most prosperous Swahili city states before its decline in the 18th Century.
+           Statements of authenticity and/or integrity
+           Gedi historic town is a gazetted National Monument since 1927; it is managed by the National Museums of Kenya. This was the first site to be excavated in East Africa and has remained the most intact of the preserved Swahili historic towns. It has been published extensively compared to other sites.
+           Comparison with other similar properties
+           The history of the rise and fall of Gedi is intricately linked to what was happening to the other Swahili states along the eastern coast of Africa such as Kilwa. While they share this history, its architectural designs are equivalent to those of the historic cities of Kilwa Kisiwani and Songo Mnara in Tanzania.</p>
         
         <h1>Bombolulu Workshops and Cultural Centre</h1>
         <img id="img2" src="https://www.planetware.com/photos-large/KEN/kenya-mombasa-bombolulu-workshops-and-cultural-centre.jpg" alt=""/>
         <p>Are you looking for things to buy in Mombasa? At Bombolulu Workshops you can shop and help disabled Kenyans at the same time.
-
-        This non-profit organization is a project of the Association for the Physically Disabled in Kenya, with four sheltered workshops, a cultural center, and restaurant.
-
-        At the cultural center, you can enjoy tribal dance performances and explore traditional homesteads found throughout Kenya.
-
-        If shopping is high on your agenda, you can visit the workshops and purchase handcrafted souvenirs, which include jewelry, textiles, wood carving, and leather crafts. Proceeds help sustain the center's work.
-
-        After touring the grounds, stop by the restaurant to sample Kenyan-inspired cuisine.
-
-        Address: Workshop Road, Bombolulu.
-        Bombolulu Workshops and Cultural Centre is a programme of The Association for the Physically Disabled of Kenya.
-
-        I took a group of British students to this charity run establishment and found it a very worthwhile experience. We were greeted by clapping and dancing ‘tribes’ who encourage you to do the same as you enter.
-
-        We had a fabulous local lunch in the large thatched hut, local tea then more local dancing.
-
-        We then had a rather sobering (but interesting) tour of the workshops where people with disabilities were busy making their produce which you could later buy in the large shop. Employing the disabled and providing housing is essential here as the disabled are considered cursed and are often shunned or hidden away by their families, and, of course, treatment is not widely available. I did find the nursery rather upsetting.
-
-        Then you can wander and experience the local ways of life which are recreated and explained.
-
-        All students (and teachers alike) found it a very interesting visit; it certainly provided an insight into the local life culture of disadvantaged Kenyans.
-
-</p>
+           This non-profit organization is a project of the Association for the Physically Disabled in Kenya, with four sheltered workshops, a cultural center, and restaurant.
+           At the cultural center, you can enjoy tribal dance performances and explore traditional homesteads found throughout Kenya.
+           If shopping is high on your agenda, you can visit the workshops and purchase handcrafted souvenirs, which include jewelry, textiles, wood carving, and leather crafts. Proceeds help sustain the center's work.
+           After touring the grounds, stop by the restaurant to sample Kenyan-inspired cuisine.
+           Bombolulu Workshops and Cultural Centre is a programme of The Association for the Physically Disabled of Kenya.
+           I took a group of British students to this charity run establishment and found it a very worthwhile experience. We were greeted by clapping and dancing ‘tribes’ who encourage you to do the same as you enter.
+           We had a fabulous local lunch in the large thatched hut, local tea then more local dancing.
+           We then had a rather sobering (but interesting) tour of the workshops where people with disabilities were busy making their produce which you could later buy in the large shop. Employing the disabled and providing housing is essential here as the disabled are considered cursed and are often shunned or hidden away by their families, and, of course, treatment is not widely available. I did find the nursery rather upsetting.
+           Then you can wander and experience the local ways of life which are recreated and explained.
+           All students (and teachers alike) found it a very interesting visit; it certainly provided an insight into the local life culture of disadvantaged Kenyans.</p>
+       
         <h1>Likoni Floating Bridge</h1>
         <img id="img1" src="https://www.kenyans.co.ke/files/styles/article_style/public/images/media/An%20artists%20impression%20of%20a%20floating%20bridge..jpg?itok=OGYe5gNX" alt="" />
         <p>Kenya has recently launched a 1.2-kilometer floating bridge across the Likoni Channel, which serves as a gateway for Mombasa Port. Ferries are currently used to transport people and vehicles across the channel, but due to increased demand as the population of the city grows, the viability of the ferry service has become limited.
-
-        It is estimated that about 300,000 pedestrians and 6,000 vehicles cross the channel daily, causing immense congestion during peak demand hours.
-
-        The new floating pedestrian bridge will help alleviate this pressure, and it is expected to be operational beginning on January 1. The $17 million bridge was built by China Road and Bridge Corporation (CRBC), and it is of Bailey type, made of lattice steel designed from prefabricated parts. It has a six meter wide bridge deck and 715 meter long floating section. In the middle, it has a 150 meter swing opening to allow the passage of ships calling at Mombasa Port to transit through the channel.
-
-        The bridge will be operated by Kenya Ports Authority, whose tag boats will be deployed to open and close the movable part one hour before a ship passes. This will also provide sufficient time for withdrawing undersea gravity anchors.
-
-        Although the bridge can last for over 50 years, it will be used temporarily as a way to address social distancing at the channel due to passengers’ overcrowding. It will be dismantled once the permanent Mombasa Gate Bridge project is completed, which is currently at design stage and estimated to cost $1.8 billion.
-
-        Brian Gicheru Kinyua is a freelance writer based in Mombasa City, Kenya where he researches and writes on logistics and the African Blue Economy. His primary focus is on shipping and ports development in Sub-Saharan Africa and how it fits into the global maritime order. He also provides consulting services in communications and public relations. </p>
+           It is estimated that about 300,000 pedestrians and 6,000 vehicles cross the channel daily, causing immense congestion during peak demand hours.
+           The new floating pedestrian bridge will help alleviate this pressure, and it is expected to be operational beginning on January 1. The $17 million bridge was built by China Road and Bridge Corporation (CRBC), and it is of Bailey type, made of lattice steel designed from prefabricated parts. It has a six meter wide bridge deck and 715 meter long floating section. In the middle, it has a 150 meter swing opening to allow the passage of ships calling at Mombasa Port to transit through the channel.
+           The bridge will be operated by Kenya Ports Authority, whose tag boats will be deployed to open and close the movable part one hour before a ship passes. This will also provide sufficient time for withdrawing undersea gravity anchors.
+           Although the bridge can last for over 50 years, it will be used temporarily as a way to address social distancing at the channel due to passengers’ overcrowding. It will be dismantled once the permanent Mombasa Gate Bridge project is completed, which is currently at design stage and estimated to cost $1.8 billion.
+           Brian Gicheru Kinyua is a freelance writer based in Mombasa City, Kenya where he researches and writes on logistics and the African Blue Economy. His primary focus is on shipping and ports development in Sub-Saharan Africa and how it fits into the global maritime order. He also provides consulting services in communications and public relations. </p>
        
        
     </div>
