@@ -7,129 +7,58 @@ const Mombasa = () => {
         <h1>Mombasa City</h1>
         <hr></hr>
         <br></br>
+
         <h1>Fort Jesus Museum</h1>
         <img id="img1" src="https://www.planetware.com/photos-large/KEN/kenya-mombasa-fort-jesus.jpg" alt="" />
         <p>The Portuguese built Fort Jesus in 1593. The site chosen was a coral ridge at the entrance to the harbor. An Italian Architect and Engineer, Batista Cairato designed the Fort. The earliest known plan of the fort is in a manuscript atlas by Manuel Godinho de Heredia – dated 1610 that shows the original layout of the buildings inside the Fort.
-
             The Portuguese regarded themselves as the representatives of the Christendom rather than of Portugal, and as a result, they sailed under the flag of the order of Christ, Jesus was therefore an obvious name for the new fort. Fort Jesus was built to secure the safety of Portuguese living on the East Coast of Africa. It has had a long history of hostilities of the interested parties that used to live in Mombasa. Perhaps no Fort in Africa has experienced such turbulence as Fort Jesus.
-
             Omani Arabs attacked the fort from 1696 to 1698. The state of the fort can be understood from the plan of Rezende of 1636 and other plans by Don Alvaro Marquis of Cienfuegos and Jose Lopes de Sa – made during the brief reoccupation by the Portuguese in 1728 – 1729. In the Cienfuegos plan, the names of the bastions are changed. Between 1837 and 1895, the Fort was used as barracks for the soldiers. When the British protectorate was proclaimed on 1st July 1895, the Fort was converted into a prison. The huts were removed and cells were built.
-
             On 24th October 1958, Fort Jesus was declared a National Park in the custody of the Trustees of the Kenya National Parks. Excavation was carried out and the fort became a Museum in 1962. The Fort Jesus Museum was built with a grant from the Gulbenkian Foundation. The exhibits consist of findings from archaeological excavations at Fort Jesus, Gede, Manda, Ungwana and other sites. Individuals notably; Mrs. J.C. White, Mr. C.E. Whitton and Mrs. W.S. Marchant donated other objects on display. In 2011, it was declared a World Heritage Site by UNESCO and highlighted as one of the most outstanding and well-preserved examples of 16th-century Portuguese military fortifications.
             Fort Jesus has preserved the same basic shape as when it was built nearly 400 years ago. It bears physical witness, in its structures and subsequent transformations, also to the interchange of cultural values and influences between and among peoples of African, Arab, Turkish, Persian and European origin that fought to gain and maintain their control over this strategic port.
-
             Currently, the Fort is also used to show case art exhibitions for upcoming artists enabling them to meet their prospective clients who tour the Fort. A sound and light show is organized weekly, which tells an animated story of the fort to both local and international tourists. The site is located in Mombasa Island which is in the coast of Kenya</p>        
         
         <h1>Haller Park</h1>
         <img id="img2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvamHBHll8GfLnPidmvO_quINuNYS1pE7R_A&usqp=CAU" alt="" />
         <p>The Bamburi Portland Cement Company opened a limestone quarry just outside Mombasa in 1954. By 1971, the quarry had left an ugly gaping hole on the scenery of Mombasa, which concerned the management of the company. They decided then to try an experiment to reclaim the land and restore it back into an ecological wilderness. In 1983, the now commercially exhausted quarry, still left a scar on the landscape and the experiment continued.
-
             Findings found that the coastal limestone quarry, formed by ancient corals, is not a good substrate for growing new plants. Another problem encountered, was the water table. Being coastal, the water table is tidal, making the water very brackish. Finding plants that can survive poor soil and salty water was a challenge. Dr Haller, after spending many hours on the dusty floor of the quarry, found only a few ferns growing there.
-
             The first task then, was to find pioneer plants that could withstand the limestone desert, brackish water and poor soil. They must also be able to survive the harsh African sun. Twenty-six varieties of saplings were planted. Only three survived. Between 1971 and 1974, they planted some 12,000 tree saplings. After ten months of steady growth, some of the trees were looking decidedly unhealthy.
-
             After studying healthy trees in another environment, Dr. Haller found a solution - soil nitrates and microorganisms were missing from the near sterile soil. He inoculated the soil, fixed the atmospheric nitrogen, and the trees started to look healthier.
-
             They transplanted young tree saplings from government forests into the quarry. To avoid monoculture planting different types of trees were needed but consideration or their best use needed to be take into account too; timber for construction, poles or fence posts and for charcoal production later.
-
             Some 25 different kinds of trees, so far, have been planted and tested; eucalyptus, neem, algaroba, pinus, baobab, coconut, date palms, banana and mango trees to name a few. Dr Rene meticulously observed nature’s reactions and immediately applied appropriate measures that helped the reforestation process.
-
             Some of the trees are evergreen and shed their needles. These needles were difficult to break down, by the microorganisms, due to their high tannin content. Which caused the establishment of new growth to be slow too as the humus was not adequate.
-
             A lucky incident solved this problem, when the red-legged Mombasa trains (Epibolus pulchripes) happily started to feed on the dry needles. The compost bacteria in the millipedes’ droppings converted the needles into the needed humus. These useful animals, collected from coastal bushes, were an instant success as the millipedes multiplied fast in the young forest. The leaf litter slowly reduced and a layer of humus thickened underneath.
-
             The millipedes had found a land of milk and honey having the forest floor for them only but this happy state of affairs did not last long. Soon they became part of the food chain too, as white tailed mongooses and civets started eating millipedes as they came in the forest on their own.
-
             A forest ecosystem was beginning to form, next mushrooms started to appear in the darker moister patches of forest. Then termites, who cultivate fungi, started to build their mounds. Termites generally considered a pest, because they feed on soft timber for construction and furniture, in the quarry's forest ecosystem they play an important role as they eat almost any dead vegetation, in particular deadwood, bringing it underground and thus making it available to soil microorganisms.
-
             The termite’s task is comparable to the one of millipedes but they have an important advantage by mixing the soil substrate too.</p>
         
         <h1>Mombasa Marine National Park</h1>
         <img id="img1" src="https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.0,f_auto,fl_progressive.strip_profile,g_center,h_460,q_auto,w_800/v1/filestore/ozzo3zikzr58gjlnbrtdkogz4dwu_1481609152_mmp2.jpg" alt=""/>
-
         <p>Mombasa Marine National Park and Reserve is one of the most beautiful marine parks in Kenya. The park is filled with coral reefs though covering only 10 kilometers squared. Characterized by sandy beaches, palm trees, azure ocean and many more, the national reserve is covering around 200 kilometers.
-
-        
-
-        Mombasa Marine Park was established in 1986 to protect the coral reefs as that it’s a part of the ecosystem formation at the Kenyan coastline.
-
-        
-
-        The marine park is one of the most visited places in Kenya’s national parks.
-
-        All you Need to Know about Mombasa Marine Park
-        
-
-        Location 
-        
-
-        The marine park is located in Mombasa District, Coast Province; offshore of Mombasa town.
-
-        
-
-        Best Time to Visit
-        
-
-        The best time to visit the marine national park depends on the activities and the interest of each tourist. From June to December is perfect for observing Humpback whales as they migrate. For anglers’ enthusiasts, the period from August to October is excellent. For scuba divers and snorkelers, from October to March is the best time to enjoy marine life. 
-
-        
-
-        Ecosystem 
-        
-
-        The National Park is gifted with different life species such as, seagrasses, starfish, crabs, turtles, stonefish, octopus, jellyfish, sea cucumber,, angelfish, sharks, dolphins, bottlenose dolphins, green sea turtle, leatherback turtle, hawksbill, humpback dolphin,, damselfish, zebrafish, spinner dolphin and many more.
-
-        What to Do in Mombasa Marine Park
-        
-
-        Tourists can enjoy a lot of activities like snorkeling in the splendid clear waters, diving at the best diving site, fishing, boat rides with a packed lunch to be enjoyed within the ride, bird watching, water skiing, and windsurfing. Here are some activities to enjoy while being at Mombasa Marine National Park and Reserve:
-
-        
-
-        1- Marine Life Viewing
-        
-
-        The national park is filled with various marine life species to view and enjoy such as sea grasses, starfish, crabs, turtles, stone fish, sea urchins, sea cucumber, octopus, shark, dolphin, angelfish, butterfly fish, bottlenose dolphin, green sea turtle, parrot fish, hawksbill, humpback dolphin, leather black turtle, zebra fish, damselfish, spinner dolphin and loggerhead fish. 
-
-        
-
-        2- Snorkeling
-        
-
-        Snorkeling is an entertaining activity for tourists where they can view the treasures of the sea in the clear water. Snorkeling gears are available for hiring. 
-
-        
-
-        3- Diving
-        
-
-        Diving is an excellent experience at Mombasa Marine Park with one of the best diving sites. Night diving is also available at the site and diving gears are available for hiring at respective hotels and companies.
-
-        4- Fishing
-        
-
-        Apart from exploring the treasures of the sea with one’s eyes, tourists can enjoy fishing and being introduced differently to the creatures of the ocean. 
-
-        
-
-        5- Boat Rides
-        
-
-        It is a must try experience where tourists can enjoy boat rides with packed lunch. There are lots of aquatic birds to be seen.
-
-        
-
-        6- Bird Watching
-        
-
-        The park has a number of water birds that can entertain visitors during their tours. An example of water birds there is crab plover. 
-
-        
-
-        7- Sunbathing
-        
-
-        Sunbathing at the marine park takes place on the sandy beaches along the shoes of the Indian ocean where visitors can enjoy the warm sun and the cool breeze of the ocean.</p>        
+           Mombasa Marine Park was established in 1986 to protect the coral reefs as that it’s a part of the ecosystem formation at the Kenyan coastline.
+           The marine park is one of the most visited places in Kenya’s national parks.
+           All you Need to Know about Mombasa Marine Park
+           Location 
+           The marine park is located in Mombasa District, Coast Province; offshore of Mombasa town.
+           Best Time to Visit
+           The best time to visit the marine national park depends on the activities and the interest of each tourist. From June to December is perfect for observing Humpback whales as they migrate. For anglers’ enthusiasts, the period from August to October is excellent. For scuba divers and snorkelers, from October to March is the best time to enjoy marine life. 
+           Ecosystem 
+           The National Park is gifted with different life species such as, seagrasses, starfish, crabs, turtles, stonefish, octopus, jellyfish, sea cucumber,, angelfish, sharks, dolphins, bottlenose dolphins, green sea turtle, leatherback turtle, hawksbill, humpback dolphin,, damselfish, zebrafish, spinner dolphin and many more.
+           What to Do in Mombasa Marine Park
+           Tourists can enjoy a lot of activities like snorkeling in the splendid clear waters, diving at the best diving site, fishing, boat rides with a packed lunch to be enjoyed within the ride, bird watching, water skiing, and windsurfing. Here are some activities to enjoy while being at Mombasa Marine National Park and Reserve:
+           1- Marine Life Viewing
+           The national park is filled with various marine life species to view and enjoy such as sea grasses, starfish, crabs, turtles, stone fish, sea urchins, sea cucumber, octopus, shark, dolphin, angelfish, butterfly fish, bottlenose dolphin, green sea turtle, parrot fish, hawksbill, humpback dolphin, leather black turtle, zebra fish, damselfish, spinner dolphin and loggerhead fish. 
+           2- Snorkeling
+           Snorkeling is an entertaining activity for tourists where they can view the treasures of the sea in the clear water. Snorkeling gears are available for hiring. 
+           3- Diving
+           Diving is an excellent experience at Mombasa Marine Park with one of the best diving sites. Night diving is also available at the site and diving gears are available for hiring at respective hotels and companies.
+           4- Fishing
+           Apart from exploring the treasures of the sea with one’s eyes, tourists can enjoy fishing and being introduced differently to the creatures of the ocean. 
+           5- Boat Rides
+           It is a must try experience where tourists can enjoy boat rides with packed lunch. There are lots of aquatic birds to be seen.
+           6- Bird Watching
+           The park has a number of water birds that can entertain visitors during their tours. An example of water birds there is crab plover. 
+           7- Sunbathing
+           Sunbathing at the marine park takes place on the sandy beaches along the shoes of the Indian ocean where visitors can enjoy the warm sun and the cool breeze of the ocean.</p>        
         
          <h1>Nyali Beach</h1>
         <img id="img2" src="https://blog.tiketi.com/wp-content/uploads/2020/10/nyali-mombasa-4506529_1280-980x654.jpg" alt=""/>
