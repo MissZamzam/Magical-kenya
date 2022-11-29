@@ -204,22 +204,22 @@ const Mombasa = () => {
         <img id="img1" src="https://pbs.twimg.com/media/Fb-HfyuWQAAzMyC.jpg" alt="" />
         <p>Ever visited Nguu Tatu hill near Mombasa Kenya?One of the best attractions of mombasa area is a visit to Nguuni Nature Sanctuary. “What a fantastic place for a party, celebration or even just a barbeque?”
 
-A great place for having a cold drink as you light a campfire, tucked away in the bush while watching the sunset and only had to drive a few miles from Bamburi to enjoy this!
+        A great place for having a cold drink as you light a campfire, tucked away in the bush while watching the sunset and only had to drive a few miles from Bamburi to enjoy this!
 
-Nguuni reserve has giraffes, ostriches, waterbucks and different species of birds to watch while you enjoy your BBQ.
+        Nguuni reserve has giraffes, ostriches, waterbucks and different species of birds to watch while you enjoy your BBQ.
 
-For a very affordable amount, you can book a fixed table, bring your own food and drinks as they provide the fire and grill for you while you sit back and enjoy the sunset.
+        For a very affordable amount, you can book a fixed table, bring your own food and drinks as they provide the fire and grill for you while you sit back and enjoy the sunset.
 
-Nguuni Nature Sanctuary
-Who would have thought you could sit having a drink by a camp fire and feel like you were in the bush just a mile or so from Bamburi township and around 3kilometers from Bamburi Cement Works. It was a first for me, but I'm sure it won't be the last.
+        Nguuni Nature Sanctuary
+        Who would have thought you could sit having a drink by a camp fire and feel like you were in the bush just a mile or so from Bamburi township and around 3kilometers from Bamburi Cement Works. It was a first for me, but I'm sure it won't be the last.
 
-Up on the Nguu Tatu Hills (3 hills), you are in completely natural surroundings, and can see virtually nothing but unspoilt bush around you, (except in one direction where Bamburi Township is below you and quite close by).
+        Up on the Nguu Tatu Hills (3 hills), you are in completely natural surroundings, and can see virtually nothing but unspoilt bush around you, (except in one direction where Bamburi Township is below you and quite close by).
 
-The reserve itself has giraffes, elands, oryx, waterbucks, ostriches and bird watching bandas.
+        The reserve itself has giraffes, elands, oryx, waterbucks, ostriches and bird watching bandas.
 
-You can book one of the big fixed tables for 2,000 shillings, then its 300 shillings per person, bring your own food, and drink, they provide the fire and the big charcoal grill, and a guy to man it.</p>        
-      
-        
+        You can book one of the big fixed tables for 2,000 shillings, then its 300 shillings per person, bring your own food, and drink, they provide the fire and the big charcoal grill, and a guy to man it.</p>        
+            
+                
         <h1>Shree Cutch Satsang Swaminarayan Temple</h1>
         <img id="img1" src="https://youimg1.tripcdn.com/target/ww0w1f000001gx1ks008D_C_670_376.png_.webp?proc=source%2ftrip" alt="" />
         <p>The first meeting for the proposal to build the temple was called on Wednesday 12th May 1957 at Karsanbhai Premji Bhudia’s residence. After a series of meetings the decisive meeting was held on 6th June 1957 with an attendance of approximately 40 to 50 Satsangis. It was anomalously decided that the temple be built with reference to Shree Cutch Satsang Swaminarayan Temple’s constitution under the Flagship of Shree Swaminarayan Temple Bhuj - Kutch (Nar-Narayan Dev). A general meeting in regards to the above was called on 7th July 1957 at the Shree Cutchhi Leva Patel Samaj. The project was anonymously agreed by all and by the Lord’s grace funds started flowing in from the first day. A record of KSh. 178,478.25 was collected on that very day and rising to KSh. 201,052.00 by the end of the week. 
