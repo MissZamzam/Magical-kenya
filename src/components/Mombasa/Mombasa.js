@@ -60,180 +60,107 @@ const Mombasa = () => {
            7- Sunbathing
            Sunbathing at the marine park takes place on the sandy beaches along the shoes of the Indian ocean where visitors can enjoy the warm sun and the cool breeze of the ocean.</p>        
         
-         <h1>Nyali Beach</h1>
+        <h1>Nyali Beach</h1>
         <img id="img2" src="https://blog.tiketi.com/wp-content/uploads/2020/10/nyali-mombasa-4506529_1280-980x654.jpg" alt=""/>
         <p>Nyali Beach is a residential area located in Mombasa County, connected to Mombasa Island by the New Nyali Bridge. Nyali is known for the high-class hotels and beautiful residential houses and long white sand beaches.
-
-        
-
-        Nyali is renowned for its high tourist potential, as its water is very calm, the accommodation facilities and its white sand beaches and sea that is loved by divers. It's a part of the Mombasa Marine Reserve that is Managed by Kenya Wildlife Service.
-
-        
-
-        It has become a very westernized residential area, as it has all of the basic needs of living like supermarkets, cinema, shopping malls, banks, schools, and post offices, the residents don’t have to cross the overcrowded Nyali Bridge to get to the crowded center of Mombasa.
-
-        Things to Do in Nyali Beach
-        
-
-        There are a lot of interesting places in Nyali Beach Such as the Mamba Village which is the biggest crocodile farm in Africa), Nyali Golf Club, numerous embassies and some of the most academic institutions of the coastal province. Know more about what you can do in Nyali Beach!
-
-        
-
-        1- Chill at the Beach 
-        
-
-        Enjoy the strip of white sand and chill on the beach. At the southern end of the beach, look out for Shiva Cave, which is believed to enhance its visitors’ fertility.
-
-        2- Have a meal at Tamarind Restaurant
-        
-
-        Laced with high white arches, Tamarind Restaurant looks out over the harbour. The fine restaurant has a fine menu that includes tamarind seafood salad, black pepper crab and twice-cooked pork belly. You should also try the mangrove oysters, the desserts and the boozy coffees.
-
-        3- Bombolulu Workshops & Cultural Centre
-        
-
-        The organization produces high quality crafts and gives vocational training to physically different enabled people. Pay a visit to the workshops and showroom to buy jewelry, sisal bags, leatherwork, carvings and textiles.
-
-        4- Mamba Village Crocodile Farm
-        Discover The Nyali Beach
-        Visit the largest reptile farm in Kenya, where you can see the crocs in their stages of development, from babies to 100-year old, who are 5m long. Crocodile feeding time starts at 5 pm.
-
-        
-        5- Cafesserie
-        
-
-        In Nyali City Mall, Cafesseire has the best cakes on the coast. Besides, the location is unique with the breezy and chilled out weather. The cafe has a menu of brunch items such as bagel sandwiches and heartier mains, such as masala fish. Enjoy fresh fruit juice, lattes and Tuskers.
-
-        6- Japanese in Nyali Beach 
-        
-
-        Misono, a japanese restaurant, is rated highly by the locals. There is an extensive menu of Japanese cuisine.  Go for the teppanyaki, tempura or teriyaki. They are recommended.
-
-        7- Indian in Nyali Beach 
-        Splendid View Restaurant has a wide menu that serves Indian cuisine dishes along with Western dishes. It is sister to the original branch in Mombasa.
-
-        Accommodation
-        
-
-        There are also many luxury hotels on almost all of the seaside like Nyali beach Resort, Voyager Hotel, Reef Hotel, Mombasa Beach Hotel, the beach also has numerous places of entertainment and activities for tourists such as beach volley, windsurfing, scuba diving, kite surf and a lot more.</p>
+           Nyali is renowned for its high tourist potential, as its water is very calm, the accommodation facilities and its white sand beaches and sea that is loved by divers. It's a part of the Mombasa Marine Reserve that is Managed by Kenya Wildlife Service.
+           It has become a very westernized residential area, as it has all of the basic needs of living like supermarkets, cinema, shopping malls, banks, schools, and post offices, the residents don’t have to cross the overcrowded Nyali Bridge to get to the crowded center of Mombasa.
+           Things to Do in Nyali Beach
+           There are a lot of interesting places in Nyali Beach Such as the Mamba Village which is the biggest crocodile farm in Africa), Nyali Golf Club, numerous embassies and some of the most academic institutions of the coastal province. Know more about what you can do in Nyali Beach!
+           1- Chill at the Beach 
+           Enjoy the strip of white sand and chill on the beach. At the southern end of the beach, look out for Shiva Cave, which is believed to enhance its visitors’ fertility.
+           2- Have a meal at Tamarind Restaurant
+           Laced with high white arches, Tamarind Restaurant looks out over the harbour. The fine restaurant has a fine menu that includes tamarind seafood salad, black pepper crab and twice-cooked pork belly. You should also try the mangrove oysters, the desserts and the boozy coffees.
+           3- Bombolulu Workshops & Cultural Centre
+           The organization produces high quality crafts and gives vocational training to physically different enabled people. Pay a visit to the workshops and showroom to buy jewelry, sisal bags, leatherwork, carvings and textiles.
+           4- Mamba Village Crocodile Farm
+           Discover The Nyali Beach
+           Visit the largest reptile farm in Kenya, where you can see the crocs in their stages of development, from babies to 100-year old, who are 5m long. Crocodile feeding time starts at 5 pm.
+           5- Cafesserie
+           In Nyali City Mall, Cafesseire has the best cakes on the coast. Besides, the location is unique with the breezy and chilled out weather. The cafe has a menu of brunch items such as bagel sandwiches and heartier mains, such as masala fish. Enjoy fresh fruit juice, lattes and Tuskers.
+           6- Japanese in Nyali Beach 
+           Misono, a japanese restaurant, is rated highly by the locals. There is an extensive menu of Japanese cuisine.  Go for the teppanyaki, tempura or teriyaki. They are recommended.
+           7- Indian in Nyali Beach 
+           Splendid View Restaurant has a wide menu that serves Indian cuisine dishes along with Western dishes. It is sister to the original branch in Mombasa.
+           Accommodation
+           There are also many luxury hotels on almost all of the seaside like Nyali beach Resort, Voyager Hotel, Reef Hotel, Mombasa Beach Hotel, the beach also has numerous places of entertainment and activities for tourists such as beach volley, windsurfing, scuba diving, kite surf and a lot more.</p>
       
         <h1>Jumba la Mtwana</h1>
         <img id="img2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jumba_la_Mtwana-mosque_on_the_beach.jpg/1280px-Jumba_la_Mtwana-mosque_on_the_beach.jpg" alt=""/>
         <p>The full name Jumba la Mtwana means in Swahili “the large house of the slave”. Within this area four mosques, a tomb and four houses have survived in recognizable condition. These houses include the House of the Cylinder, The House of the Kitchen, The House of the Many Pools, which had three phases, and the Great Mosque. The inhabitants of this town were mainly Muslims as evidenced by a number of ruined mosques.
-
-            Jumba la Mtwana a picturesque ruined village is situated in Kilifi along the Kenyan coast. The site lies some 15 kilometers north of Mombasa on and above the beach some 1000 meters north of the mouth of Mtwapa creek; 4 kilometers from the Mombasa-Malindi road and extends along the shore for a distance of about 300 meters and 250 meters inland.
-
-            There are no written historical records of the town but ceramic evidence showed that the town had been built in the fourteenth century but abandoned early in the fifteenth century. The dating is based on the presence of a few shreds of early blue and white porcelain with lung-chuan celadon, and the absence of any later Chinese wares.
-
-            It is most likely the site’s strategic position was selected because of the presence of fresh water, exposure to the North East and South East breezes which would keep the people cool and its safe location from external attacks by sea since it had no harbor, thus larger vessels had to anchor along way offshore, or move probably in Mtwapa creek. One can only therefore guess reasons for its eventual desertion, namely trade interruption, hostile invasion or a failure in water supply.
-
-            Clearance and excavation of the ruins were first carried out in 1972 by James Kirkman with a view of dating the buildings, its period of occupation and consolidating buildings which were in danger of collapse. Ten years later Jumba la Mtwana was gazetted on 04/06/82 Gazette Notice Number 1515 as a National Monument.</p>
+           Jumba la Mtwana a picturesque ruined village is situated in Kilifi along the Kenyan coast. The site lies some 15 kilometers north of Mombasa on and above the beach some 1000 meters north of the mouth of Mtwapa creek; 4 kilometers from the Mombasa-Malindi road and extends along the shore for a distance of about 300 meters and 250 meters inland.
+           There are no written historical records of the town but ceramic evidence showed that the town had been built in the fourteenth century but abandoned early in the fifteenth century. The dating is based on the presence of a few shreds of early blue and white porcelain with lung-chuan celadon, and the absence of any later Chinese wares.
+           It is most likely the site’s strategic position was selected because of the presence of fresh water, exposure to the North East and South East breezes which would keep the people cool and its safe location from external attacks by sea since it had no harbor, thus larger vessels had to anchor along way offshore, or move probably in Mtwapa creek. One can only therefore guess reasons for its eventual desertion, namely trade interruption, hostile invasion or a failure in water supply.
+           Clearance and excavation of the ruins were first carried out in 1972 by James Kirkman with a view of dating the buildings, its period of occupation and consolidating buildings which were in danger of collapse. Ten years later Jumba la Mtwana was gazetted on 04/06/82 Gazette Notice Number 1515 as a National Monument.</p>
         
         <h1>Nguuni Nature Sanctuary</h1>
         <img id="img1" src="https://pbs.twimg.com/media/Fb-HfyuWQAAzMyC.jpg" alt="" />
         <p>Ever visited Nguu Tatu hill near Mombasa Kenya?One of the best attractions of mombasa area is a visit to Nguuni Nature Sanctuary. “What a fantastic place for a party, celebration or even just a barbeque?”
-
-        A great place for having a cold drink as you light a campfire, tucked away in the bush while watching the sunset and only had to drive a few miles from Bamburi to enjoy this!
-
-        Nguuni reserve has giraffes, ostriches, waterbucks and different species of birds to watch while you enjoy your BBQ.
-
-        For a very affordable amount, you can book a fixed table, bring your own food and drinks as they provide the fire and grill for you while you sit back and enjoy the sunset.
-
-        Nguuni Nature Sanctuary
-        Who would have thought you could sit having a drink by a camp fire and feel like you were in the bush just a mile or so from Bamburi township and around 3kilometers from Bamburi Cement Works. It was a first for me, but I'm sure it won't be the last.
-
-        Up on the Nguu Tatu Hills (3 hills), you are in completely natural surroundings, and can see virtually nothing but unspoilt bush around you, (except in one direction where Bamburi Township is below you and quite close by).
-
-        The reserve itself has giraffes, elands, oryx, waterbucks, ostriches and bird watching bandas.
-
-        You can book one of the big fixed tables for 2,000 shillings, then its 300 shillings per person, bring your own food, and drink, they provide the fire and the big charcoal grill, and a guy to man it.</p>        
+           A great place for having a cold drink as you light a campfire, tucked away in the bush while watching the sunset and only had to drive a few miles from Bamburi to enjoy this!
+           Nguuni reserve has giraffes, ostriches, waterbucks and different species of birds to watch while you enjoy your BBQ.
+           For a very affordable amount, you can book a fixed table, bring your own food and drinks as they provide the fire and grill for you while you sit back and enjoy the sunset.
+           Nguuni Nature Sanctuary
+           Who would have thought you could sit having a drink by a camp fire and feel like you were in the bush just a mile or so from Bamburi township and around 3kilometers from Bamburi Cement Works. It was a first for me, but I'm sure it won't be the last.
+           Up on the Nguu Tatu Hills (3 hills), you are in completely natural surroundings, and can see virtually nothing but unspoilt bush around you, (except in one direction where Bamburi Township is below you and quite close by).
+           The reserve itself has giraffes, elands, oryx, waterbucks, ostriches and bird watching bandas.
+           You can book one of the big fixed tables for 2,000 shillings, then its 300 shillings per person, bring your own food, and drink, they provide the fire and the big charcoal grill, and a guy to man it.</p>        
             
                 
         <h1>Shree Cutch Satsang Swaminarayan Temple</h1>
         <img id="img1" src="https://youimg1.tripcdn.com/target/ww0w1f000001gx1ks008D_C_670_376.png_.webp?proc=source%2ftrip" alt="" />
         <p>The first meeting for the proposal to build the temple was called on Wednesday 12th May 1957 at Karsanbhai Premji Bhudia’s residence. After a series of meetings the decisive meeting was held on 6th June 1957 with an attendance of approximately 40 to 50 Satsangis. It was anomalously decided that the temple be built with reference to Shree Cutch Satsang Swaminarayan Temple’s constitution under the Flagship of Shree Swaminarayan Temple Bhuj - Kutch (Nar-Narayan Dev). A general meeting in regards to the above was called on 7th July 1957 at the Shree Cutchhi Leva Patel Samaj. The project was anonymously agreed by all and by the Lord’s grace funds started flowing in from the first day. A record of KSh. 178,478.25 was collected on that very day and rising to KSh. 201,052.00 by the end of the week. 
-
-            On 22nd July 1957 a general meeting was called to decide as where the Temple should be located. Shree Karsanbhai Premji announced that Shree Visrambhai Samji of Dahinsra had a plot valued at 138,000.00 on Station Road opposite The Patel Samaj. The proposal was hailed with the name of the Lord even before Karsanbhai had finished his word. 
-
-            On 18th August 1957, the Aarshivad Patra (Blessings) from Bhuj was read out in the evening sabha. Shree Muljibhai Devraj of Surajpur did the ground-breaking ceremony with a kind donation of KSh. 5,001. 
-
-            The Murtis’ of Shree Sahajanand Swami, Harikrishna Radhakrishna and NarNarayan Dev were prepared in Bhuj. The Murtis’ arrived at Mombasa port on 19th November 1959. The Murtis’ were installed on 1st February 1960 after a Bhagvad Parayan, Vishnu Yag done by Shuklaji Jayashankar. The Provincial commissioner did the official opening of the temple building on 30th January 1960. Shree Laxmidas Madwani of Kenya sugarcanes did the flag hosting ceremony on 1st February 1960.</p>
+           On 22nd July 1957 a general meeting was called to decide as where the Temple should be located. Shree Karsanbhai Premji announced that Shree Visrambhai Samji of Dahinsra had a plot valued at 138,000.00 on Station Road opposite The Patel Samaj. The proposal was hailed with the name of the Lord even before Karsanbhai had finished his word. 
+           On 18th August 1957, the Aarshivad Patra (Blessings) from Bhuj was read out in the evening sabha. Shree Muljibhai Devraj of Surajpur did the ground-breaking ceremony with a kind donation of KSh. 5,001. 
+           The Murtis’ of Shree Sahajanand Swami, Harikrishna Radhakrishna and NarNarayan Dev were prepared in Bhuj. The Murtis’ arrived at Mombasa port on 19th November 1959. The Murtis’ were installed on 1st February 1960 after a Bhagvad Parayan, Vishnu Yag done by Shuklaji Jayashankar. The Provincial commissioner did the official opening of the temple building on 30th January 1960. Shree Laxmidas Madwani of Kenya sugarcanes did the flag hosting ceremony on 1st February 1960.</p>
       
         <h1>Mamba Village Centre</h1>
         <img id="img2" src="https://uzamart.com/wp-content/uploads/2021/01/mamba-1.jpg" alt=""/>
         <p>Mamba Village, East Africa's largest crocodile farm, is a "must see" during your exploratory beach vacation in Mombasa if you have not seen any crocodiles on safari. Each section of the estate offers a unique experience, and the most popular is the crocodile farm where these aquatic reptiles are displayed.
-
-            Your tour of the farm begins with a video presentation that introduces you to many reptile species and the valuable roles they play in the ecosystems of the world and the fascinating facts, such as the longevity of the species on earth, bite force and average life span, will give you a greater appreciation for these prehistoric animals.
-
-            While touring the crocodile farm, your guide will enlighten you about the crocodile life cycle and behavior while you view live crocodiles of every size, from hatchlings to fully-grown adults. Some crocodile displays are labeled with a description of age, length and weight, and one of the most predictable events at the farm is the daily crocodile feeding where the giants fight for fresh meat.
-
-            While the crocodile farm is the most popular area of the village, AfricanMecca guests may also enjoy horseback riding on its small estate and beginners can even take lessons, or you may prefer the more outlandish camel riding. Should you have time, take a leisurely walk through the botanical gardens before enjoying a meal at the village restaurant that features a range of game meats, such as crocodile, zebra, ostrich and many other choices.
-</p>
+           Your tour of the farm begins with a video presentation that introduces you to many reptile species and the valuable roles they play in the ecosystems of the world and the fascinating facts, such as the longevity of the species on earth, bite force and average life span, will give you a greater appreciation for these prehistoric animals.
+           While touring the crocodile farm, your guide will enlighten you about the crocodile life cycle and behavior while you view live crocodiles of every size, from hatchlings to fully-grown adults. Some crocodile displays are labeled with a description of age, length and weight, and one of the most predictable events at the farm is the daily crocodile feeding where the giants fight for fresh meat.
+           While the crocodile farm is the most popular area of the village, AfricanMecca guests may also enjoy horseback riding on its small estate and beginners can even take lessons, or you may prefer the more outlandish camel riding. Should you have time, take a leisurely walk through the botanical gardens before enjoying a meal at the village restaurant that features a range of game meats, such as crocodile, zebra, ostrich and many other choices.</p>
+        
         <h1>Wild Waters</h1>
         <img id="img1" src="https://www.wildwaterskenya.com/img/bannerbg0.jpg" alt="" />
         <p>Wild Waters Mombasa is a water park in Nyali, Mombasa. That introduction, however, does not do Kenya’s largest water park justice. The water park is a family-themed, fun-filled, adrenalin rush, all-you-can-do-with-water kind of place. While everyone else is heading down to the beach to have a one-foot wave meekly splash against their feet, the real water action is taking place at Wild Waters Mombasa.
-
-            This one of a kind water park in Kenya is located in Nyali along Links Road. It is adjacent to Mamba Village across from Nyali Golf Club. You can’t miss it. Except maybe on Mondays when it is usually closed. Maybe then you can actually enjoy a relaxing day in any one of Mombasa’s best beach resorts.
-
-            Let’s Slide Into It
-            Wild Waters Mombasa’s highlight feature is its slides. The slides come in various styles all guaranteed to have your heart racing as you speed down faster than the legal speed limit in Kenya – a bit of an exaggeration there – all to end up in a big splash down at the pool.
-            Multine and Harakiri
-            For those of you who may know a thing or two about Japanese Samurai culture, Harakiri was the act by a Samurai of committing suicide by disembowelment rather than surrender or be caught by the enemy. It was considered a dignified way to die rather than suffer the humiliation of being caught by the enemy. Now, why the good people at Wild Waters Mombasa decided to name one of their slides that is anyone’s guess. However, Multine and Harakiri are four slides joined next to each other and are quite popular with families or groups. Usually, the point is four individuals to take their marks at the top of the slide, sliding mats in hand, and race down the wet slides and skim across the water surface on the pool below. It’s just a lot of fun.
-
-            Spirals
-            Spirals are slides made like tubes that spiral all the way down to the pool below. Once you enter the tube at the top, you are engulfed in total darkness as you speedily spiral down the slide which opens up into the pool below. As you guessed it, this only ends one way. A big splash into the pool. Basically, slide, splash, repeat!
-
-            Flume Bowl
-            The flume bowl is a slide that ends in a bowl-like structure than one spins around in until being dropped in the middle down to the swimming pool. You’d have to experience it to really get its thrill. Worth noting is that this slide is strictly for adults only who are good swimmers as the pool below is five feet deep.
-
-            The Water Play Station
-            This is an area of Wild Waters Mombasa particularly popular with kids. Water Play Station has jets of water spraying from all directions. Children can climb the structure in the spraying water and splash around in the shallow pool. One amazing feature of the Water Play Station is an enormous bucket that fills up with water and automatically tilts over to pour the water on all and sundry in the Water Play Station.
-
-            Lazy River
-            The Lazy River is quite literally for lazying around. It is a 270-meter river-like channel of water that surrounds the entire water park. One can lay atop a tube and just drift away in the river taking in the sunshine and observing everything going on around you.
-
-            The Rain Dance Area
-
-
-
-            Dancing in the rain is a long-standing theme in Romantic films and whatnot. If, for some reason, this is an item on your bucket list, well, best to do it at Wild Waters Mombasa. The Rain Dance Area is an area set aside for dancing with music playing and artificial rain falling on the ‘dance floor’.
-
-            Kids Pool
-            5 pools, smaller slides, and a castle comprise the kids’ pool area. Kids can have their own fun in a safe area with reasonable depths of water.</p>
+           This one of a kind water park in Kenya is located in Nyali along Links Road. It is adjacent to Mamba Village across from Nyali Golf Club. You can’t miss it. Except maybe on Mondays when it is usually closed. Maybe then you can actually enjoy a relaxing day in any one of Mombasa’s best beach resorts.
+           Let’s Slide Into It
+           Wild Waters Mombasa’s highlight feature is its slides. The slides come in various styles all guaranteed to have your heart racing as you speed down faster than the legal speed limit in Kenya – a bit of an exaggeration there – all to end up in a big splash down at the pool.
+           Multine and Harakiri
+           For those of you who may know a thing or two about Japanese Samurai culture, Harakiri was the act by a Samurai of committing suicide by disembowelment rather than surrender or be caught by the enemy. It was considered a dignified way to die rather than suffer the humiliation of being caught by the enemy. Now, why the good people at Wild Waters Mombasa decided to name one of their slides that is anyone’s guess. However, Multine and Harakiri are four slides joined next to each other and are quite popular with families or groups. Usually, the point is four individuals to take their marks at the top of the slide, sliding mats in hand, and race down the wet slides and skim across the water surface on the pool below. It’s just a lot of fun.
+           Spirals
+           Spirals are slides made like tubes that spiral all the way down to the pool below. Once you enter the tube at the top, you are engulfed in total darkness as you speedily spiral down the slide which opens up into the pool below. As you guessed it, this only ends one way. A big splash into the pool. Basically, slide, splash, repeat!
+           Flume Bowl
+           The flume bowl is a slide that ends in a bowl-like structure than one spins around in until being dropped in the middle down to the swimming pool. You’d have to experience it to really get its thrill. Worth noting is that this slide is strictly for adults only who are good swimmers as the pool below is five feet deep.
+           The Water Play Station
+           This is an area of Wild Waters Mombasa particularly popular with kids. Water Play Station has jets of water spraying from all directions. Children can climb the structure in the spraying water and splash around in the shallow pool. One amazing feature of the Water Play Station is an enormous bucket that fills up with water and automatically tilts over to pour the water on all and sundry in the Water Play Station.
+           Lazy River
+           The Lazy River is quite literally for lazying around. It is a 270-meter river-like channel of water that surrounds the entire water park. One can lay atop a tube and just drift away in the river taking in the sunshine and observing everything going on around you.
+           The Rain Dance Area
+           Dancing in the rain is a long-standing theme in Romantic films and whatnot. If, for some reason, this is an item on your bucket list, well, best to do it at Wild Waters Mombasa. The Rain Dance Area is an area set aside for dancing with music playing and artificial rain falling on the ‘dance floor’.
+           Kids Pool
+           5 pools, smaller slides, and a castle comprise the kids’ pool area. Kids can have their own fun in a safe area with reasonable depths of water.</p>
      
         <h1>Mama Ngina Waterfront</h1>
         <img id="img2" src="https://constructionreviewonline.com/wp-content/uploads/2020/01/Mama-Ngina-waterfront-park-696x391.jpeg?ezimgfmt=ngcb11/notWebP" alt=""/>
         <p>Kenya officially opened Mama Ngina Waterfront Park that was redeveloped at US $4.6m. The seaside public park was reopened to the public on 20th October 2019 for the Mashujaa Day fete.
-
-            The 26-acre park that overlooks the Kilindini Channel in Mombasa County has been transformed into an integrated urban tourist attraction site. The refurbishment included landscaping and paving the waterfront with concrete blocks, construction of an amphitheatre, the Kilindini Cultural Centre, ablution blocks and two main gates.
-
-            The park is the first public landscaped waterfront in the country. The government however has has plans to redevelop the Jomo Kenyatta public beach in northern mainland of Mombasa, the Malindi waterfront, and others in Naivasha and Kisumu on lakes Naivasha and Victoria respectively.
-
-            New features
-            Mama Ngina park has always been a place for leisure resting, walking, jogging and riding. It is famous for its fried cassava and all manner of fried potatoes and pastries. The project was designed to support a 24-hour economy and its layout includes a new jetty for water taxis.
-
-            The waterfront now features a palm tree-lined walkway from the Likoni Ferry Crossing to its south through to the Mombasa Golf Club to the north. These two points are the entry and exit points both ways, and are now marked by huge monumental gates.
-
-            The waterfront park also has a sun-drenched 2.1km long promenade and a space for food vendors. The sitting area now a properly built amphitheatre, has more greenery with newly planted palm trees and grass where visitors can while away time.
-
-
-            The walkway has rail guards separating it from the cliff-face, just above the pounding waves crashing onto the rocks below making it a safe, family-friendly place. For years, this park has housed the famous Florida Nightclub & Casino and Galaxy Chinese Restaurant on the northern edge. These have been incorporated into the cultural vista of the new look park.
-
-            The amphitheatre’s design was derailed from the ancient Rome. It has a seating capacity of 3,000 people who will comfortably enjoy live cultural events and performances. The original parking squares have been retained next to the walkway to ensure orderliness. Being open 24-hours a day, the park is well lit with strategically placed security lighting, a police post and public toilets.
-
-            The redevelopment was undertaken by a local company, Suhufi Agencies. According to President Uhuru Kenyatta, the park is expected to restore the glory of Mombasa as a top tourist destination in the region.</p>
+           The 26-acre park that overlooks the Kilindini Channel in Mombasa County has been transformed into an integrated urban tourist attraction site. The refurbishment included landscaping and paving the waterfront with concrete blocks, construction of an amphitheatre, the Kilindini Cultural Centre, ablution blocks and two main gates.
+           The park is the first public landscaped waterfront in the country. The government however has has plans to redevelop the Jomo Kenyatta public beach in northern mainland of Mombasa, the Malindi waterfront, and others in Naivasha and Kisumu on lakes Naivasha and Victoria respectively.
+           New features
+           Mama Ngina park has always been a place for leisure resting, walking, jogging and riding. It is famous for its fried cassava and all manner of fried potatoes and pastries. The project was designed to support a 24-hour economy and its layout includes a new jetty for water taxis.
+           The waterfront now features a palm tree-lined walkway from the Likoni Ferry Crossing to its south through to the Mombasa Golf Club to the north. These two points are the entry and exit points both ways, and are now marked by huge monumental gates.
+           The waterfront park also has a sun-drenched 2.1km long promenade and a space for food vendors. The sitting area now a properly built amphitheatre, has more greenery with newly planted palm trees and grass where visitors can while away time.
+           The walkway has rail guards separating it from the cliff-face, just above the pounding waves crashing onto the rocks below making it a safe, family-friendly place. For years, this park has housed the famous Florida Nightclub & Casino and Galaxy Chinese Restaurant on the northern edge. These have been incorporated into the cultural vista of the new look park.
+           The amphitheatre’s design was derailed from the ancient Rome. It has a seating capacity of 3,000 people who will comfortably enjoy live cultural events and performances. The original parking squares have been retained next to the walkway to ensure orderliness. Being open 24-hours a day, the park is well lit with strategically placed security lighting, a police post and public toilets.
+           The redevelopment was undertaken by a local company, Suhufi Agencies. According to President Uhuru Kenyatta, the park is expected to restore the glory of Mombasa as a top tourist destination in the region.</p>
         
         <h1>Gedi Ruins</h1>
         <img id="img1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Great_Mosque_of_Gede.jpg/1280px-Great_Mosque_of_Gede.jpg" alt="" />
         <p>Gedi lies on the coastal region of Kenya, 94 km north of Mombasa town, another historic town. Gedi was a small town built entirely from rocks and stones, which was inhabited by Swahili people of East Africa. This historic town date back from the 15th century, and through careful preservation most of the original foundations can still be seen today. In 1927, the Gedi historic town, which occupy an area of 44 hectares of land, were declared a historic monument and much excavation and preservation work carried out such that large areas of this ancient town are now revealed, including the pillar tombs, the palace and a great mosque.
-
-            The historic town of Gedi occupied a very large area and had two walls around it. The inner wall was where the rich lived. The outer wall enclosed 18 hectares which also included farm and plantation land with quite a number of mud and wattle houses for the middle class. Outside the walls is where the peasants lived.
-
-            There is a dated coral tomb with beautiful Arabic script engraved with the date 1399. From the dated tomb, one can see the Great Mosque. A spectacular 50m deep well, known as the "Well of the Great Mosque" which must have been used for ablutions is still discernible. On the other side of the mosque stands the Octagonal pillar tomb of the Imam or priest. Further into the forest, one can see the 15th century palace where the king held court and addressed women with marital problems. Chambers which had no windows or doors are believed to have been used by the noblemen to store their gold and jewels. The only way to gain entrance was through a secret door from the roof.
-
-            Over the historic town, the shallow coral rag soil has grown a lowland semi-deciduous forest, maintained by a rainfall of around 1,100 mm/year. The 44 hectares site, surrounded by farmland, is entirely fenced, and contains around 35 hectares of coastal forest, traversed by narrow paths that wind between the excavated buildings. At least 50 indigenous tree species occur, including Gyrocarpus americanus and Sterculia appendiculata.
-
-            It is not quite clear why the town was eventually deserted. Several theories have been put across:
+           The historic town of Gedi occupied a very large area and had two walls around it. The inner wall was where the rich lived. The outer wall enclosed 18 hectares which also included farm and plantation land with quite a number of mud and wattle houses for the middle class. Outside the walls is where the peasants lived.
+           There is a dated coral tomb with beautiful Arabic script engraved with the date 1399. From the dated tomb, one can see the Great Mosque. A spectacular 50m deep well, known as the "Well of the Great Mosque" which must have been used for ablutions is still discernible. On the other side of the mosque stands the Octagonal pillar tomb of the Imam or priest. Further into the forest, one can see the 15th century palace where the king held court and addressed women with marital problems. Chambers which had no windows or doors are believed to have been used by the noblemen to store their gold and jewels. The only way to gain entrance was through a secret door from the roof.
+           Over the historic town, the shallow coral rag soil has grown a lowland semi-deciduous forest, maintained by a rainfall of around 1,100 mm/year. The 44 hectares site, surrounded by farmland, is entirely fenced, and contains around 35 hectares of coastal forest, traversed by narrow paths that wind between the excavated buildings. At least 50 indigenous tree species occur, including Gyrocarpus americanus and Sterculia appendiculata.
+           It is not quite clear why the town was eventually deserted. Several theories have been put across:
 
             1. One of the theories is that it was overcome by an army from Mombasa on its way to attack Malindi around 1530 AD.
 
