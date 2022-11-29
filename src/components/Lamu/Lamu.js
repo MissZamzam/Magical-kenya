@@ -65,42 +65,29 @@ const Lamu = () => {
    
        <h1>Takwa Ruins</h1>
        <img id="img2" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/cb/3c/23/provided-by-museums-of.jpg?w=1200&h=-1&s=1" alt=""/>
-
-            <p>The ruins of Takwa are located on the south eastern corner of Manda Island Lamu District in Coast province. A 30 minute boat ride from Lamu Town.
-Takwa ruins are the remains of a thriving 15th and 16th century Swahili trading town before it was abandoned in the seventeenth century. It is not only important because of its period of occupation but also because of its dense settlement and its relatively well preserved remains. The unique Friday Mosque with a large pillar a top the qibla wall is among the most notable features. This pillar is believed to symbolize the burial of a Sheikh be low the wall.
-
-The position of the site at the narrowest location on the whole island, was most probably a strategy. Takwa’s position/location with shallow waters must have been of considerable importance especially during its peak, when many of the sails that came into view were likely to be hostile.Therefore access to the site must have been primarily from the shallow channel which could only admit vessels of shallow draft.
-
-Takwa eventual abandonment in the 17th century was due to salination of the once fresh water and endless fighting between Takwa and Pate people. These ruins were gazetted as a National Monument in 1982 in Gazette notice No. 1514. At present, Takwa is open daily to the Public. It is a very pleasant place for a casual visit, which can be complimented by a picnic and overnight camping.</p>
+       <p>The ruins of Takwa are located on the south eastern corner of Manda Island Lamu District in Coast province. A 30 minute boat ride from Lamu Town.
+          Takwa ruins are the remains of a thriving 15th and 16th century Swahili trading town before it was abandoned in the seventeenth century. It is not only important because of its period of occupation but also because of its dense settlement and its relatively well preserved remains. The unique Friday Mosque with a large pillar a top the qibla wall is among the most notable features. This pillar is believed to symbolize the burial of a Sheikh be low the wall.
+          The position of the site at the narrowest location on the whole island, was most probably a strategy. Takwa’s position/location with shallow waters must have been of considerable importance especially during its peak, when many of the sails that came into view were likely to be hostile.Therefore access to the site must have been primarily from the shallow channel which could only admit vessels of shallow draft.
+          Takwa eventual abandonment in the 17th century was due to salination of the once fresh water and endless fighting between Takwa and Pate people. These ruins were gazetted as a National Monument in 1982 in Gazette notice No. 1514. At present, Takwa is open daily to the Public. It is a very pleasant place for a casual visit, which can be complimented by a picnic and overnight camping.</p>
     
     
-<h1>The Fort of Shela</h1>
-       <img id="img1" src="https://images.squarespace-cdn.com/content/v1/5b9a6a52a9e02884bac7536b/1562332894526-JEEJ98C92B5VILFM0VQ0/thefortshela_rosalia_8759.jpg" alt=""/>
-
-            <p>Nestled along the sand dunes of Shela Beach, The Fort has been hailed as a monument to Omani architectural ingenuity. Built in 2001, the landmark is the epitome of privacy and seclusion. Its unique architecture occupies an unrivaled position overlooking the Indian Ocean on the deserted 14 kilometre beach.
-
-Peaceful and tranquil in it’s setting, surrounded by natural dunes and breezy casuarinas, The Fort is an elegant and unique sanctuary offering privacy combined with personalized hospitality. Extremely private and secure, this oasis is just a ten minute walk along the beach to Shela Village.
-
-The Fort is constructed of local coral stone and is enclosed by an imposing 50-foot high sandstone wall. The Omani style heavy wooden entrance doors, decorated with iron studs, open onto the main floor of the property, where large arches surround the central courtyard. The living area, lower dining area and lounge look onto the aesthetic pool and the beautiful garden.
-
-From the upstairs formal dining area, guests can enjoy spectacular views of the Indian Ocean as traditional dhows sail by and donkeys and camels cruise the beach. Peering out at the pristine Shela Beach one is reminded that time here has stopped.
-
-The Fort comes with a full staff to take care of all of your needs and desires. We can arrange day excursions to Lamu Town, neighboring islands, as well as fishing, snorkeling and sailing trips.</p>
-<h1>Manda Toto</h1>
-       <img id="img2" src="https://pbs.twimg.com/media/EEAJUIsWsAAIJLf.jpg" alt=""/>
-
-            <p>TManda Toto is the small offshore island of Manda Island. Unsurprisingly, the name of this desert island in the Lamu archipelago means literally “Child of Manda”.
-
-If you are looking for nature, dream beaches and complete solitude, you will not be disappointed on Manda Toto, as it is almost as idyllic as it can get here. As is the case on the main island of Manda, there is no fresh water on Manda Toto and here there is nothing but unspoilt nature, but that does of course mean that you have to bring your own food and drink.
-
-You will find dream beaches in the north of Manda Toto on both sides of the small island. These are especially spacious at low tide when you might even be able to walk to the main island of Manda. Manda Bay can be reached by boat from Lamu, but the trip is not cheap because of the high petrol prices on the Lamu archipelago. However, the journey passes by mangrove forests which are the natural habitat for many different kinds of animals and well worth seeing.
-<br></br>
-<br></br>
-<br></br>
-<a href='https://www.tripadvisor.com/Tourism-g294208-Lamu_Island_Coast_Province-Vacations.html' className='more'>More About Lamu</a>
-
-
-</p>
+      <h1>The Fort of Shela</h1>
+      <img id="img1" src="https://images.squarespace-cdn.com/content/v1/5b9a6a52a9e02884bac7536b/1562332894526-JEEJ98C92B5VILFM0VQ0/thefortshela_rosalia_8759.jpg" alt=""/>
+      <p>Nestled along the sand dunes of Shela Beach, The Fort has been hailed as a monument to Omani architectural ingenuity. Built in 2001, the landmark is the epitome of privacy and seclusion. Its unique architecture occupies an unrivaled position overlooking the Indian Ocean on the deserted 14 kilometre beach.
+         Peaceful and tranquil in it’s setting, surrounded by natural dunes and breezy casuarinas, The Fort is an elegant and unique sanctuary offering privacy combined with personalized hospitality. Extremely private and secure, this oasis is just a ten minute walk along the beach to Shela Village.
+         The Fort is constructed of local coral stone and is enclosed by an imposing 50-foot high sandstone wall. The Omani style heavy wooden entrance doors, decorated with iron studs, open onto the main floor of the property, where large arches surround the central courtyard. The living area, lower dining area and lounge look onto the aesthetic pool and the beautiful garden.
+         From the upstairs formal dining area, guests can enjoy spectacular views of the Indian Ocean as traditional dhows sail by and donkeys and camels cruise the beach. Peering out at the pristine Shela Beach one is reminded that time here has stopped.
+         The Fort comes with a full staff to take care of all of your needs and desires. We can arrange day excursions to Lamu Town, neighboring islands, as well as fishing, snorkeling and sailing trips.</p>
+        
+      <h1>Manda Toto</h1>
+      <img id="img2" src="https://pbs.twimg.com/media/EEAJUIsWsAAIJLf.jpg" alt=""/>
+      <p>TManda Toto is the small offshore island of Manda Island. Unsurprisingly, the name of this desert island in the Lamu archipelago means literally “Child of Manda”.
+         If you are looking for nature, dream beaches and complete solitude, you will not be disappointed on Manda Toto, as it is almost as idyllic as it can get here. As is the case on the main island of Manda, there is no fresh water on Manda Toto and here there is nothing but unspoilt nature, but that does of course mean that you have to bring your own food and drink.
+         You will find dream beaches in the north of Manda Toto on both sides of the small island. These are especially spacious at low tide when you might even be able to walk to the main island of Manda. Manda Bay can be reached by boat from Lamu, but the trip is not cheap because of the high petrol prices on the Lamu archipelago. However, the journey passes by mangrove forests which are the natural habitat for many different kinds of animals and well worth seeing.
+        <br></br>
+        <br></br>
+        <br></br>
+      <a href='https://www.tripadvisor.com/Tourism-g294208-Lamu_Island_Coast_Province-Vacations.html' className='more'>More About Lamu</a></p>
     </div>   
     </div>   
  
