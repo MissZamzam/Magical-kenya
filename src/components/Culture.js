@@ -24,9 +24,9 @@ const Culture = () => {
 
 {/* My arguments centre on an analysis of the first compilation of all ethnic codes used in all censuses, and available explanations for them drawn from census reports and records at the Kenya National Archives, including enumeration instruction manuals. The arguments are further informed by media analysis and ethnographic observation in Nairobi of the 2009 and 2019 censuses, including conversations with enumerators and low-level administrators from provincial (2009) and county administrations (2019) overseeing enumeration in the neighbourhood of Kibra. I do not, however, have any hard evidence about why codes were changed over the postcolonial period, and the difficulty of acquiring such evidence is also part of my argument about the opacity of the classification process.</p> */}
 </p>
-<img id="img2" src="https://i.pinimg.com/564x/d2/d8/e8/d2d8e8a4ece17cdd70e6fd7199762a02.jpg" alt=""/>
+<img id="img2" src="https://i.pinimg.com/564x/5e/f5/86/5ef586fec26fa20eff92c206bc320d9f.jpg" alt=""/>
 
-<img id="img1" src="https://i.pinimg.com/564x/d2/d8/e8/d2d8e8a4ece17cdd70e6fd7199762a02.jpg" alt=""/>
+<img id="img1" src="https://i.pinimg.com/564x/e4/39/46/e43946548c6e1ac7c17ce85f36a7aca0.jpg" alt=""/>
        
        
        
