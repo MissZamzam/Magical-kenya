@@ -28,7 +28,7 @@ function Hero() {
           </div>
           <div class="card_creator">
             <NavLink to='/wildlife'>
-            <button className='button'>Read More</button>
+            <button className='button'>Explore More</button>
             </NavLink>          </div>
         </div>
       </div>
@@ -50,7 +50,7 @@ function Hero() {
           </div>
           <div class="card_creator">
             <NavLink to='/coast'>
-            <button className='button'>Read More</button>
+            <button className='button'>Explore More</button>
             </NavLink>          </div>
         </div>
       </div>
@@ -72,7 +72,7 @@ function Hero() {
           </div>
           <div class="card_creator">
             <NavLink to='/north'>
-            <button className='button'>Read More</button>
+            <button className='button'>Explore More</button>
             </NavLink>          </div>
         </div>
       </div>
@@ -87,7 +87,7 @@ function Hero() {
             Nairobi city
           </div>
           <div class="card_info">
-            <p class="title">Nairobi is a beautiful mix of natural and manmade attractions
+            <p class="title">A beautiful mix of natural and manmade attractions
 </p>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
@@ -95,7 +95,7 @@ function Hero() {
           </div>
           <div class="card_creator">
             <NavLink to='/nairobi'>
-            <button className='button'>Read More</button>
+            <button className='button'>Explore More</button>
             </NavLink>          </div>
         </div>
       </div>
@@ -118,7 +118,7 @@ function Hero() {
           <div class="card_creator">
             
             <NavLink to='/safari'>
-            <button className='button'>Read More</button>
+            <button className='button'>Explore More</button>
             </NavLink>
 
           </div>
@@ -142,7 +142,7 @@ function Hero() {
           </div>
           <div class="card_creator">
             <NavLink to='/culture'>
-            <button className='button'>Read More</button>
+            <button className='button'>Explore More</button>
             </NavLink>
           </div>
         </div>
@@ -166,7 +166,7 @@ function Hero() {
           </div>
           <div class="card_creator">
             <NavLink to='/parks'>
-            <button className='button'>Read More</button>
+            <button className='button'>Explore More</button>
             </NavLink>
           </div>
         </div>
@@ -190,7 +190,7 @@ function Hero() {
           </div>
           <div class="card_creator">
             <NavLink to='/culture'>
-            <button className='button'>Read More</button>
+            <button className='button'>Explore More</button>
             </NavLink>
           </div>
         </div>
