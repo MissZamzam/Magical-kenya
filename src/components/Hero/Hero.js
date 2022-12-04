@@ -1,6 +1,7 @@
 // import { Button } from 'bootstrap';
 import './Hero.css'
 import { NavLink } from "react-router-dom"
+import { Tooltip } from 'bootstrap';
 
 
 function Hero() {
