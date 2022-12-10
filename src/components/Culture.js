@@ -3,7 +3,7 @@
 const Culture = () => {
     return ( 
     <div className='container'>
-                <h1>Kenyan Communities</h1>
+      <h1>Kenyan Communities</h1>
                 <hr></hr>
                 <h2 className="text-center">Culturally Vibrant, Beautifully Diverse</h2>
                 <hr></hr>
