@@ -3,7 +3,7 @@ const North = () => {
     return ( 
        <div className='container'>
         <div>
-        <h1>Mtwapa</h1>
+        <h1>Northern Kenya</h1>
 
         <p>Northern Kenya is a largely unexplored expanse of wild beauty rich in colour and experiences.
             Every day, the sun seems to be smiling down on this part of the country with sights, sounds and sceneries that are of unmatched brilliance.The reputation of Northern Kenya has been transformed in the past few years by a community-driven determination to promote and maintain peace, protect the region’s unique wildlife and habitats, and preserve diverse and historic cultures. This area is one of Africa’s best-kept secrets and Saruni has two properties here – Saruni Samburu and Saruni Rhino in Kalama Conservancy and Sera Conservancy respectively.</p>
