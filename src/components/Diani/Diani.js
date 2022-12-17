@@ -40,13 +40,14 @@ const Diani = () => {
         <img id="img2" src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg" alt=""/>
         <p>ow can you leave Kenya without seeing, touching, and even purchasing some of our art items?
 
-Diani Beach Art Gallery is a hub of some of Africa’s most beautiful art pieces.
+            Diani Beach Art Gallery is a hub of some of Africa’s most beautiful art pieces.
 
-This gallery brings together unique and unusual pieces of art made by talented Africans, at meager prices.
+            This gallery brings together unique and unusual pieces of art made by talented Africans, at meager prices.
 
-The entrance is endowed with superb sculptures, and all workers have a knack for art and creation. Here, you will find some beautiful creations that you may never see in any other part of the world.
+            The entrance is endowed with superb sculptures, and all workers have a knack for art and creation. Here, you will find some beautiful creations that you may never see in any other part of the world.
 
-The place is open from Monday up to Saturday between 9 am, and 5 pm, and no prior bookings are needed.  You can follow the Diani beach Art Gallery on Twitter or join their Facebook group, and see what to expect during your visit.</p>
+            The place is open from Monday up to Saturday between 9 am, and 5 pm, and no prior bookings are needed.  You can follow the Diani beach Art Gallery on Twitter or join their Facebook group, and see what to expect during your visit.</p>
+            
     </div>
     </div>     
 
