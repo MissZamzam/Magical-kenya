@@ -85,7 +85,7 @@ const Wildlife = () => {
         <img id="img2" src="https://www.heleninwonderlust.co.uk/wp-content/uploads/2019/05/Nairobi-13-1.png" alt=""/>
         <p>If you love elephants (especially baby ones), you’re going to love the Sheldrick Wildlife Trust, (formerly the David Sheldrick Wildlife Trust) a rehabilitation centre for abandoned or orphaned baby elephants (and other animals, occasionally rhinos) who are too young to survive in the wild on their own.
            The elephant orphanage in Nairobi was started by the late Dame Daphne Sheldrick in memory of her late husband, David, a legendary ranger of Tsavo National Park. The elephants are cared for and then released back into the wild when they are old enough.
-            Visitors are allowed in at 11 a.m. each day for approximately 1 hour to see the elephants and listen to a talk by one of the keepers. Sometimes the baby elephants come up to say hello and I’ve had my foot trodden on many times! You can adopt a baby elephant for as little as £35 a year which also gives you access to visit outside of the usual hours.</p>
+           Visitors are allowed in at 11 a.m. each day for approximately 1 hour to see the elephants and listen to a talk by one of the keepers. Sometimes the baby elephants come up to say hello and I’ve had my foot trodden on many times! You can adopt a baby elephant for as little as £35 a year which also gives you access to visit outside of the usual hours.</p>
 
 </div>
     </div>     
