@@ -14,9 +14,9 @@ const Coastal = () => {
 
 
     <div class="card_item">
-      <div class="card_inner">
+    <div class="card_iner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/d4/24/32/d424323fbcc9ef59f64c161119c07ef5.jpg" alt="car" />
+        {/* <img src="https://i.pinimg.com/564x/d4/24/32/d424323fbcc9ef59f64c161119c07ef5.jpg" alt="car" /> */}
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -42,9 +42,9 @@ const Coastal = () => {
 
 
     <div class="card_item">
-      <div class="card_inner">
+      <div class="card_iner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/bb/0f/22/bb0f221f13094a4aa631abf7eff90ed5.jpg" alt="car" />
+        {/* <img src="https://i.pinimg.com/564x/bb/0f/22/bb0f221f13094a4aa631abf7eff90ed5.jpg" alt="car" /> */}
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -68,9 +68,9 @@ const Coastal = () => {
 
 
     <div class="card_item">
-      <div class="card_inner">
+    <div class="card_iner">
         <div class="card_top">
-        <img src="https://www.travelmoran.com/wp-content/uploads/2022/06/vasco-da-gama-pillar-1024x1024.jpg" alt="car" />
+        {/* <img src="https://www.travelmoran.com/wp-content/uploads/2022/06/vasco-da-gama-pillar-1024x1024.jpg" alt="car" /> */}
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -94,9 +94,9 @@ const Coastal = () => {
 
 
     <div class="card_item">
-      <div class="card_inner">
+    <div class="card_iner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/236x/7c/1e/6a/7c1e6a1c781afc72ae8ac9ed98ab1d2a.jpg" alt="car" />
+        {/* <img src="https://i.pinimg.com/236x/7c/1e/6a/7c1e6a1c781afc72ae8ac9ed98ab1d2a.jpg" alt="car" /> */}
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -120,9 +120,9 @@ const Coastal = () => {
 
 
     <div class="card_item">
-      <div class="card_inner">
+    <div class="card_iner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/236x/7c/1e/6a/7c1e6a1c781afc72ae8ac9ed98ab1d2a.jpg" alt="car" />
+        {/* <img src="https://i.pinimg.com/236x/7c/1e/6a/7c1e6a1c781afc72ae8ac9ed98ab1d2a.jpg" alt="car" /> */}
         </div>
         <div class="card_bottom">
           <div class="card_category">
