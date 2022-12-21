@@ -28,7 +28,7 @@ const Coastal = () => {
             Lamu is vastly different from most cities in Kenya, most particularly due to the almost complete lack of motor vehicles and corresponding traffic.             </p>
           </div>
           <div class="card_creator">
-          <h1>Excited to learn more about Lamu?</h1>
+          {/* <h1>Excited to learn more about Lamu?</h1> */}
 
             <NavLink to='/lamu'>
             <button className='button'>Discover Lamu</button>
@@ -56,7 +56,7 @@ const Coastal = () => {
             Mombasa offers a diverse marine life, world-class hotels and friendly atmosphere. There is a tropical climit is a great destination filled with activities for all ages.             </p>
           </div>
           <div class="card_creator">
-          <h1>Excited to learn more about Mombasa?</h1>
+          {/* <h1>Excited to learn more about Mombasa?</h1> */}
 
             <NavLink to='/mombasa'>
             <button className='button'>Discover Mombasa</button>
@@ -82,7 +82,7 @@ const Coastal = () => {
             Lamu is vastly different from most cities in Kenya, most particularly due to the almost complete lack of motor vehicles and corresponding traffic.             </p>
           </div>
           <div class="card_creator">
-          <h1>Excited to learn more about Malindi?</h1>
+          {/* <h1>Excited to learn more about Malindi?</h1> */}
 
             <NavLink to='/malindi'>
             <button className='button'>Discover Malindi</button>
@@ -108,7 +108,7 @@ const Coastal = () => {
             Lamu is vastly different from most cities in Kenya, most particularly due to the almost complete lack of motor vehicles and corresponding traffic.             </p>
           </div>
           <div class="card_creator">
-          <h1>Excited to learn more about Mtwapa?</h1>
+          {/* <h1>Excited to learn more about Mtwapa?</h1> */}
 
             <NavLink to='/mtwapa'>
             <button className='button'>Discover Mtwapa</button>
@@ -136,7 +136,7 @@ const Coastal = () => {
             Lamu is vastly different from most cities in Kenya, most particularly due to the almost complete lack of motor vehicles and corresponding traffic.             </p>
           </div>
           <div class="card_creator">
-          <h1>Excited to learn more about Diani Beach?</h1>
+          {/* <h1>Excited to learn more about Diani Beach?</h1> */}
 
             <NavLink to='/diani'>
             <button className='button'>Discover Diani</button>
