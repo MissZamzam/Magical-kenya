@@ -129,9 +129,7 @@ const Coastal = () => {
               Diani Beach
           </div>
           <div class="card_info">
-            <p class="title">A resort area on the Indian Ocean in Kenya
-
-</p>
+            <p class="title">A resort area on the Indian Ocean in Kenya</p>
             <p>
             Lamu is vastly different from most cities in Kenya, most particularly due to the almost complete lack of motor vehicles and corresponding traffic.             </p>
           </div>
