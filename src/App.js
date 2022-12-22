@@ -24,20 +24,20 @@ function App() {
 
   const routes = useRoutes([
     { path: '/', element: <Home /> },
-    { path: 'about', element: <AboutUs/> } 
-    { path: 'hero', element: <Hero/> } 
-    { path: 'content', element: <Content/> } 
-    { path: 'lamu', element: <Lamu/> } 
-    { path: 'mombasa', element: <Mombasa/> } 
-    { path: 'malindi', element: <Malindi/> } 
-    { path: 'mtwapa', element: <Mtwapa/> } 
-    { path: 'diani', element: <Diani/> } 
-    { path: 'parks', element: <Content/> } 
-    <Route path="wildlife" element={ <Wildlife/> } 
-    <Route path="coast" element={ <Coastal/> } 
-    <Route path="north" element={ <North/> } 
-    <Route path="nairobi" element={ <Nairobi/> } 
-    <Route path="culture" element={ <Culture/> } 
+    { path: 'about', element: <AboutUs/> } ,
+    { path: 'hero', element: <Hero/> } ,
+    { path: 'content', element: <Content/> } ,
+    { path: 'lamu', element: <Lamu/> } ,
+    { path: 'mombasa', element: <Mombasa/> } ,
+    { path: 'malindi', element: <Malindi/> } ,
+    { path: 'mtwapa', element: <Mtwapa/> } ,
+    { path: 'diani', element: <Diani/> } ,
+    { path: 'parks', element: <Content/> }, 
+    { path: 'wildlife', element: <Wildlife/> }, 
+    { path: 'coast', element: <Coastal/> } ,
+    { path: 'north', element: <North/> } ,
+    { path: 'nairobi', element: <Nairobi/> }, 
+    { path: 'culture', element: <Culture/> } 
 ]);
 
 
