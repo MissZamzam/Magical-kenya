@@ -34,10 +34,9 @@ function App() {
     { path: 'malindi', element: <Malindi/> } ,
     { path: 'mtwapa', element: <Mtwapa/> } ,
     { path: 'diani', element: <Diani/> } ,
-    { path: 'parks', element: <Parks/> }, 
+    { path: 'parks', element: <Parks/> } ,
     { path: 'wildlife', element: <Wildlife/> }, 
     { path: 'coast', element: <Coastal/> } ,
-    { path: 'north', element: <North/> } ,
     { path: 'nairobi', element: <Nairobi/> }, 
     { path: 'culture', element: <Culture/> } 
 ]);
