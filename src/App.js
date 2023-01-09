@@ -25,7 +25,7 @@ import Parks from "./components/Parks/Parks"
 function App() {
 
   const routes = useRoutes([
-    { path: '/', element: <Home /> },
+    { path: '/', element: <Home /> } ,
     { path: 'about', element: <AboutUs/> } ,
     { path: 'hero', element: <Hero/> } ,
     { path: 'content', element: <Content/> } ,
