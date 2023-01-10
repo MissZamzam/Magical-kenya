@@ -38,7 +38,7 @@ function App() {
     { path: 'wildlife', element: <Wildlife/> }, 
     { path: 'coast', element: <Coastal/> } ,
     { path: 'nairobi', element: <Nairobi/> }, 
-    { path: 'culture', element: <Culture/> } 
+    { path: 'culture', element: <Culture/> } ,
 ]);
 
 
