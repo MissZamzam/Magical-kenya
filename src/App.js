@@ -39,6 +39,7 @@ function App() {
     { path: 'coast', element: <Coastal/> } ,
     { path: 'nairobi', element: <Nairobi/> }, 
     { path: 'culture', element: <Culture/> } ,
+    
 ]);
 
 
