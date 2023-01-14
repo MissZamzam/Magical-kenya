@@ -7,7 +7,6 @@ const Wildlife = () => {
                 <hr></hr>
                 <br></br>
                 <p>Nairobi is the bustling capital city of Kenya and the main entry point to the country. Most visitors spend a day or two exploring the capital at the start or end of a trip. From game viewing at Nairobi National Park, to experiencing the vibrant flavours, colours, and sounds of the Maasai Market, Nairobi has plenty to offer.</p>
-
     <div>
         <h1>Shopping Malls</h1>
         <img id="img1" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ec/2d/80/the-mall.jpg?w=500&h=400&s=1" alt="" />
