@@ -1,8 +1,6 @@
 import React from "react";
-import { Router } from 'react-router-dom';
+import { Router, Routes, Route } from 'react-router-dom';
 
-// import { Routes, Route } from "react-router-dom"
-import { useRoutes } from "react-router-dom";
 
 import Home from "./components/Home/Home"
 import Hero from "./components/Hero/Hero"
@@ -23,56 +21,37 @@ import Parks from "./components/Parks/Parks"
 
 
 function App() {
+  return (
+    <div className="App">
+      <Router>
 
-  const routes = useRoutes([
-    { path: '/', element: <Home /> } ,
-    { path: 'about', element: <AboutUs/> } ,
-    { path: 'hero', element: <Hero/> } ,
-    { path: 'content', element: <Content/> } ,
-    { path: 'lamu', element: <Lamu/> } ,
-    { path: 'mombasa', element: <Mombasa/> } ,
-    { path: 'malindi', element: <Malindi/> } ,
-    { path: 'mtwapa', element: <Mtwapa/> } ,
-    { path: 'diani', element: <Diani/> } ,
-    { path: 'parks', element: <Parks/> } ,
-    { path: 'wildlife', element: <Wildlife/> }, 
-    { path: 'coast', element: <Coastal/> } ,
-    { path: 'nairobi', element: <Nairobi/> }, 
-    { path: 'culture', element: <Culture/> } ,
-    
-]);
-
-
-  return 
-  <Router>
-    {routes}
-  </Router>
-  
-  // (
-  //   <div className="App">
-  //     <Routes>
-  //       <Route path="/" element={ <Home/> } />
-  //       <Route path="about" element={ <AboutUs/> } />
-  //       <Route path="hero" element={ <Hero/> } />
-  //       <Route path="content" element={ <Content/> } />
-  //       <Route path="lamu" element={ <Lamu/> } />
-  //       <Route path="mombasa" element={ <Mombasa/> } />
-  //       <Route path="malindi" element={ <Malindi/> } />
-  //       <Route path="mtwapa" element={ <Mtwapa/> } />
-  //       <Route path="diani" element={ <Diani/> } />
-  //       <Route path="parks" element={ <Parks/> } />
-  //       <Route path="wildlife" element={ <Wildlife/> } />
-  //       <Route path="coast" element={ <Coastal/> } />
-  //       <Route path="north" element={ <North/> } />
-  //       <Route path="nairobi" element={ <Nairobi/> } />
-  //       <Route path="culture" element={ <Culture/> } />
+      <Routes>
+        <Route path="/" element={ <Home/> } />
+        <Route path="about" element={ <AboutUs/> } />
+        {/* <Route path="destination" element={ <Destination/> } /> */}
+        <Route path="hero" element={ <Hero/> } />
+        <Route path="content" element={ <Content/> } />
+        <Route path="lamu" element={ <Lamu/> } />
+        <Route path="mombasa" element={ <Mombasa/> } />
+        <Route path="malindi" element={ <Malindi/> } />
+        <Route path="mtwapa" element={ <Mtwapa/> } />
+        <Route path="diani" element={ <Diani/> } />
+        <Route path="parks" element={ <Parks/> } />
+        <Route path="wildlife" element={ <Wildlife/> } />
+        <Route path="coast" element={ <Coastal/> } />
+        <Route path="north" element={ <North/> } />
+        <Route path="nairobi" element={ <Nairobi/> } />
+        {/* <Route path="safari" element={ <Safari/> } /> */}
+        <Route path="culture" element={ <Culture/> } />
 
 
 
 
-  //     </Routes>
-  //   </div>
-  // )
+      </Routes>
+      </Router>
+
+    </div>
+  )
 }
 
 export default App
