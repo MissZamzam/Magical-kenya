@@ -26,9 +26,7 @@ function Hero() {
           </div>
           <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
-            </p>
+            
           </div>
           <div class="card_creator">
             <NavLink to='/wildlife'>
@@ -48,9 +46,7 @@ function Hero() {
           </div>
           <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
-            </p>
+           
           </div>
           <div class="card_creator">
             <NavLink to='/coast'>
@@ -70,9 +66,7 @@ function Hero() {
           </div>
           <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
-            </p>
+           
           </div>
           <div class="card_creator">
             <NavLink to='/north'>
@@ -93,9 +87,7 @@ function Hero() {
           <div class="card_info">
             <p class="title">A beautiful mix of natural and manmade attractions
 </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
-            </p>
+           
           </div>
           <div class="card_creator">
             <NavLink to='/nairobi'>
@@ -115,9 +107,7 @@ function Hero() {
           </div>
           <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
-            </p>
+            
           </div>
           <div class="card_creator">
             
@@ -140,9 +130,7 @@ function Hero() {
           </div>
           <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
-            </p>
+          
           </div>
           <div class="card_creator">
             <NavLink to='/culture'>
@@ -164,9 +152,7 @@ function Hero() {
           </div>
           <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
-            </p>
+           
           </div>
           <div class="card_creator">
             <NavLink to='/parks'>
@@ -184,13 +170,11 @@ function Hero() {
         </div>
         <div class="card_bottom">
           <div class="card_category">
-            Breath-Taking Physical Features
+            Breath-Taking  Features
           </div>
           <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
-            </p>
+           
           </div>
           <div class="card_creator">
             <NavLink to='/culture'>
