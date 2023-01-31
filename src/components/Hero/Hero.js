@@ -18,7 +18,7 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/26/0f/38/260f38b7772ca3734dbf032d78175870.jpg" alt="car" />
+        <img src="https://i.pinimg.com/564x/c5/33/47/c53347580119d787b0a08f669cfa1761.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -38,7 +38,7 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-          <img src="https://i.pinimg.com/236x/2b/af/a0/2bafa029a0f5398c67e05782aee357f5.jpg" alt="car" />
+          <img src="https://i.pinimg.com/564x/c4/b5/f3/c4b5f354da2fd2a4ad62f9b50e71be6c.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -58,7 +58,7 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://pbs.twimg.com/media/EQ9jJqOXYAAzv5T.jpg" alt="car" />
+        <img src="https://i.pinimg.com/564x/18/79/83/187983487c2a6f1b4cd7fe2a809e9649.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -78,15 +78,14 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/originals/72/20/85/722085e667a311fedd82277504f0a335.jpg" alt="car" />
+        <img src="https://i.pinimg.com/564x/45/48/c6/4548c6d44cebd1917667a74ea7df4ed5.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
             Nairobi city
           </div>
           <div class="card_info">
-            <p class="title">A beautiful mix of natural and manmade attractions
-</p>
+            <p class="title">A beautiful mix of natural and manmade attractions</p>
            
           </div>
           <div class="card_creator">
@@ -99,14 +98,14 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/7c/e5/ef/7ce5efd2bf0590d31c96a96adf5c28d2.jpg" alt="car" />
+        <img src="https://i.pinimg.com/564x/f6/71/d1/f671d17b6393a922e4fe959cec5f9a23.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
             safaris
           </div>
           <div class="card_info">
-            <p class="title">10 Best Things about Travel</p>
+          <p class="title">A beautiful mix of natural and manmade attractions</p>
             
           </div>
           <div class="card_creator">
@@ -129,7 +128,7 @@ function Hero() {
             Diverse Culture
           </div>
           <div class="card_info">
-            <p class="title">10 Best Things about Travel</p>
+          <p class="title">A beautiful mix of natural and manmade attractions</p>
           
           </div>
           <div class="card_creator">
@@ -151,7 +150,7 @@ function Hero() {
             National Parks & Reserves
           </div>
           <div class="card_info">
-            <p class="title">10 Best Things about Travel</p>
+          <p class="title">A beautiful mix of natural and manmade attractions</p>
            
           </div>
           <div class="card_creator">
@@ -173,7 +172,7 @@ function Hero() {
             Breath-Taking  Features
           </div>
           <div class="card_info">
-            <p class="title">10 Best Things about Travel</p>
+          <p class="title">A beautiful mix of natural and manmade attractions</p>
            
           </div>
           <div class="card_creator">
