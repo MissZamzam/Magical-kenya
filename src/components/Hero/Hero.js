@@ -24,10 +24,10 @@ function Hero() {
           <div class="card_category">
             wildlife
           </div>
-          <div class="card_info">
+          {/* <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
             
-          </div>
+          </div> */}
           <div class="card_creator">
             <NavLink to='/wildlife'>
             <button className='button'>Explore More</button>
@@ -44,10 +44,10 @@ function Hero() {
           <div class="card_category">
             Coastal Kenya
           </div>
-          <div class="card_info">
+          {/* <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
            
-          </div>
+          </div> */}
           <div class="card_creator">
             <NavLink to='/coast'>
             <button className='button'>Explore More</button>
@@ -121,7 +121,7 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/5b/da/4b/5bda4b0cbfeaeadc5058fef3b9ebf25d.jpg" alt="car" />
+        <img src="https://i.pinimg.com/564x/a5/13/1f/a5131f82b596703bb90c553cfdd12bb2.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -143,7 +143,7 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/9e/d8/68/9ed868b537ccf9ba0deba6a54c1e31f4.jpg" alt="car" />
+        <img src="https://i.pinimg.com/564x/e1/b9/0d/e1b90da353281892312a53585a3a1cc0.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -165,7 +165,7 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/33/5e/48/335e4882c9e986f70656a3d457689315.jpg" alt="car" />
+        <img src="https://i.pinimg.com/564x/68/64/d0/6864d0ed10b64e5d784ebd7f859602ff.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
