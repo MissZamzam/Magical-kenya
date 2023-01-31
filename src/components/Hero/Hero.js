@@ -64,10 +64,10 @@ function Hero() {
           <div class="card_category">
             Northern Kenya
           </div>
-          <div class="card_info">
+          {/* <div class="card_info">
             <p class="title">10 Best Things about Travel</p>
            
-          </div>
+          </div> */}
           <div class="card_creator">
             <NavLink to='/north'>
             <button className='button'>Explore More</button>
@@ -84,10 +84,10 @@ function Hero() {
           <div class="card_category">
             Nairobi city
           </div>
-          <div class="card_info">
+          {/* <div class="card_info">
             <p class="title">A beautiful mix of natural and manmade attractions</p>
            
-          </div>
+          </div> */}
           <div class="card_creator">
             <NavLink to='/nairobi'>
             <button className='button'>Explore More</button>
@@ -104,10 +104,10 @@ function Hero() {
           <div class="card_category">
             safaris
           </div>
-          <div class="card_info">
+          {/* <div class="card_info">
           <p class="title">A beautiful mix of natural and manmade attractions</p>
             
-          </div>
+          </div> */}
           <div class="card_creator">
             
             <NavLink to='/safari'>
@@ -127,10 +127,10 @@ function Hero() {
           <div class="card_category">
             Diverse Culture
           </div>
-          <div class="card_info">
+          {/* <div class="card_info">
           <p class="title">A beautiful mix of natural and manmade attractions</p>
           
-          </div>
+          </div> */}
           <div class="card_creator">
             <NavLink to='/culture'>
             <button className='button'>Explore More</button>
@@ -149,10 +149,10 @@ function Hero() {
           <div class="card_category">
             National Parks & Reserves
           </div>
-          <div class="card_info">
+          {/* <div class="card_info">
           <p class="title">A beautiful mix of natural and manmade attractions</p>
            
-          </div>
+          </div> */}
           <div class="card_creator">
             <NavLink to='/parks'>
             <button className='button'>Explore More</button>
@@ -171,10 +171,10 @@ function Hero() {
           <div class="card_category">
             Breath-Taking  Features
           </div>
-          <div class="card_info">
+          {/* <div class="card_info">
           <p class="title">A beautiful mix of natural and manmade attractions</p>
            
-          </div>
+          </div> */}
           <div class="card_creator">
             <NavLink to='/culture'>
             <button className='button'>Explore More</button>
