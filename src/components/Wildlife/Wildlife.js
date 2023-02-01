@@ -1,4 +1,4 @@
-
+import Footer from "../Footer/Footer";
 const Wildlife = () => {
     return ( 
     <div className='container'>
@@ -118,6 +118,7 @@ const Wildlife = () => {
 </p>
 
 </div>
+<Footer />
     </div>     
 
          );
