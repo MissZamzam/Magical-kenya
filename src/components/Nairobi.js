@@ -1,5 +1,5 @@
 // import './Wildlife.css'
-
+import Footer from "./Footer/Footer";
 const Wildlife = () => {
     return ( 
     <div className='container'>
@@ -87,6 +87,7 @@ const Wildlife = () => {
            Visitors are allowed in at 11 a.m. each day for approximately 1 hour to see the elephants and listen to a talk by one of the keepers. Sometimes the baby elephants come up to say hello and I’ve had my foot trodden on many times! You can adopt a baby elephant for as little as £35 a year which also gives you access to visit outside of the usual hours.</p>
 
 </div>
+<Footer />
     </div>     
 
          );
