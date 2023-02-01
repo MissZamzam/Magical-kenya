@@ -18,7 +18,7 @@ import Diani from "./components/Diani/Diani"
 import Parks from "./components/Parks/Parks"
 import FAQ from "./components/FAQ"
 import Safari from "./components/Safari"
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer/Footer";
 
 
 
@@ -43,7 +43,7 @@ function App() {
         <Route path="nairobi" element={ <Nairobi/> } />
         <Route path="safari" element={ <Safari/> } />
         <Route path="culture" element={ <Culture/> } />
-        <Route path="footer" element={ <Footer/> } />
+        {/* <Route path="footer" element={ <Footer/> } /> */}
 
 
 

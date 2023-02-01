@@ -35,8 +35,8 @@ img {
 }
 
 .cards_wrap .card_iner {
-  background: rgb(224, 219, 213);
-  /* border: 1px rgb(24, 94, 36) solid; */
+  background: rgb(233, 210, 181);
+  border: 2px rgb(216, 143, 121) solid;
 }
 
 .cards_wrap .card_top {
@@ -54,12 +54,14 @@ img {
   text-transform: uppercase;
   text-align: center;
   font-size: 16px;
+  font-weight: 900;
 }
 
 .cards_wrap .card_bottom .card_info {
   padding: 15px;
   margin: 10px 0;
   border: 1px dashed green;
+  
 }
 
 .cards_wrap .card_bottom .card_info .title {

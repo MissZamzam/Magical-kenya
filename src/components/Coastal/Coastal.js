@@ -51,9 +51,9 @@ const Coastal = () => {
               Mombasa
           </div>
           <div class="card_info">
-            <p class="title">Popular for its beaches and colonial heritage</p>
+            <p class="title">Beautiful beaches and colonial heritage</p>
             <p>
-            Mombasa offers a diverse marine life, world-class hotels and friendly atmosphere. There is a tropical climit is a great destination filled with activities for all ages.</p>
+            Mombasa offers a diverse marine life, world-class hotels and friendly atmosphere. There is a tropical climate is a great destination filled with activities for all ages.</p>
           </div>
           <div class="card_creator">
           {/* <h1>Excited to learn more about Mombasa?</h1> */}
