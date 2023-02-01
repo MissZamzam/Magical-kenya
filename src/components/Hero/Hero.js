@@ -13,8 +13,10 @@ function Hero() {
             <button className='button'>FAQ</button>
             </NavLink>  
         <p className='paragraphs'>Some Interesting Facts about Kenya</p>
+
 <div class="wrapper">
   <div class="cards_wrap">
+
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
@@ -24,17 +26,15 @@ function Hero() {
           <div class="card_category">
             wildlife
           </div>
-          {/* <div class="card_info">
-            <p class="title">10 Best Things about Travel</p>
-            
-          </div> */}
           <div class="card_creator">
             <NavLink to='/wildlife'>
             <button className='button'>Explore More</button>
-            </NavLink>          </div>
+            </NavLink>          
+            </div>
         </div>
       </div>
     </div>
+
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
