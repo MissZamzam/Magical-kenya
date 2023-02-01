@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom"
 import './Coastal.css'
+import Footer from "../Footer/Footer";
 
 const Coastal = () => {
     return (  
@@ -147,6 +148,7 @@ const Coastal = () => {
    
         </div>
       </div>
+      <Footer />
         </div>
     );
 }
