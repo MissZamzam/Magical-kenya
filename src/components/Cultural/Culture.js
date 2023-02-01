@@ -1,5 +1,5 @@
 // import './Wildlife.css'
-
+import Footer from "../Footer/Footer";
 const Culture = () => {
     return ( 
     <div className='container'>
@@ -64,6 +64,7 @@ const Culture = () => {
         <a href="https://en.unesco.org/creativity/monitoring-reporting/periodic-reports/available-reports-20">Kenya 2016 report | Diversity of Cultural Expressions - UNESCO</a>
         
 </div>
+<Footer />
     </div>     
 
          );
