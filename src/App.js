@@ -42,7 +42,7 @@ function App() {
         <Route path="nairobi" element={ <Nairobi/> } />
         <Route path="safari" element={ <Safari/> } />
         <Route path="culture" element={ <Culture/> } />
-
+    
 
 
 
