@@ -1,4 +1,5 @@
 import './Parks.css'
+import Footer from '../Footer/Footer';
 
 const Parks = () => {
     return ( 
@@ -130,7 +131,8 @@ const Parks = () => {
             The shallow lake is rich in algae and according attracts the flamingos who eat around 551,155 pounds (250,000 kg) of algae per acre a year.
             Lake Nakuru National Park is only 102 miles (164 km) away from Nairobi making it easy to make a day trip out of the city to experience this amazing encounter with wildlife. </p>
                
-         </div>     
+         </div>    
+         <Footer /> 
     </div>
          );
 }
