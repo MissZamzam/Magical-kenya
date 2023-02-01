@@ -7,10 +7,8 @@ const Footer = () => {
 <footer>
 
   <div class="footer-content">
-        <h3>Magical Kenya</h3>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
-             text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It 
-             publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <h3>Welcome to Magical Kenya!</h3>
+        <p>Kenya is a multi-experiential destination offering unique, diverse, memorable and authentic travel experiences that lasts a lifetime. The magic of Kenya cannot be fully captured in written or spoken word.             </p>
 
           <div class="social">
             <h3>Follow us</h3>

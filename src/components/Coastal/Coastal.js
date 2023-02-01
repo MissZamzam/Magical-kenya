@@ -78,7 +78,7 @@ const Coastal = () => {
               Malindi
           </div>
           <div class="card_info">
-            <p class="title"> The most scenic beaches in Kenya</p>
+            <p class="title"> The most scenic beaches </p>
             <p>
             Lamu is vastly different from most cities in Kenya, most particularly due to the almost complete lack of motor vehicles and corresponding traffic.             </p>
           </div>
@@ -104,7 +104,7 @@ const Coastal = () => {
               Mtwapa
           </div>
           <div class="card_info">
-            <p class="title">A coastal town where many Europeans live</p>
+            <p class="title">Residents are Europeans</p>
             <p>
             Lamu is vastly different from most cities in Kenya, most particularly due to the almost complete lack of motor vehicles and corresponding traffic.             </p>
           </div>

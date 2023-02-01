@@ -4,7 +4,6 @@ import { Routes, Route } from 'react-router-dom';
 
 import Home from "./components/Home/Home"
 import Hero from "./components/Hero/Hero"
-import AboutUs from "./components/AboutUs"
 import Lamu from "./components/Lamu/Lamu"
 import Wildlife from "./components/Wildlife/Wildlife"
 import Coastal from "./components/Coastal/Coastal"
@@ -28,7 +27,6 @@ function App() {
 
       <Routes>
         <Route path="/" element={ <Home/> } />
-        <Route path="about" element={ <AboutUs/> } />
         <Route path="faq" element={ <FAQ/> } />
         <Route path="hero" element={ <Hero/> } />
         <Route path="lamu" element={ <Lamu/> } />

@@ -9,12 +9,14 @@ import Footer from '../Footer/Footer';
 function Hero() {
     return (
       <div>
-        <h1 className='paragraphs'>Magical Kenya  </h1>
-        <p>Kenya is a country in East Africa with coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley and mountain highlands. It’s also home to wildlife like lions, elephants and rhinos. From Nairobi, the capital, safaris visit the Maasai Mara Reserve, known for its annual wildebeest migrations, and Amboseli National Park, offering views of Tanzania’s 5,895m Mt. Kilimanjaro.</p>
+        <h1 className='paragraphs'>Karibu Kenya</h1>
+        <p>Kenya is a country in East Africa with coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley and mountain highlands. It’s also home to wildlife like lions, elephants and rhinos. From Nairobi, the capital, safaris visit the Maasai
+           Mara Reserve, known for its annual wildebeest migrations, and Amboseli National Park, offering views of Tanzania’s 5,895m Mt. Kilimanjaro.</p>
         {/* <NavLink to='/faq'>
             <button className='button'>FAQ</button>
         </NavLink>   */}
         <p className='paragraphs'>Facts about Kenya</p>
+        
 
 <div class="wrapper">
   <div class="cards_wrap">
@@ -46,14 +48,12 @@ function Hero() {
           <div class="card_category">
             Coastal Kenya
           </div>
-          {/* <div class="card_info">
-            <p class="title">10 Best Things about Travel</p>
-           
-          </div> */}
+         
           <div class="card_creator">
             <NavLink to='/coast'>
             <button className='button'>Explore More</button>
-            </NavLink>          </div>
+            </NavLink>          
+            </div>
         </div>
       </div>
     </div>
@@ -66,10 +66,7 @@ function Hero() {
           <div class="card_category">
             Northern Kenya
           </div>
-          {/* <div class="card_info">
-            <p class="title">10 Best Things about Travel</p>
-           
-          </div> */}
+          
           <div class="card_creator">
             <NavLink to='/north'>
             <button className='button'>Explore More</button>
@@ -86,10 +83,7 @@ function Hero() {
           <div class="card_category">
             Nairobi city
           </div>
-          {/* <div class="card_info">
-            <p class="title">A beautiful mix of natural and manmade attractions</p>
-           
-          </div> */}
+     \
           <div class="card_creator">
             <NavLink to='/nairobi'>
             <button className='button'>Explore More</button>
@@ -106,10 +100,7 @@ function Hero() {
           <div class="card_category">
             safaris
           </div>
-          {/* <div class="card_info">
-          <p class="title">A beautiful mix of natural and manmade attractions</p>
-            
-          </div> */}
+         
           <div class="card_creator">
             
             <NavLink to='/safari'>
@@ -129,10 +120,7 @@ function Hero() {
           <div class="card_category">
             Diverse Culture
           </div>
-          {/* <div class="card_info">
-          <p class="title">A beautiful mix of natural and manmade attractions</p>
-          
-          </div> */}
+        
           <div class="card_creator">
             <NavLink to='/culture'>
             <button className='button'>Explore More</button>
@@ -151,10 +139,7 @@ function Hero() {
           <div class="card_category">
             National Parks & Reserves
           </div>
-          {/* <div class="card_info">
-          <p class="title">A beautiful mix of natural and manmade attractions</p>
-           
-          </div> */}
+      
           <div class="card_creator">
             <NavLink to='/parks'>
             <button className='button'>Explore More</button>
@@ -173,10 +158,7 @@ function Hero() {
           <div class="card_category">
             Breath-Taking  Features
           </div>
-          {/* <div class="card_info">
-          <p class="title">A beautiful mix of natural and manmade attractions</p>
-           
-          </div> */}
+     
           <div class="card_creator">
             <NavLink to='/culture'>
             <button className='button'>Explore More</button>

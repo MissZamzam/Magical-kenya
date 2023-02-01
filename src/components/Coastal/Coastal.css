@@ -35,7 +35,7 @@ img {
 }
 
 .cards_wrap .card_iner {
-  background: rgb(233, 210, 181);
+  background: #F0EBCE;
   border: 2px rgb(216, 143, 121) solid;
 }
 
@@ -55,6 +55,7 @@ img {
   text-align: center;
   font-size: 16px;
   font-weight: 900;
+  color: #4E6C50;
 }
 
 .cards_wrap .card_bottom .card_info {
@@ -65,7 +66,7 @@ img {
 }
 
 .cards_wrap .card_bottom .card_info .title {
-  color: green;
+  color: #395144;
   font-size: 18px;
   margin-bottom: 5px;
 }
@@ -97,8 +98,10 @@ img {
     padding: 10px 25px;
     border: 1px green solid;
     color: green;
+    background: #F0EBCE;
+
 
 }
 .accordion{
-  background-color: red;
+  background-color: #AA8B56;
 }

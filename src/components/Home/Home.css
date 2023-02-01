@@ -46,5 +46,6 @@ display: inline-block;
     font-size: 26px;
     padding: 16px 32px;
     font-family:  sans-serif;
+    transition: 0.3s;
 
   }
