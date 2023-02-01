@@ -90,11 +90,13 @@ img {
     width: 100%;
   }
 }
-.button{
+
+  .button{
     padding: 10px 25px;
-    border: 1px;
-    background-color: rgb(32, 117, 44);
-    color: white;
+    border: 1px green solid;
+    /* background-color: #55555; */
+    color: green;
+
 }
 .accordion{
   background-color: red;
