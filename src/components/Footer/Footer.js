@@ -2,69 +2,33 @@ import './Footer.css'
 
 const Footer = () => {
     return ( 
+        
+        
+<footer>
 
- <footer>
- <div class="content">
-   <div class="top">
-     <div class="logo-details">
-       <i class="fab fa-slack"></i>
-       <span class="logo_name">Logo</span>
-     </div>
-     <div class="media-icons">
-       <a href="#"><i class="fab fa-facebook-f"></i></a>
-       <a href="#"><i class="fab fa-twitter"></i></a>
-       <a href="#"><i class="fab fa-instagram"></i></a>
-       <a href="#"><i class="fab fa-linkedin-in"></i></a>
-       <a href="#"><i class="fab fa-youtube"></i></a>
-     </div>
-   </div>
-   <div class="link-boxes">
-     <ul class="box">
-       <li class="link_name">Company</li>
-       <li><a href="#">Home</a></li>
-       <li><a href="#">Contact us</a></li>
-       <li><a href="#">About us</a></li>
-       <li><a href="#">Get started</a></li>
-     </ul>
-     <ul class="box">
-       <li class="link_name">Services</li>
-       <li><a href="#">App design</a></li>
-       <li><a href="#">Web design</a></li>
-       <li><a href="#">Logo design</a></li>
-       <li><a href="#">Banner design</a></li>
-     </ul>
-     <ul class="box">
-       <li class="link_name">Account</li>
-       <li><a href="#">Profile</a></li>
-       <li><a href="#">My account</a></li>
-       <li><a href="#">Prefrences</a></li>
-       <li><a href="#">Purchase</a></li>
-     </ul>
-     <ul class="box">
-       <li class="link_name">Courses</li>
-       <li><a href="#">HTML & CSS</a></li>
-       <li><a href="#">JavaScript</a></li>
-       <li><a href="#">Photography</a></li>
-       <li><a href="#">Photoshop</a></li>
-     </ul>
-     <ul class="box input-box">
-       <li class="link_name">Subscribe</li>
-       <li><input type="text" placeholder="Enter your email" /></li>
-       <li><input type="button" value="Subscribe" /></li>
-     </ul>
-   </div>
- </div>
- <div class="bottom-details">
-   <div class="bottom_text">
-     <span class="copyright_text">Copyright © 2021 <a href="#">Logo.</a>All rights reserved</span>
-     <span class="policy_terms">
-       <a href="#">Privacy policy</a>
-       <a href="#">Terms & condition</a>
-     </span>
-   </div>
- </div>
-</footer>
+  <div class="footer-content">
+        <h3>Magical Kenya</h3>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+             text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It 
+             publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
+          <div class="social">
+            <h3>Follow us</h3>
+            <a href="#"><i class="fa fa-facebook"></i> </a>
+            <a href="https://twitter.com/ZamuHajji"><i class="fa fa-twitter"></i> </a>
+            <a href="#"><i class="fa fa-snapchat-ghost"></i> </a>
+            <a href="https://www.instagram.com/zamuhajji/?hl=el"><i class="fa fa-instagram"></i> </a>
+            <a href="#"><i class="fa fa-whatsapp"></i> </a>
+            <a href="https://www.linkedin.com/in/zamzam-hassan-16a7557a/"><i class="fa fa-linkedin"></i> </a>
+          </div> 
+      </div>
+      <div className='footer-bottom'>
+        <p>copyright &copy;2023 MagicalKenya. designed by <span className='designer'>Zamzam</span></p>
+      </div>
+    </footer>
+
+
+        
      );
 }
  

@@ -36,37 +36,10 @@ img {
 }
 
 .cards_wrap .card_inner {
-  background: rgb(170, 152, 101);
+  background: rgb(189, 185, 176);
   border: 1px solid rgb(231, 223, 223);
 }
 
-/* .cards_wrap .card_top {
-  width: 100%;
-  height: auto;
-  padding: 10px;
-  padding-bottom: 0;
-} */
-
-/* .cards_wrap .card_bottom {
-  padding: 15px;
-} */
-
-/* .cards_wrap .card_bottom .card_category {
-  text-transform: uppercase;
-  text-align: center;
-} */
-
-/* .cards_wrap .card_bottom .card_info {
-  padding: 15px;
-  margin: 10px 0;
-  border: 1px dashed green;
-} */
-
-/* .cards_wrap .card_bottom .card_info .title {
-  color: green;
-  font-size: 18px;
-  margin-bottom: 5px;
-} */
 
 .cards_wrap .card_bottom .card_creator {
   text-align: center;
@@ -110,6 +83,7 @@ img {
 }
 p{
   margin: 20px;
+  font-size: 16px;
 }
 .paragraphs{
   font-size: larger;
