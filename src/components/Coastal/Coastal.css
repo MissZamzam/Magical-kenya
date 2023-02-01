@@ -1,4 +1,4 @@
-/* @import url("https://fonts.googleapis.com/css?family=Nunito&display=swap"); */
+@import url("https://fonts.googleapis.com/css?family=Nunito&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap');
 
 * {
@@ -9,7 +9,6 @@
 }
 
 body {
-  /* background: #eedfcc; */
   color: #555555;
   font-size: 14px;
 }
@@ -36,7 +35,8 @@ img {
 }
 
 .cards_wrap .card_iner {
-  background: rgb(145, 141, 136);
+  background: rgb(224, 219, 213);
+  /* border: 1px rgb(24, 94, 36) solid; */
 }
 
 .cards_wrap .card_top {
@@ -94,7 +94,6 @@ img {
   .button{
     padding: 10px 25px;
     border: 1px green solid;
-    /* background-color: #55555; */
     color: green;
 
 }

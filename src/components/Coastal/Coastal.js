@@ -4,7 +4,7 @@ import './Coastal.css'
 const Coastal = () => {
     return (  
 <div>
-<h1 className="text-center">Coastal Cities</h1>
+<h1 className="paragraphs">Coastal Cities</h1>
 <p className="text-center">DREAMING OF A KENYA COAST BEACH VACATION?</p>
 
 
@@ -53,7 +53,7 @@ const Coastal = () => {
           <div class="card_info">
             <p class="title">Popular for its beaches and colonial heritage</p>
             <p>
-            Mombasa offers a diverse marine life, world-class hotels and friendly atmosphere. There is a tropical climit is a great destination filled with activities for all ages.             </p>
+            Mombasa offers a diverse marine life, world-class hotels and friendly atmosphere. There is a tropical climit is a great destination filled with activities for all ages.</p>
           </div>
           <div class="card_creator">
           {/* <h1>Excited to learn more about Mombasa?</h1> */}

@@ -89,6 +89,12 @@ img {
   .cards_wrap .card_item {
     width: 100%;
   }
+  p{
+    font-size: 13px;
+  }
+  h1{
+    font-size: 10px;
+  }
 }
 .button{
     padding: 10px 25px;
@@ -106,7 +112,7 @@ p{
 }
 .paragraphs{
   font-size: larger;
-  color: rgb(128, 0, 43);
+  color: green;
   font-size: 50px;
   text-align: center;
   font-family: Grechen Fuemen , sans-serif;
