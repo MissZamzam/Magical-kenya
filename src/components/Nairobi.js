@@ -54,25 +54,9 @@ const Wildlife = () => {
            Historical Background
            The Museum was initiated in 1910 by a group of enthusiastic naturalists under the then East Africa and Uganda Natural History Society [currently the East African Natural History Society (EANHS)], who needed a place to keep and preserve their collections of various specimens. The first site for the Museum was at the present Nyayo House, which later became too small and a larger building was put up in 1922 where the Nairobi Serena Hotel stands today.
            In 1929, the colonial government set aside land for a Museum construction at Museum Hill which was officially opened in 22nd September, 1930 and named Coryndon Museum in honour of Sir Robert Coryndon, one-time Governor of Kenya. In 1963 after independence, it was re-named the National Museum of Kenya (NMK).
-           On October 15th 2005, the Nairobi Museum closed its doors to the public for an extensive modernization and expansion project the outcome of which was an impressive and magnificent piece of architecture that puts it in competition with other world- class Museums. The Museum later re-opened in June 2008 as the Nairobi National Museum, and continues to draw visitors from all walks of life in appreciation of Kenya’s rich heritage.
-           Attraction Points
-           The Museum hosts both temporary and permanent galleries that attract learners and tourists alike. We have the following permanent galleries: The Cradle of human kind gallery; The Story of mammals; The History of Kenya; Cycles of life gallery; Numismatic exhibition and Asian African Heritage exhibition gallery respectively.
-           Cradle of Human Kind gallery
-           In the Cradle of human kind gallery, visitors interact first hand with early man and Stone Age tools. Bird’s gallery depicts the diversity of birds of East Africa arranged in family groups such as birds of prey, water birds and sunbirds. This helps visitors to envision on the different ways birds are adapted to their environment and feeding.
-           Story of Mammals Gallery
-           The story of mammals from the large elephant, bats to shrews is captured in three themes namely, evolution, locomotion, feeding adaptation and defense mechanism.
-           The History of Kenya gallery
-           The History of Kenya gallery details the origin of Kenya’s different communities and language groups, pre-colonial period, colonial period, interaction among the communities, struggle for independence and independence.
-           Cycles of Life gallery
-           Cycles of life gallery paints a picture of the different social interactions, and cultural activities during the life stages of man from childhood, youth, adulthood and ancestral stage. Learners get to interact with traditional items from different communities.
-           Numismatic Exhibition
-           Numismatic exhibition exposes the aspect of trade and exchange, the history of banking and the application of digital technology in trade and banking. Current currencies and various historical currencies are displayed as well as an interactive program on banking that encourages young children to learn best saving practices.
-           The Museum aims to interpret Kenya’s rich heritage and offers a one stop for visitors to sample the country’s rich heritage both for education and leisure. In addition to the Museum, visitors are treated to a variety of shopping and dining facilities, as well as botanical gardens that offer a serene environment.
-           Admission Hours
-           Monday to Sunday: 8:30 a.m.–5:30 p.m. All year round including public holidays and weekends.
-           Night Tours
-           Exclusive for organized groups for a minimum of 10 people, a request can now be made through advance bookings for night tours.
-           The Museum will be open between 6:00pm – 10:00pm except when there is a privately held function.</p>
+           On October 15th 2005, the Nairobi Museum closed its doors to the public for an extensive modernization and expansion project the outcome of which was an impressive and magnificent piece of architecture that puts it in competition with other world- class Museums.
+           
+           </p>
                    
         <h1>Maasai Ostrich Farm</h1>
         <img id="img2" src="https://www.maasaiostrichfarm.co.ke/wp-content/uploads/ostrich.jpg" alt=""/>
