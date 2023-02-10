@@ -22,12 +22,14 @@ footer{
     
     padding: 1px;
 }
+
 .footer-content h3{
     color: green;
     font-size: 2.4rem;
     font-family: Grechen Fuemen , sans-serif;
 
 }
+
 .footer-content p{
     color: green;
     font-size: 18px;
