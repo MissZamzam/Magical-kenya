@@ -12,15 +12,21 @@ return(
 
                 <h1 className="beach">Beach to Forest</h1>
              <h1 className="caption">We Are Top Tourist <br></br> Guide Site <br></br> in Kenya<br/></h1>
-                    <NavLink to='/hero'>
-                        <button className="solutions-button">Discover Kenya</button>
-                    </NavLink>
+                   
                     <p className="font">
                         Beach to Forest is for those people who do not simply
                         wish for a 'superficial' stereotypedrelationship with popular urban destinations, but who
                         seek deeper knowledge of culture, the actual lifestyle, pace and true character of a city.
                         Our curated attractions combine all the elements needed to attract the demanding visitor.
+                        Founded locally, The Beach to Forset team guarantees you an
+                        unrivalled Kenyan travel experience. We want to offer our clients
+                        an unforgettable adventure into Kenya.Whether travelling as a couple, a family, a group or individual, we satisfy your needs and personalities, because
+                        our destinations offer a range from high-end luxury to more
+                        affordable options
                  </p>
+                 <NavLink to='/hero'>
+                        <button className="solutions-button">Discover Kenya</button>
+                    </NavLink>
                  
             </div>
             {/* <div className="row move">

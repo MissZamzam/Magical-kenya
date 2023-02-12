@@ -1,21 +1,22 @@
+
 .firstpage{
         color: green;
         font-size: 18px;
         opacity: 0.7;
-        margin: 120px 10px;
+        margin: 50px 10px;
         cursor: pointer;
         transition: 0.5s;
     
 }
 
 .about-us{
-    color: green;
-    font-size: 40px;
-    text-align: center;
-    transition: 0.5s;
-    margin: 30px;
-    font-weight: 300;
-    text-decoration: underline;
+        color: green;
+        font-size: 40px;
+        text-align: center;
+        transition: 0.5s;
+        margin: 30px;
+        font-weight: 300;
+        text-decoration: underline;
 }
 
 .beach{
@@ -42,36 +43,36 @@
 
 
 .solutions-button{
-    background-color: green;
-    padding: 8px;
-    color: white;
-    font-size: 1.5rem;
-    display: grid;
-    margin: auto;  
-    text-decoration: none;
-    font-size: 28px;
-    cursor: pointer;
-    font-weight: 700;
+        background-color: green;
+        padding: 8px;
+        color: white;
+        font-size: 1.5rem;
+        display: grid;
+        margin: auto;  
+        text-decoration: none;
+        font-size: 28px;
+        cursor: pointer;
+        font-weight: 700;
+        border: 1px green solid;
+
 
 
 }
 
 .solutions-button:hover{
-    background-color: white;
-    color: green;
-    transition: 0.9s;
-    opacity: 0.7;
-    border: 1px green solid;
-    /* font-size: 1.6rem; */
+        background-color: white;
+        color: green;
+        transition: 0.9s;
+        opacity: 0.7;
+        /* font-size: 1.6rem; */
 
 }
 
 
 
 .font{
-        /* color: green; */
         font-size: 18px;
-        margin: 60px 40px;
+        margin: 60px 10px;
         transition: 0.5s;
     
 }
