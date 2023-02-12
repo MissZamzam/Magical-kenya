@@ -44,8 +44,9 @@ display: inline-block;
     background-color: green;
     color: white;
     font-size: 26px;
-    padding: 16px 32px;
-    font-family:  sans-serif;
+    padding: 16px 17px;
+    font-weight: 600;
+    /* font-family:  sans-serif; */
     transition: 0.3s;
 
   }
