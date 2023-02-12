@@ -18,6 +18,7 @@ import Parks from "./components/Parks/Parks"
 import FAQ from "./components/FAQ"
 import Safari from "./components/Safari"
 import Footer from "./components/Footer/Footer";
+import Firstpage from "./components/Firstpage";
 
 
 
@@ -27,6 +28,7 @@ function App() {
 
       <Routes>
         <Route path="/" element={ <Home/> } />
+        <Route path="/first" element={ <Firstpage/> } />
         <Route path="faq" element={ <FAQ/> } />
         <Route path="hero" element={ <Hero/> } />
         <Route path="lamu" element={ <Lamu/> } />
