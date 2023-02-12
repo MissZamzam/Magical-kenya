@@ -8,13 +8,18 @@ return(
     <>
         <div className="container-fluid">
             <div className="firstpage">
+            <h1 className="about-us">About Us</h1>
+
                 <h1 className="beach">Beach to Forest</h1>
              <h1 className="caption">We Are Top Tourist <br></br> Guide Site <br></br> in Kenya<br/></h1>
                     <NavLink to='/hero'>
                         <button className="solutions-button">Discover Kenya</button>
                     </NavLink>
                     <p className="font">
-                Kenya, country in East Africa famed for its scenic landscapes and vast wildlife preserves. Its Indian Ocean coast provided historically important ports by which goods from Arabian and Asian traders have entered the continent for many centuries. Along that coast, which holds some of the finest beaches in Africa, are predominantly Muslim Swahili cities such as Mombasa, a historic centre that has contributed much to the musical and culinary heritage of the country. Inland are populous highlands famed for both their tea plantations, an economic staple during the British colonial era, and their variety of animal species, including lions, elephants, cheetahs, rhinoceroses, and hippopotamuses. Kenya’s western provinces, marked by lakes and rivers, are forested, while a small portion of the north is desert and semidesert. The country’s diverse wildlife and panoramic geography draw large numbers of European and North American visitors, and tourism is an important contributor to Kenya’s economy.
+                        Beach to Forest is for those people who do not simply
+                        wish for a 'superficial' stereotypedrelationship with popular urban destinations, but who
+                        seek deeper knowledge of culture, the actual lifestyle, pace and true character of a city.
+                        Our curated attractions combine all the elements needed to attract the demanding visitor.
                  </p>
                  
             </div>
