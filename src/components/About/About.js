@@ -15,7 +15,7 @@ return(
                    
                     <p className="font">
                         Beach to Forest is for those people who do not simply
-                        wish for a 'superficial' stereotypedrelationship with popular urban destinations, but who
+                        wish for a 'superficial' stereotyped relationship with popular urban destinations, but who
                         seek deeper knowledge of culture, the actual lifestyle, pace and true character of a city.
                         Our curated attractions combine all the elements needed to attract the demanding visitor.
                         Founded locally, The Beach to Forset team guarantees you an
