@@ -19,8 +19,7 @@ import FAQ from "./components/FAQ"
 import Safari from "./components/Safari"
 import Footer from "./components/Footer/Footer";
 import About from "./components/About/About";
-
-
+import Buttons from "./Buttons/Buttons";
 
 function App() {
   return (
@@ -44,6 +43,7 @@ function App() {
         <Route path="safari" element={ <Safari/> } />
         <Route path="culture" element={ <Culture/> } />
         <Route path="footer" element={ <Footer/> } />
+        <Route path="btn" element={<Buttons/>} />
 
 
 
