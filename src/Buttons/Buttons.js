@@ -7,7 +7,9 @@ const Buttons = () => {
 
             <h1 className="paragraphs">Coastal Cities</h1>
             <p className="text-center">DREAMING OF A KENYA COAST BEACH VACATION?</p>
-            <p className='text-center'>dtrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</p>
+            <p className='text-center'>East Africa's Kenya is a favourite "beach and bush" destination - with arguably the best safari destinations and the most perfect tropical beaches. The accommodation - whether bush or beach - ranges from rustic and adventurous to family-friendly, romantic honeymoon hideaways to lavish, exclusive luxury. Whether you want to simply relax after a safari or explore and experience the coastal attractions and water activities, Coastal Kenya has a place just for you.
+</p>
+
         <div className='container1'>   
         <div>
             <NavLink to='/lamu'>
