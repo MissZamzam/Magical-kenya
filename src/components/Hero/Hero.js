@@ -81,7 +81,7 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/45/48/c6/4548c6d44cebd1917667a74ea7df4ed5.jpg" alt="car" />
+        <img src="https://i.pinimg.com/564x/f6/71/d1/f671d17b6393a922e4fe959cec5f9a23.jpg" alt="car" />
         </div>
         <div class="card_bottom">
           <div class="card_category">
@@ -98,7 +98,8 @@ function Hero() {
     <div class="card_item">
       <div class="card_inner">
         <div class="card_top">
-        <img src="https://i.pinimg.com/564x/f6/71/d1/f671d17b6393a922e4fe959cec5f9a23.jpg" alt="car" />
+        <img src="https://i.pinimg.com/564x/45/48/c6/4548c6d44cebd1917667a74ea7df4ed5.jpg" alt="car" />
+
         </div>
         <div class="card_bottom">
           <div class="card_category">
