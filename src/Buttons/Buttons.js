@@ -4,20 +4,31 @@ const Buttons = () => {
     return (  
         <div className='container1'>
             <div>
-                <NavLink to='/'>
-                                <button className="btn btn1">home</button>
+                <NavLink to='lamu'>
+                                <button className="btn btn1">Lamu</button>
 
                 </NavLink>
 
-            <button className="btn btn2">Buttons</button>
+        <NavLink>
+                        <button className="btn btn2">Mombasa</button>
+
+        </NavLink>
+
             {/* <button className="btn btn3">Buttons</button> */}
             {/* <button className="btn btn4">Buttons</button> */}
 
             </div>
            <div>
-           <button className="btn btn1">Buttons</button>
-           <button className="btn btn4">Buttons</button>
-            <button className="btn btn2">Buttons</button>
+            <NavLink>
+           <button className="btn btn1">Malindi</button>
+            </NavLink>
+            <NavLink>
+             <button className="btn btn4">Mtwapa</button>
+            </NavLink>
+            <NavLink>
+             <button className="btn btn2">Diani Beach</button>
+
+            </NavLink>
 
             {/* <button className="btn btn3">Buttons</button> */}
            </div>
