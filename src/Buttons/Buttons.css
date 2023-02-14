@@ -1,9 +1,12 @@
 .container1{
     text-align: center;
-    margin-top: 360px;
+    margin-top: 150px;
+    /* margin-bottom: 140px; */
+
+
 }
 .btn{
-    border: 2px solid rgb(157, 255, 0);
+    border: 1px solid rgb(157, 255, 0);
     background: none;
     padding: 15px 65px;
     font-size: 20px;
@@ -13,9 +16,10 @@
     position: relative;
     overflow: hidden;
     border-radius: 40px;
+    margin-bottom: 48px;
 }
 .btn1, .btn2{
-    color: green;
+    color: rgb(79, 138, 79);
 }
 .btn1:hover,.btn2:hover{
     color: yellow;
