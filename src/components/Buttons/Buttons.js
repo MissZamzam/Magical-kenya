@@ -1,6 +1,7 @@
 import './Buttons.css'
 import { NavLink } from 'react-router-dom';
-import Footer from '../components/Footer/Footer';
+import Footer from "../Footer/Footer"
+
 const Buttons = () => {
     return (  
         <div className='coastal-btn'>

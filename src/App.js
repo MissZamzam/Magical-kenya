@@ -19,7 +19,7 @@ import FAQ from "./components/FAQ"
 import Safari from "./components/Safari"
 import Footer from "./components/Footer/Footer";
 import About from "./components/About/About";
-import Buttons from "./Buttons/Buttons";
+import Buttons from "./components/Buttons/Buttons"
 
 function App() {
   return (
