@@ -1,10 +1,12 @@
 import './Buttons.css'
 import { NavLink } from 'react-router-dom';
 import Footer from "../Footer/Footer"
+import Navbar from '../Navbar/Navbar';
 
 const Buttons = () => {
     return (  
         <div className='coastal-btn'>
+          <Navbar />
 
             <h1 className="paragraphs">Coastal Cities</h1>
             <p className="text-center">DREAMING OF A KENYA COAST BEACH VACATION?</p>

@@ -5,7 +5,7 @@
 
 }
 .btn{
-    border: 3px solid green;
+    border: 1px solid green;
     background: none;
     padding: 15px 65px;
     font-size: 20px;
@@ -14,7 +14,7 @@
     transition: 0.8s;
     position: relative;
     overflow: hidden;
-    border-radius: 40px;
+    border-radius: 50px;
     margin-bottom: 48px;
 }
 .btn1, .btn2{

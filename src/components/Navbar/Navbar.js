@@ -29,7 +29,7 @@ function Navbar() {
         </li>
         <li className="nav__item">
           <a href="#" className="nav__link">
-          <Link to="/hero">Discover</Link>
+          <Link to="/hero">Discover Kenya</Link>
           </a>
         </li>
         <li className="nav__item">
