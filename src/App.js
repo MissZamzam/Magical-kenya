@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route } from 'react-router-dom';
 
-
+import Navbar from "./components/Navbar/Navbar";
 import Home from "./components/Home/Home"
 import Hero from "./components/Hero/Hero"
 import Lamu from "./components/Lamu/Lamu"
@@ -24,8 +24,9 @@ import Buttons from "./components/Buttons/Buttons"
 function App() {
   return (
     <div className="App">
-
+      {/* <Navbar /> */}
       <Routes>
+        <Route path="navbar" element={ <Navbar/> } />
         <Route path="/" element={ <Home/> } />
         <Route path="/about" element={ <About/> } />
         <Route path="faq" element={ <FAQ/> } />

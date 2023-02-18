@@ -1,5 +1,6 @@
 import React from "react"
 import { NavLink } from "react-router-dom"
+import Navbar from "../Navbar/Navbar"
 import Footer from "../Footer/Footer"
 import "./About.css"
 
@@ -7,6 +8,7 @@ function About(){
 return(
     <>
         <div className="container-fluid">
+            <Navbar />
             <div className="firstpage">
             <h1 className="about-us">About Us</h1>
 
