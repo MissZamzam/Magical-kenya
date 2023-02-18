@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Navbar.css";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   const [active, setActive] = useState("nav__menu");
@@ -22,7 +23,9 @@ function Navbar() {
       <ul className={active}>
         <li className="nav__item">
           <a href="#" className="nav__link">
-            Home
+          <Link to="/coast">Coast</Link>
+
+            
           </a>
         </li>
         <li className="nav__item">
