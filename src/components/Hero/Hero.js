@@ -2,12 +2,14 @@
 import './Hero.css'
 import { NavLink } from "react-router-dom"
 import Footer from '../Footer/Footer';
+import Navbar from '../Navbar/Navbar';
 // import { Tooltip } from 'bootstrap';
 
 
 function Hero() {
     return (
       <div>
+        <Navbar />
         <h1 className='paragraphs'>Karibu Kenya</h1>
         <p>Kenya is a country in East Africa with coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley and mountain highlands. It’s also home to wildlife like lions, elephants and rhinos. From Nairobi, the capital, safaris visit the Maasai
            Mara Reserve, known for its annual wildebeest migrations, and Amboseli National Park, offering views of Tanzania’s 5,895m Mt. Kilimanjaro.</p>
