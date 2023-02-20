@@ -1,60 +1,63 @@
-import React, { useState } from "react";
-import "./Navbar.css";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom"
+import './Navbar.css'
 
-function Navbar() {
-  const [active, setActive] = useState("nav__menu");
-  const [icon, setIcon] = useState("nav__toggler");
-  const navToggle = () => {
-    if (active === "nav__menu") {
-      setActive("nav__menu nav__active");
-    } else setActive("nav__menu");
-
-    // Icon Toggler
-    if (icon === "nav__toggler") {
-      setIcon("nav__toggler toggle");
-    } else setIcon("nav__toggler");
-  };
+const Navbar = () => {
   return (
-    <nav className="nav">
-      <a href="#" className="nav__brand">
-        Beach Forest
-      </a>
-      <ul className={active}>
-        <li className="nav__item">
-          <a href="#" className="nav__link">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light navbar">
+  <div class="container-fluid">
+    <a className="navbar-brand heading" href="#">Beach to Forest</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <NavLink to='/about'>
+          <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">About</a>
+        </li>
+        </NavLink>
+        
+        {/* <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li> */}
+        <NavLink to='/btn'>
+           <li class="nav-item">
+          <a class="nav-link" href="#">Coastal Kenya</a>
+        </li>
+        </NavLink>
+       
+        <li class="nav-item dropdown">
+          <a className="nav-link dropdown-toggle discover" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Discover
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <NavLink to='/wildlife'>
+               <li><a class="dropdown-item" href="#">Wildlife</a></li>
+            </NavLink>
+            <NavLink to='/nairobi'>
+             <li><a class="dropdown-item" href="#">Nairobi</a></li>
+            </NavLink>
+            <NavLink to='/culture'>
+                <li><a class="dropdown-item" href="#">Diverse Culture</a></li>
+            </NavLink>
+            <NavLink to='/parks'>
+                          <li><a class="dropdown-item" href="#">National Parks</a></li>
+            </NavLink>
+            {/* <NavLink to='/safaris'>
+              <li><a class="dropdown-item" href="#">Safaris</a></li>
+            </NavLink> */}
+            <NavLink to='/north'>
+                <li><a class="dropdown-item" href="#">Northern Kenya</a></li>
 
-          <Link to="/about">About</Link>
-          </a>
+            </NavLink>
+
+          </ul>
         </li>
-        <li className="nav__item">
-          <a href="#" className="nav__link">
-          <Link to="/hero">Discover Kenya</Link>
-          </a>
-        </li>
-        <li className="nav__item">
-          <a href="#" className="nav__link">
-          <Link to="/btn" id="btn">Coast</Link>
-          </a>
-        </li>
-        {/* <li className="nav__item">
-          <a href="#" className="nav__link">
-            Skills
-          </a>
-        </li> */}
-        {/* <li className="nav__item">
-          <a href="#" className="nav__link">
-            Contact
-          </a>
-        </li> */}
       </ul>
-      <div onClick={navToggle} className={icon}>
-        <div className="line1"></div>
-        <div className="line2"></div>
-        <div className="line3"></div>
-      </div>
-    </nav>
-  );
+    </div>
+  </div>
+</nav>
+    );
 }
-
+ 
 export default Navbar;
