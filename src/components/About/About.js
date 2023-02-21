@@ -9,6 +9,10 @@ return(
     <>
         <div className="container-fluid">
             <Navbar />
+            <NavLink to='/'>
+            <h2 className='picha'> &#8592;</h2>
+          </NavLink>
+      
             <div className="firstpage">
             <h1 className="about-us">About Us</h1>
 

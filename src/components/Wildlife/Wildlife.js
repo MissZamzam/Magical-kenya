@@ -1,9 +1,14 @@
 import Footer from "../Footer/Footer";
 import Navbar from "../Navbar/Navbar";
+import { NavLink } from "react-router-dom";
+
 const Wildlife = () => {
     return ( 
     <div className='container'>
         <Navbar />
+        <NavLink to='/hero'>
+            <h2 className='picha'> &#8592;</h2>
+          </NavLink>
                 <h1>The Wildlife</h1>
                 <hr></hr>
 
