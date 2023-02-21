@@ -1,8 +1,10 @@
 // import './Wildlife.css'
 import Footer from "./Footer/Footer";
+import Navbar from "./Navbar/Navbar";
 const Wildlife = () => {
     return ( 
     <div className='container'>
+      <Navbar />
                 <h1>Nairobi City</h1>
                 <hr></hr>
                 <br></br>

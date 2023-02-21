@@ -1,8 +1,10 @@
 import './Lamu.css'
+import Navbar from '../Navbar/Navbar';
 
 const Lamu = () => {
     return ( 
        <div className='container'>
+         <Navbar />
         <div>
         <h1>Lamu Island</h1>
             

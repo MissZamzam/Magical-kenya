@@ -1,9 +1,11 @@
 import './Parks.css'
 import Footer from '../Footer/Footer';
+import Navbar from '../Navbar/Navbar';
 
 const Parks = () => {
     return ( 
        <div className='container'>
+         <Navbar />
         <div>
         <h1>National Parks & Game Reserves</h1>
         <hr></hr>

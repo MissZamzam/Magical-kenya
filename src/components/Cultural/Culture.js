@@ -1,14 +1,17 @@
 // import './Wildlife.css'
 import Footer from "../Footer/Footer";
+import Navbar from "../Navbar/Navbar";
+
 const Culture = () => {
     return ( 
     <div className='container'>
+      <Navbar />
       <h1>Kenyan Communities</h1>
       <hr></hr>
       <h2 className="text-center">Culturally Vibrant, Beautifully Diverse</h2>
       <hr></hr>
       <p>Kenya — home to more than 40 different ethnic groups — boasts of both cultural and natural diversity. If you were to travel across the country, you’d see the Indian Ocean, towering mountains and vast savannas. You’d hear 60 different languages. You’d taste the unique flavors of the many different styles of Kenyan food. It is a truly diverse and vibrant country. </p>
-      <a href="https://blog.compassion.com/facts-about-kenya/">Click for more</a>
+      {/* <a href="https://blog.compassion.com/facts-about-kenya/">Click for more</a> */}
     
     <div>
         <h1>Kenyan Tribes</h1>

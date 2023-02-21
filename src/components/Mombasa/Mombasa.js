@@ -1,8 +1,9 @@
-import './Mombasa.css'
+import Navbar from '../Navbar/Navbar';
 
 const Mombasa = () => {
     return ( 
        <div className='container'>
+         <Navbar />
         <div>        
         <h1>Mombasa City</h1>
         <hr></hr>

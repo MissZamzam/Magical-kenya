@@ -1,8 +1,9 @@
-import './Mtwapa.css'
+import Navbar from '../Navbar/Navbar';
 
 const Mtwapa = () => {
     return ( 
        <div className='container'>
+        <Navbar />
         <div>
         <h1>Mtwapa</h1>
             <hr></hr>

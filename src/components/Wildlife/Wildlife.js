@@ -1,7 +1,9 @@
 import Footer from "../Footer/Footer";
+import Navbar from "../Navbar/Navbar";
 const Wildlife = () => {
     return ( 
     <div className='container'>
+        <Navbar />
                 <h1>The Wildlife</h1>
                 <hr></hr>
 

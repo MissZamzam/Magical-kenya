@@ -1,7 +1,9 @@
 import Footer from "./Footer/Footer";
+import Navbar from "./Navbar/Navbar";
 const North = () => {
     return ( 
        <div className='container'>
+        <Navbar />
         <div>
         <h1>Northern Kenya</h1>
 

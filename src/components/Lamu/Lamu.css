@@ -5,9 +5,7 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-body{
-    color:rgb(31, 24, 24);
-}
+
 .container{
     min-height:100vh;
     padding:0 10px ;

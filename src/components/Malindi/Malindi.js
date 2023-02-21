@@ -1,8 +1,9 @@
-import './Malindi.css'
+import Navbar from '../Navbar/Navbar';
 
 const Malindi = () => {
     return ( 
        <div className='container'>
+        <Navbar />
         <div>
         <h1>Malindi Kenya</h1>
        <hr></hr>
