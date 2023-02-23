@@ -1,6 +1,6 @@
 
 .firstpage{
-        color: green;
+        color: rgb(184, 85, 19);
         font-size: 18px;
         opacity: 0.7;
         margin: 50px 10px;
@@ -9,17 +9,17 @@
 }
 
 .about-us{
-        color: green;
+        color: rgb(226, 117, 55);
         font-size: 40px;
         text-align: center;
         transition: 0.5s;
         margin: 30px;
         font-weight: 300;
-        text-decoration: underline;
+        /* text-decoration: underline; */
 }
 
 .beach{
-        color: green;
+        color: rgb(187, 109, 19);
         font-size: 40px;
         text-align: center;
         transition: 0.5s;
@@ -42,7 +42,7 @@
 
 
 .solutions-button{
-        background-color: green;
+        background-color: rgb(204, 132, 24);
         padding: 8px;
         color: white;
         font-size: 1.5rem;
@@ -52,7 +52,7 @@
         font-size: 28px;
         cursor: pointer;
         font-weight: 700;
-        border: 1px green solid;
+        border: 1px rgb(128, 73, 0) solid;
         border-radius: 5px;
 
 
