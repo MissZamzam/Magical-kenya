@@ -42,7 +42,7 @@
 
 
 .solutions-button{
-        background-color: rgb(204, 132, 24);
+        background-color: green;
         padding: 8px;
         color: white;
         font-size: 1.5rem;
@@ -52,7 +52,7 @@
         font-size: 28px;
         cursor: pointer;
         font-weight: 700;
-        border: 1px rgb(128, 73, 0) solid;
+        border: none;
         border-radius: 5px;
 
 
@@ -64,7 +64,7 @@
         text-decoration: none;
         color: green;
         transition: 0.9s;
-        opacity: 0.7;
+        border: 1px green solid;
 
 }
 
