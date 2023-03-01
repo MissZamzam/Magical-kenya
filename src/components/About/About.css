@@ -42,9 +42,9 @@
 
 
 .solutions-button{
-        background-color: green;
+        background-color: white;
         padding: 8px;
-        color: white;
+        color: green;
         font-size: 1.5rem;
         display: grid;
         margin: auto;  
@@ -52,7 +52,7 @@
         font-size: 28px;
         cursor: pointer;
         font-weight: 700;
-        border: none;
+        border: 1px solid green;
         border-radius: 5px;
 
 
@@ -60,9 +60,9 @@
 }
 
 .solutions-button:hover{
-        background-color: white;
+        background-color: rgb(19, 160, 19);
         text-decoration: none;
-        color: green;
+        color: white;
         transition: 0.9s;
         border: 1px green solid;
 
