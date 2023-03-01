@@ -16,9 +16,10 @@ const Footer = () => {
             <a href="https://twitter.com/ZamuHajji"><i class="fa fa-twitter"></i> </a>
             {/* <a href="#"><i class="fa fa-snapchat-ghost"></i> </a> */}
             <a href="https://www.instagram.com/zamuhajji/?hl=el"><i class="fa fa-instagram"></i> </a>
-            <a href="#"><i class="fa fa-whatsapp"></i> </a>
             <a href="https://www.linkedin.com/in/zamzam-hassan-16a7557a/"><i class="fa fa-linkedin"></i> </a>
             <a href="https://github.com/MissZamzam"><i class="fa fa-github"></i> </a>
+            <a href='mailto:zamzamhassan44@gmail.com'><i class="fa fa-google"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=254725853719&text=Hello Zamzam"><i class="fa fa-whatsapp"></i> </a>
 
           </div> 
       </div>

@@ -14,7 +14,11 @@ return(
           </NavLink>
       
             <div className="firstpage">
-            <h1 className="about-us">About Us</h1>
+            <h1 className="about-us">About Us</h1> 
+            
+
+
+            
 
                 <h1 className="beach">Beach to Forest</h1>
              <h1 className="caption">We Are Top Tourist <br></br> Guide Site <br></br> in Kenya<br/></h1>
