@@ -1,131 +1,79 @@
-import { NavLink } from "react-router-dom"
 import './Coastal.css'
-import Footer from "../Footer/Footer";
+import { NavLink } from 'react-router-dom';
+import Footer from "../Footer/Footer"
+import Navbar from '../Navbar/Navbar';
 
-const Coastal = () => {
+const Buttons = () => {
     return (  
-<div>
-<h1 className="paragraphs">Coastal Cities</h1>
-<p className="text-center">DREAMING OF A KENYA COAST BEACH VACATION?</p>
-
-
-
-<div class="wrapper">
-  <div class="cards_wrap">
-
-
-    <div class="card_item">
-    <div class="card_iner">
-        <div class="card_top">
-        <img src="https://i.pinimg.com/564x/23/90/df/2390df7c4e5d8047b19dfc2f2a6e2a7c.jpg" alt="car" />
-        </div>
-        <div class="card_bottom">
-          <div class="card_category">
-              Lamu
-          </div>
-        
-          <div class="card_creator">
-
-            <NavLink to='/lamu'>
-            <button className='button'>Discover Lamu</button>
-            </NavLink>          
-            </div>
-
+        <div className='coastal-btn'>
+          <Navbar />
+          <NavLink to='/hero'>
+            <h2 className='picha'> &#8592;</h2>
+          </NavLink>
+            <h1 className="paragraphs">Coastal Cities</h1>
             
-        </div>
-     </div>
-    </div>
+            <p className="text-center">DREAMING OF A KENYA COAST BEACH VACATION?</p>
+            <p className='text-center'>East Africa's Kenya is a favourite "beach and bush" destination - with arguably the best safari destinations and the most perfect tropical beaches. The accommodation - whether bush or beach - ranges from rustic and adventurous to family-friendly, romantic honeymoon hideaways to lavish, exclusive luxury. Whether you want to simply relax after a safari or explore and experience the coastal attractions and water activities, Coastal Kenya has a place just for you.</p>
 
-
-    <div class="card_item">
-      <div class="card_iner">
-        <div class="card_top">
-        <img src="https://i.pinimg.com/564x/d1/2e/9a/d12e9a44a172f1fab94ea638ccea67db.jpg" alt="car" />
-        </div>
-        <div class="card_bottom">
-          <div class="card_category">
-              Mombasa
-          </div>
-        
-          <div class="card_creator">
-
+        <div className='container1'>   
+        <div>
+            <NavLink to='/lamu'>
+                 <button className="btn btn1">Lamu</button>
+            </NavLink>
             <NavLink to='/mombasa'>
-            <button className='button'>Discover Mombasa</button>
-            </NavLink>          
-            </div>
-        </div>
-     </div>
-    </div>
-
-
-    <div class="card_item">
-    <div class="card_iner">
-        <div class="card_top">
-        <img src="https://miro.medium.com/max/500/1*Hsxd1iWcMPWp4XYHqC0p6g.jpeg" alt="car" />
-        </div>
-        <div class="card_bottom">
-          <div class="card_category">
-              Malindi
-          </div>
-         
-          <div class="card_creator">
-
+                 <button className="btn btn2">Mombasa</button>
+            </NavLink>
+           <br></br>
             <NavLink to='/malindi'>
-            <button className='button'>Discover Malindi</button>
-            </NavLink>          
-            </div>
-        </div>
-     </div>
-    </div>
-
-
-    <div class="card_item">
-    <div class="card_iner">
-        <div class="card_top">
-        <img src="https://thumbs.dreamstime.com/b/old-abandoned-building-ocean-shore-old-abandoned-building-ocean-shore-mtwapa-mombasa-173320563.jpg" alt="car" />
-        </div>
-        <div class="card_bottom">
-          <div class="card_category">
-              Mtwapa
-          </div>
-       
-          <div class="card_creator">
-
-            <NavLink to='/mtwapa'>
-            <button className='button'>Discover Mtwapa</button>
-            </NavLink>          
-            </div>
-        </div>
-     </div>
-    </div>
-
-
-    <div class="card_item">
-    <div class="card_iner">
-        <div class="card_top">
-        <img src="https://www.tesoroturismo.it/wp-content/uploads/2022/07/diani-beach-spiaggia.jpeg" alt="car" />
-        </div>
-        <div class="card_bottom">
-          <div class="card_category">
-              Diani Beach
-          </div>
-        
-          <div class="card_creator">
-
+                <button className="btn btn1">Malindi</button>
+            </NavLink>
+            <NavLink to='/mtwapa'> 
+                 <button className="btn btn4">Mtwapa</button>
+            </NavLink>
             <NavLink to='/diani'>
-            <button className='button'>Discover Diani</button>
-            </NavLink>          
-            </div>
-        </div>
-     </div>
-    </div>
+                 <button className="btn btn2">Diani Beach</button>
+            </NavLink>
+           </div>
+      <div>
+
+  <section class="packages">
+    <h3 class="title">Coastal Packages</h3>
+    <hr></hr>
+    <p>We offer a variety of group (minimum 5 people) packages. Whether you've spent some summers together or this might be your first adventure, we've got the perfect vacation for you.</p>
+    <hr></hr>
+
+    <ul class="grid">
+      <li>
+        <i class="fa fa-compass fa-4x"></i>
+        <h4>Guided Trips</h4>
+        <p>Looking for the complete experience? Take a tour with one of our experts. They'll show you secrets that you're likely to miss otherwise.</p>
+      </li>
+      <li>
+        <i class="fa fa-camera-retro fa-4x"></i>
+        <h4>Photo Trips</h4>
+        <p>Want to experience nature's beauty without all of that annoying exercise? Take a photo tour on one of our <em>Life is a party!</em> buses.</p>
+      </li>
+      <li>
+        <i class="fa fa-bicycle fa-4x"></i>
+        <h4>Biking Trips</h4>
+        <p>If bicycles are more your speed, consider taking a tour through one of our mountain or city bike paths. We'll provide the bikes, and lunch too!</p>
+      </li>
+      <li>
+        <i class="fa fa-flag-checkered fa-4x"></i>
+        <h4>Racing Trips</h4>
+        <p>Got a competitive spirit? Sign up for one of our challenge-based marathons! Try to reach the summit before any other group.</p>
+      </li>
+    </ul>
+  </section>
+      </div>
 
    
+           <Footer />
         </div>
-      </div>
-      <Footer />
+
         </div>
+        
     );
 }
  
-export default Coastal;
+export default Buttons;

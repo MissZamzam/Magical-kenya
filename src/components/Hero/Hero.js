@@ -54,7 +54,7 @@ function Hero() {
           </div>
          
           <div class="card_creator">
-            <NavLink to='/btn'>
+            <NavLink to='/coast'>
             <button className='button'>Explore More</button>
             </NavLink>          
             </div>
