@@ -48,7 +48,7 @@ return(
     <div class="background-image"></div>
     <div class="hero-content-area">
       <h1>Life is a party!</h1>
-      <h3>Unmissable Adventure Tours With Beach to Forest</h3>
+      <h3>Unmissable Adventure Tours With us!</h3>
 
              <NavLink to='/hero'>
                       <a href="#" class="btn">Discover Kenya</a>
