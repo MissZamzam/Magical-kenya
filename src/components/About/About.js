@@ -8,7 +8,7 @@ function About(){
 return(
     <>
         <div className="container-fluid">
-            <Navbar />
+            {/* <Navbar />
             <NavLink to='/'>
             <h2 className='picha'> &#8592;</h2>
           </NavLink>
@@ -39,26 +39,94 @@ return(
                     </NavLink>
                  
             </div>
-            {/* <div className="row move">
-                <div className="col-md-6 d-flex align-items-center justify-content-center ">
-                    <div className="text-center">
-                    <h1 className="caption">We Are Top Courier <br></br> and Mover Service <br></br> in Kenya<br/></h1>
-                    <NavLink to='/hero'>
-                        <button className="btn btn-outline-secondary text-white solutions-button mt-4">Discover the magic</button>
-                    </NavLink>
-                    </div>
-                </div>
-            <div className="col-md-5 d-flex align-items-center justify-content-center my-4">
-            <img src="https://i.pinimg.com/564x/19/bb/74/19bb7443ef0916cc1a67491cd844b48b.jpg" alt="bike man" className="lion-image"/>
-            
-            </div>
-            </div>
+             */}
 
-            <div className="row text-center my-4 landing-text">
-                <p className="font">
-                Kenya, country in East Africa famed for its scenic landscapes and vast wildlife preserves. Its Indian Ocean coast provided historically important ports by which goods from Arabian and Asian traders have entered the continent for many centuries. Along that coast, which holds some of the finest beaches in Africa, are predominantly Muslim Swahili cities such as Mombasa, a historic centre that has contributed much to the musical and culinary heritage of the country. Inland are populous highlands famed for both their tea plantations, an economic staple during the British colonial era, and their variety of animal species, including lions, elephants, cheetahs, rhinoceroses, and hippopotamuses. Kenya’s western provinces, marked by lakes and rivers, are forested, while a small portion of the north is desert and semidesert. The country’s diverse wildlife and panoramic geography draw large numbers of European and North American visitors, and tourism is an important contributor to Kenya’s economy.
-                 </p>
-            </div> */}
+             <div>
+          <Navbar />
+
+  <section class="hero">
+    <div class="background-image"></div>
+    <div class="hero-content-area">
+      <h1>Life is a party!</h1>
+      <h3>Unmissable Adventure Tours With Your Friends</h3>
+
+             <NavLink to='/hero'>
+                      <a href="#" class="btn">Discover Kenya</a>
+
+             </NavLink>
+
+
+    </div>
+  </section>
+
+  <section class="destinations">
+    <h3 class="title">Some of our destinations:</h3>
+    <p>Tired of the beach alone? Are the plains too plain? Come along with us on one of our unusual adventures with yout friends. Here are some pictures from people who have had elevated experiences with us.</p>
+    <hr></hr>
+
+    <ul class="grid">
+      <li class="small image-1"></li>
+      <li class="large image-2"></li>
+      <li class="large image-3"></li>
+      <li class="small image-4"></li>
+    </ul>
+  </section>
+
+  <section class="packages">
+    <h3 class="title">Tour Packages</h3>
+    <p>We offer a variety of group (minimum 5 people) packages. Whether you've spent some summers together or this might be your first adventure, we've got the perfect vacation for you.</p>
+    <hr></hr>
+
+    <ul class="grid">
+      <li>
+        <i class="fa fa-compass fa-4x"></i>
+        <h4>Guided Trips</h4>
+        <p>Looking for the complete experience? Take a tour with one of our experts. They'll show you secrets that you're likely to miss otherwise.</p>
+      </li>
+      <li>
+        <i class="fa fa-camera-retro fa-4x"></i>
+        <h4>Photo Trips</h4>
+        <p>Want to experience nature's beauty without all of that annoying exercise? Take a photo tour on one of our <em>Life is a party!</em> buses.</p>
+      </li>
+      <li>
+        <i class="fa fa-bicycle fa-4x"></i>
+        <h4>Biking Trips</h4>
+        <p>If bicycles are more your speed, consider taking a tour through one of our mountain or city bike paths. We'll provide the bikes, and lunch too!</p>
+      </li>
+      <li>
+        <i class="fa fa-flag-checkered fa-4x"></i>
+        <h4>Racing Trips</h4>
+        <p>Got a competitive spirit? Sign up for one of our challenge-based marathons! Try to reach the summit before any other group.</p>
+      </li>
+    </ul>
+  </section>
+
+  {/* <section class="testimonials">
+    <h3 class="title">Testimonials from our adventurers:</h3>
+    <hr></hr>
+    <p class="quote">Wow! This tour made me realize how much I love being outside with my friends. After going on one of these tours, I can safely say that beer pong is my favorite game all time, also the cultural programs were really interesting!</p>
+    <p class="author">- Albert Herter</p>
+    <p class="quote">Wow, this really blew my mind. We had so much fun at the beach, and also some hidden secrets revealed. Come on, I'm living in this city for 5 years. Amazing!</p>
+    <p class="author">- Sharon Rosenberg</p>
+    <p class="quote">If you want to understand your friends better, head to the mountains. I mean, seriously. It's like sitting next to a campfire and just talk in the sunset, woah. You know? It's like that.</p>
+    <p class="author">- Luis Mendoza</p>
+  </section> */}
+{/* 
+  <section class="contact">
+    <h3 class="title">Learn more</h3>
+    <p>Want to know about our upcoming events, or come to one of our mixers? Just sign up for our mailing list. No spam from us, we promise! Except for the spam we give you to keep up your energy while you're having fun with your friends. Have a blast! We have tons of that.</p>
+    <hr></hr>
+    <form>
+      <input type="email" placeholder="Email" />
+      <a href="#" class="btn">Subscribe now</a>
+    </form>
+  </section> */}
+
+
+
+             </div>
+
+             
          <Footer />
 
         </div>

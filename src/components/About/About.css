@@ -1,4 +1,4 @@
-
+/* 
 .firstpage{
         color: rgb(184, 85, 19);
         font-size: 18px;
@@ -15,7 +15,6 @@
         transition: 0.5s;
         margin: 30px;
         font-weight: 300;
-        /* text-decoration: underline; */
 }
 
 .beach{
@@ -78,8 +77,6 @@
     
 }
 .bk-btn {
-        /* height: $bkBtnSize; */
-        /* width: $bkBtnSize; */
         background-color: black;
         border-radius: 50%;
 }
@@ -101,4 +98,240 @@
         top: -0.07;
         left: 0.44;
       }
-    
+     */
+
+
+     /*General Styles*/
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+a {
+	text-decoration: none;
+	opacity: 0.75;
+	color: #fff;
+}
+
+a:hover {
+	opacity: 1;
+}
+
+a.btn {
+	/* border-radius: 14px; */
+	text-transform: uppercase;
+	/* font-weight: bold; */
+	text-align: center;
+	background-color: #fff;
+	opacity: 1;
+	transition: all 400ms;
+}
+
+a.btn:hover {
+	background-color: #a8c7b2;
+}
+
+section {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 100px 80px;
+}
+
+section:not(.hero):nth-child(even) {
+	background-color: #f5f5f5;
+}
+
+.grid {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+hr {
+	width: 250px;
+	height: 3px;
+	background-color: #e07e7b;
+	border: 0;
+	margin-bottom: 50px;
+}
+
+.image-1 {
+	background-image: url("https://i.pinimg.com/564x/e8/5c/77/e85c774aad6e52d40348d151caa1527b.jpg");
+}
+
+.image-2 {
+	background-image: url("https://images.unsplash.com/photo-1475483768296-6163e08872a1?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1600&h=900&fit=crop&s=20b3b1c3caef8c619ac3c75c07a7eafb");
+}
+
+.image-3 {
+	background-image: url("https://i.pinimg.com/564x/e3/ae/4b/e3ae4b480fa38a991efab5aa7d30acfb.jpg");
+}
+
+.image-4 {
+	background-image: url("https://i.pinimg.com/564x/e3/ae/4b/e3ae4b480fa38a991efab5aa7d30acfb.jpg");
+}
+
+section h3.title {
+	text-transform: capitalize;
+	font: bold 48px "Amatic SC", sans-serif;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+section p {
+	max-width: 775px;
+	line-height: 2;
+	padding: 0 20px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+@media (max-width: 800px) {
+	section {
+		padding: 50px 20px;
+	}
+}
+
+
+/*Hero Styles*/
+
+.hero {
+	position: relative;
+	justify-content: center;
+	text-align: center;
+	min-height: 80vh;
+	color: #fff;
+}
+
+.hero .background-image {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	/* background-image: url("https://i.pinimg.com/564x/59/38/5c/59385c59cc7ff654865a5aa5ff650128.jpg"); */
+	background-size: cover;
+	z-index: -1;
+        background: linear-gradient(#c0bd9d, #163b0d);}
+
+.hero h1 {
+	font: 72px "Amatic SC", sans-serif;
+	text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
+	margin-bottom: 15px;
+}
+
+.hero h3 {
+	font: 28px "Raleway", sans-serif;
+	font-weight: 300;
+	text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
+	margin-bottom: 40px;
+}
+
+.hero a.btn {
+	padding: 20px 46px;
+}
+
+.hero-content-area {
+	opacity: 0;
+	margin-top: 100px;
+	animation: 1s slidefade 1s forwards;
+}
+
+@keyframes slidefade {
+	100% {
+		opacity: 1;
+		margin: 0;
+	}
+}
+
+@media (max-width: 800px) {
+	.hero {
+		min-height: 400px;
+	}
+
+	.hero h1 {
+		font-size: 36px;
+	}
+
+	.hero h3 {
+		font-size: 18px;
+	}
+
+	.hero a.btn {
+		padding: 12px 30px;
+                font-size: 12px;
+	}
+}
+
+/*Destinations Section*/
+
+.destinations .grid li {
+	height: 350px;
+	padding: 20px;
+	background-clip: content-box;
+	background-size: cover;
+	background-position: center;
+}
+
+.destinations .grid li.small {
+	flex-basis: 30%;
+}
+
+.destinations .grid li.large {
+	flex-basis: 70%;
+}
+
+@media (max-width: 1100px) {
+	.destinations .grid li.small,
+	.destinations .grid li.large {
+		flex-basis: 50%;
+	}
+}
+
+@media (max-width: 800px) {
+	.destinations .grid li.small,
+	.destinations .grid li.large {
+		flex-basis: 100%;
+	}
+}
+
+/*Packages Section*/
+
+.packages .grid li {
+	padding: 50px;
+	flex-basis: 50%;
+	text-align: center;
+}
+
+.packages .grid li i {
+	color: green;
+}
+
+.packages .grid li h4 {
+	font-size: 28px;
+	margin: 25px 0;
+}
+.packages .grid li p {
+	font-size: 14px;
+	margin: 23px 0;
+}
+
+
+
+@media (max-width: 800px) {
+	.packages .grid li {
+		flex-basis: 100%;
+		padding: 20px;
+	}
+        p{
+                font-size: 17px;
+        }
+}
+
+

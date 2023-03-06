@@ -51,3 +51,16 @@ display: inline-block;
     transition: 0.3s;
 
   }
+
+  @media (max-width: 800px) {
+
+    .head {
+      background-color: rgb(192, 139, 41);
+      color: white;
+      font-size: 17px;
+      padding: 16px 17px;
+      transition: 0.3s;
+  
+    }
+
+  }
