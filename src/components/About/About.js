@@ -61,7 +61,16 @@ return(
 
   <section class="destinations">
     <h3 class="title">Some of our destinations:</h3>
-    <p>Tired of the beach alone? Are the plains too plain? Come along with us on one of our unusual adventures with yout friends. Here are some pictures from people who have had elevated experiences with us.</p>
+    <p> This is for those people who do not simply
+                        wish for a 'superficial' stereotyped relationship with popular urban destinations, but who
+                        seek deeper knowledge of culture, the actual lifestyle, pace and true character of a country.
+                        Our curated attractions combine all the elements needed to attract the demanding visitor.
+
+                        {/* Founded locally, The Beach to Forset team guarantees you an unrivalled Kenyan travel experience. We want to offer our clients
+                        an unforgettable adventure into Kenya.Whether travelling as a couple, a family, a group or individual, we satisfy your needs and personalities, because
+                        our destinations offer a range from high-end luxury to more
+                        affordable option */}
+                        </p>
     <hr></hr>
 
     <ul class="grid">
