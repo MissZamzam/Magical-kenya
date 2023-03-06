@@ -48,7 +48,7 @@ return(
     <div class="background-image"></div>
     <div class="hero-content-area">
       <h1>Life is a party!</h1>
-      <h3>Unmissable Adventure Tours With us!</h3>
+      <h3>Unmissable Adventure Tours With Us!</h3>
 
              <NavLink to='/hero'>
                       <a href="#" class="btn">Discover Kenya</a>
@@ -66,10 +66,7 @@ return(
                         seek deeper knowledge of culture, the actual lifestyle, pace and true character of a country.
                         Our curated attractions combine all the elements needed to attract the demanding visitor.
 
-                        {/* Founded locally, The Beach to Forset team guarantees you an unrivalled Kenyan travel experience. We want to offer our clients
-                        an unforgettable adventure into Kenya.Whether travelling as a couple, a family, a group or individual, we satisfy your needs and personalities, because
-                        our destinations offer a range from high-end luxury to more
-                        affordable option */}
+                      
                         </p>
     <hr></hr>
 
@@ -83,14 +80,14 @@ return(
 
   <section class="packages">
     <h3 class="title">Tour Packages</h3>
-    <p>We offer a variety of group (minimum 5 people) packages. Whether you've spent some summers together or this might be your first adventure, we've got the perfect vacation for you.</p>
+    <p>We offer a variety of group (minimum 5 people) packages. Whether you've spent some holiday together or this might be your first adventure, we've got the perfect vacation for you.</p>
     <hr></hr>
 
     <ul class="grid">
       <li>
         <i class="fa fa-compass fa-4x"></i>
         <h4>Guided Trips</h4>
-        <p>Looking for the complete experience? Take a tour with one of our experts. They'll show you secrets that you're likely to miss otherwise.</p>
+        <p>Looking for the complete experience? Take a tour with us. We'll show you secrets that you're likely to miss otherwise.</p>
       </li>
       <li>
         <i class="fa fa-camera-retro fa-4x"></i>

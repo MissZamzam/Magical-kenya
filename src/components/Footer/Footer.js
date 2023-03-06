@@ -24,7 +24,7 @@ const Footer = () => {
           </div> 
       </div>
       <div className='footer-bottom'>
-        <p>copyright &copy;2023 MagicalKenya. designed by <span className='designer'>Zamzam</span></p>
+        <p>copyright &copy;2023 MagicalKenya.Designed & Developed by <a href='https://twitter.com/ZamuHajji'>Zamzam</a> </p>
       </div>
     </footer>
 

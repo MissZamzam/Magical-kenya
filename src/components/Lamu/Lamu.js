@@ -14,7 +14,6 @@ const Lamu = () => {
            International restaurant and hotel chains? Nope. But you will find a wide range of accommodation, from basic homestay-style guesthouses to luxury boutique hotels just steps from white sands beaches – plus, a sumptuous mix of Swahili and other regional cuisine and locally-owned international-style cafes, bars, and restaurants.
            And that’s just the beginning!</p>
         
-        <h2 className='text-center'>Reasons To Go To Lamu Island</h2>
         <hr></hr>
 
         <h1>The Ancient Alleyways of Lamu Old Town</h1>
