@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light navbar">
   <div class="container-fluid">
-    <a className="navbar-brand heading" href="#">Beach to Forest</a>
+    {/* <a className="navbar-brand heading" href="#">Beach to Forest</a> */}
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

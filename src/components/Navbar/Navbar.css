@@ -1,11 +1,12 @@
 .heading {
   /* text-transform: uppercase; */
-  background-color: rgb(71, 151, 71);
-  /* color: white; */
-  padding: 17px;
-  font-weight: 600;
-  border-radius: 50%;
+  background-color: rgb(183, 212, 183);
+  color: white;
+  padding: 13px;
+  font-weight: 200;
+  /* border-radius: 10px; */
   font-family: Grechen Fuemen , sans-serif;
+
 
 }
 .navbar{
@@ -18,7 +19,4 @@ a{
 }
 a:hover{
   text-decoration: none;
-}
-.nav{
-  /* justify-content: space-around; */
 }
