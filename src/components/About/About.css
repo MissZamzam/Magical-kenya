@@ -136,12 +136,12 @@ a.btn {
 }
 
 a.btn:hover {
-	background-color: #0c0b0b;
+	/* background-color: #0c0b0b; */
 	/* font-size: 22px; */
 	opacity: 9;
-	color: #eceeea;
+	color: green;
 	/* transition: 0.5s; */
-	border: none;
+	border: 2px solid green;
 }
 
 section {
