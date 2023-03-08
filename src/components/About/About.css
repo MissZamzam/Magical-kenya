@@ -111,7 +111,7 @@
 
 
 
-a {
+/* a {
 	text-decoration: none;
 	opacity: 0.75;
 	color: #fff;
@@ -119,23 +119,29 @@ a {
 
 a:hover {
 	opacity: 1;
-}
+} */
 
 a.btn {
 	border-radius: 8px;
 	text-transform: uppercase;
 	/* font-weight: bold; */
 	text-align: center;
-	background-color: #0c9b30;
+	/* background-color: #0c0c0c; */
 	color: #fff;
-	opacity: 1;
+	opacity: 9;
+	font-weight: 500;
 	transition: all 400ms;
-        border: none;
+        border: 2px solid rgb(246, 252, 246);
+		/* border: none; */
 }
 
 a.btn:hover {
-	background-color: #2d7c46;
-	color: #f5f5f5;
+	background-color: #0c0b0b;
+	/* font-size: 22px; */
+	opacity: 9;
+	color: #eceeea;
+	/* transition: 0.5s; */
+	border: none;
 }
 
 section {
@@ -159,7 +165,7 @@ section:not(.hero):nth-child(even) {
 hr {
 	width: 250px;
 	height: 3px;
-	background-color: #e07e7b;
+	background-color: green;
 	border: 0;
 	margin-bottom: 50px;
 }
@@ -199,6 +205,9 @@ section p {
 @media (max-width: 800px) {
 	section {
 		padding: 50px 20px;
+	}
+	section h3.title {
+		font-size: 30px;
 	}
 }
 
@@ -266,11 +275,12 @@ section p {
 
 	.hero h3 {
 		font-size: 18px;
+		
 	}
 
 	.hero a.btn {
 		padding: 12px 30px;
-                font-size: 12px;
+        font-size: 12px;
 	}
 }
 
