@@ -61,6 +61,7 @@ return(
 
   <section class="destinations">
     <h3 class="title">Some of our destinations:</h3>
+    
     <p> This is for those people who do not simply
                         wish for a 'superficial' stereotyped relationship with popular urban destinations, but who
                         seek deeper knowledge of culture, the actual lifestyle, pace and true character of a country.
