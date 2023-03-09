@@ -1,8 +1,22 @@
 
+
+.coastal-btn{
+    position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-image: url('https://images.unsplash.com/photo-1574256707097-bbf7d49777f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+	background-size: cover;
+	z-index: -1;
+    opacity: .8;
+     background-color: linear-gradient(); 
+    
+
+}
+
 .container1{
     text-align: center;
     margin-top: 150px;
-
 }
 .btn{
     border: 1px solid green;

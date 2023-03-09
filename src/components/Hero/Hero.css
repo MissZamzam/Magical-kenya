@@ -146,11 +146,12 @@ img {
     border: 1px green solid;
     color: green;
     background: #fff;
-
+    border-radius: 10px;
 
 }
 .button:hover{
-  background-color: green;
+  background-color: rgb(45, 94, 45);
+  opacity: .3;
   color: white;
   transition: 0.3s;
 }
