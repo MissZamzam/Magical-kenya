@@ -6,6 +6,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLandmark } from '@fortawesome/free-solid-svg-icons';
 import { faUtensils } from '@fortawesome/free-solid-svg-icons';
 import { faUmbrellaBeach } from '@fortawesome/free-solid-svg-icons';
+import { faShip } from '@fortawesome/free-solid-svg-icons';
+
+
 
 
 
@@ -44,21 +47,22 @@ const Buttons = () => {
       <div>
 
   <section class="packages">
-    <h3 class="title">Coastal Packages</h3>
+    <h3 class="title">Coast Popular activities</h3>
     <hr></hr>
     <p>We offer a variety of group (minimum 5 people) packages. Whether you've spent some summers together or this might be your first adventure, we've got the perfect vacation for you.</p>
     <hr></hr>
 
     <ul class="grid">
       <li>
-        <i class="fa fa-ship fa-4x"></i>
-        <h4>Boat Activity</h4>
-        <p>Looking for the complete experience? Take a tour with one of our experts. They'll show you secrets that you're likely to miss otherwise.</p>
+      <FontAwesomeIcon icon={faShip} size="4x" color="green" />
+
+        <h4>Water Sports</h4>
+        <p>The harbor and beach provide ideal conditions for diving, snorkeling, and fishing enthusiasts; while the cities are home to wildlife parks, beaches, and an abundance of restaurants and bars to enjoy after your day out on the water. The beauty of Mombasa has drawn tourists from all over Africa as well as international visitors looking to explore this coastal city in Kenya.</p>
       </li>
       <li>
       {/* <i class="fa fa-monument fa-4x"></i> */}
       <FontAwesomeIcon icon={faLandmark} size="4x" color="green"/>
-                          <h4>Historicla Landmarks</h4>
+                          <h4>Historical Sites</h4>
         <p>The ruined city of Gedi is one of Kenya’s greatest mysteries. Founded in the early 13th century deep into the thick forests just outside Watamu, Gede was later completely abandoned, and no one really knows why. A bit like a mini Angkor Wat, the ruins at Gede are fascinating, with numerous coral-brick houses, a palace, and even a mosque to visit.
 
 </p>
@@ -67,7 +71,9 @@ const Buttons = () => {
       <FontAwesomeIcon icon={faUtensils} size="4x" color="green" />
 
         <h4>Local Food</h4>
-        <p>If bicycles are more your speed, consider taking a tour through one of our mountain or city bike paths. We'll provide the bikes, and lunch too!</p>
+        <p>Exploring the food of the Kenyan coast is a lesson in history. The dishes are a mix of the many cultures of the region, from the Bantu peoples to Islamic, Indian, and European influences. To eat along the coast of Kenya is to learn its rich Swahili past.
+
+</p>
       </li>
       <li>
       <FontAwesomeIcon icon={faUmbrellaBeach} size="4x" color="green" />
