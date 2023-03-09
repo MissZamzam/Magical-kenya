@@ -2,6 +2,13 @@ import './Coastal.css'
 import { NavLink } from 'react-router-dom';
 import Footer from "../Footer/Footer"
 import Navbar from '../Navbar/Navbar';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLandmark } from '@fortawesome/free-solid-svg-icons';
+import { faUtensils } from '@fortawesome/free-solid-svg-icons';
+import { faUmbrellaBeach } from '@fortawesome/free-solid-svg-icons';
+
+
+
 
 const Buttons = () => {
     return (  
@@ -44,24 +51,28 @@ const Buttons = () => {
 
     <ul class="grid">
       <li>
-        <i class="fa fa-compass fa-4x"></i>
-        <h4>Guided Trips</h4>
+        <i class="fa fa-ship fa-4x"></i>
+        <h4>Boat Activity</h4>
         <p>Looking for the complete experience? Take a tour with one of our experts. They'll show you secrets that you're likely to miss otherwise.</p>
       </li>
       <li>
-        <i class="fa fa-camera-retro fa-4x"></i>
-        <h4>Photo Trips</h4>
-        <p>Want to experience nature's beauty without all of that annoying exercise? Take a photo tour on one of our <em>Life is a party!</em> buses.</p>
+      {/* <i class="fa fa-monument fa-4x"></i> */}
+      <FontAwesomeIcon icon={faLandmark} size="4x" color="green"/>
+                          <h4>Historicla Landmarks</h4>
+        <p>The ruined city of Gedi is one of Kenya’s greatest mysteries. Founded in the early 13th century deep into the thick forests just outside Watamu, Gede was later completely abandoned, and no one really knows why. A bit like a mini Angkor Wat, the ruins at Gede are fascinating, with numerous coral-brick houses, a palace, and even a mosque to visit.
+
+</p>
       </li>
       <li>
-        <i class="fa fa-bicycle fa-4x"></i>
-        <h4>Biking Trips</h4>
+      <FontAwesomeIcon icon={faUtensils} size="4x" color="green" />
+
+        <h4>Local Food</h4>
         <p>If bicycles are more your speed, consider taking a tour through one of our mountain or city bike paths. We'll provide the bikes, and lunch too!</p>
       </li>
       <li>
-        <i class="fa fa-flag-checkered fa-4x"></i>
-        <h4>Racing Trips</h4>
-        <p>Got a competitive spirit? Sign up for one of our challenge-based marathons! Try to reach the summit before any other group.</p>
+      <FontAwesomeIcon icon={faUmbrellaBeach} size="4x" color="green" />
+        <h4>Coast Beaches</h4>
+        <p>Palm-lined shores, crystal-clear waters, coral reefs, and a profusion of water sports, resorts, and entertainment venues provide plenty of tourist action. The resorts are also closer to the airport and Mombasa City.</p>
       </li>
     </ul>
   </section>
