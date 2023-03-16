@@ -87,7 +87,7 @@ const Mombasa = () => {
            There are also many luxury hotels on almost all of the seaside like Nyali beach Resort, Voyager Hotel, Reef Hotel, Mombasa Beach Hotel, the beach also has numerous places of entertainment and activities for tourists such as beach volley, windsurfing, scuba diving, kite surf and a lot more.</p>
       
         <h1>Jumba la Mtwana</h1>
-        <img id="img2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jumba_la_Mtwana-mosque_on_the_beach.jpg/1280px-Jumba_la_Mtwana-mosque_on_the_beach.jpg" alt=""/>
+        <img id="img1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jumba_la_Mtwana-mosque_on_the_beach.jpg/1280px-Jumba_la_Mtwana-mosque_on_the_beach.jpg" alt=""/>
         <p>The full name Jumba la Mtwana means in Swahili “the large house of the slave”. Within this area four mosques, a tomb and four houses have survived in recognizable condition. These houses include the House of the Cylinder, The House of the Kitchen, The House of the Many Pools, which had three phases, and the Great Mosque. The inhabitants of this town were mainly Muslims as evidenced by a number of ruined mosques.
            Jumba la Mtwana a picturesque ruined village is situated in Kilifi along the Kenyan coast. The site lies some 15 kilometers north of Mombasa on and above the beach some 1000 meters north of the mouth of Mtwapa creek; 4 kilometers from the Mombasa-Malindi road and extends along the shore for a distance of about 300 meters and 250 meters inland.
            There are no written historical records of the town but ceramic evidence showed that the town had been built in the fourteenth century but abandoned early in the fifteenth century. The dating is based on the presence of a few shreds of early blue and white porcelain with lung-chuan celadon, and the absence of any later Chinese wares.
@@ -95,7 +95,7 @@ const Mombasa = () => {
            Clearance and excavation of the ruins were first carried out in 1972 by James Kirkman with a view of dating the buildings, its period of occupation and consolidating buildings which were in danger of collapse. Ten years later Jumba la Mtwana was gazetted on 04/06/82 Gazette Notice Number 1515 as a National Monument.</p>
         
         <h1>Nguuni Nature Sanctuary</h1>
-        <img id="img1" src="https://pbs.twimg.com/media/Fb-HfyuWQAAzMyC.jpg" alt="" />
+        <img id="img2" src="https://pbs.twimg.com/media/Fb-HfyuWQAAzMyC.jpg" alt="" />
         <p>Ever visited Nguu Tatu hill near Mombasa Kenya?One of the best attractions of mombasa area is a visit to Nguuni Nature Sanctuary. “What a fantastic place for a party, celebration or even just a barbeque?”
            A great place for having a cold drink as you light a campfire, tucked away in the bush while watching the sunset and only had to drive a few miles from Bamburi to enjoy this!
            Nguuni reserve has giraffes, ostriches, waterbucks and different species of birds to watch while you enjoy your BBQ.
