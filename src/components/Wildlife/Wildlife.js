@@ -1,6 +1,8 @@
 import Footer from "../Footer/Footer";
 import Navbar from "../Navbar/Navbar";
 import { NavLink } from "react-router-dom";
+import ReactReadMoreReadLess from "react-read-more-read-less";
+
 import "./wildlife.css";
 
 const Wildlife = () => {
