@@ -27,6 +27,7 @@ const Wildlife = () => {
             alt=""
           />
         </a>
+        
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
           expedita facere doloribus sint illo, minus, explicabo eius quam eaque
