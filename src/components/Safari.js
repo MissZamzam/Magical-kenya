@@ -16,7 +16,7 @@ const Safari = () => {
         <hr />
         <br />
 
-        <h1>Safaris</h1>
+        <h1>Safari</h1>
         <img
           id="img1"
           src="https://i.pinimg.com/236x/85/63/17/856317b3f208de8ecf37c85840747285.jpg"
