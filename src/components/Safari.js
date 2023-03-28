@@ -12,7 +12,7 @@ const Safari = () => {
     <div className="container">
       <Navbar />
       <div>
-        <h1>Safari</h1>
+        <h1>Safaris</h1>
         <hr />
         <br />
 
