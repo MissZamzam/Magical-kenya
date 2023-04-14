@@ -13,6 +13,7 @@ function Hero() {
         <h2 className="picha"> &#8592;</h2>
       </NavLink>
       <h1 className="paragraphs">Karibu Kenya</h1>
+      
       <p>
         Kenya is a country in East Africa with coastline on the Indian Ocean. It
         encompasses savannah, lakelands, the dramatic Great Rift Valley and
@@ -174,7 +175,7 @@ function Hero() {
                 <div class="card_category">Breath-Taking Features</div>
 
                 <div class="card_creator">
-                  <NavLink to="/culture">
+                  <NavLink to="/features">
                     <button className="button">Explore More</button>
                   </NavLink>
                 </div>
