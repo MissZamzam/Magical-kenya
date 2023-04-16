@@ -12,7 +12,7 @@ const Footer = () => {
         </p>
 
         <div class="social">
-          <h3>Follow us</h3>
+          <h2>Follow us</h2>
           {/* <a href="#"><i class="fa fa-facebook"></i> </a> */}
           <a href="https://twitter.com/ZamuHajji">
             <i class="fa fa-twitter"></i>{" "}
