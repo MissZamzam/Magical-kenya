@@ -25,7 +25,7 @@ const Diani = () => {
           November, Skydive Diani organizes the weekly boogies festivals. During
           the event, tourists get a chance to enjoy advanced skydiving antiques
           and an exclusive training session. To make your experience even more
-          exhilarating, Skydive Diani offers the off-planes package, where
+          exhilarating,  Skydive Diani offers the off-planes package, where
           divers jump from an airplane, of course with the help of a guide.
         </p>
         <h1>Scuba Diving, Snorkeling, and Boat Trips </h1>
