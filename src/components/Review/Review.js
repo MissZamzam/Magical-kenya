@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './Review.css'
 
 function ReviewSection() {
   const [reviews, setReviews] = useState([]);
@@ -20,15 +21,17 @@ function ReviewSection() {
   }
 
   return (
-    <div>
+    <div className='review-container'>
       <h2>Leave us a Review</h2>
       <ul>
         {reviews.map(review => (
           <li key={review.id}>
-            <p>{review.text}</p>
-            <p>Rating: {review.rating}</p>
-            {/* <button onClick={() => handleDeleteReview(review.id)}>Delete</button> */}
+            <div className='review'>
+                 <p className='paragraph-review'>{review.text}</p>
+            <button onClick={() => handleDeleteReview(review.id)}>Delete</button>
 
+            </div>
+         
           </li>
         ))}
       </ul>
@@ -51,11 +54,7 @@ function ReviewForm({ onSubmit }) {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h3>Add Review</h3>
-      <label htmlFor="text">Review Text:</label>
-      <input type="text" id="text" value={text} onChange={e => setText(e.target.value)} required />
-      <label htmlFor="rating">Rating:</label>
-      <input type="number" id="rating" value={rating} onChange={e => setRating(e.target.value)} min="1" max="5" required />
+      <input type="text" id="text" value={text} onChange={e => setText(e.target.value)} required placeholder='Add your review here'/>
       <button type="submit">Submit</button>
     </form>
   );
