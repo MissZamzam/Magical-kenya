@@ -1,6 +1,5 @@
 import React from "react";
 import { Routes, Route } from 'react-router-dom';
-import ReviewSection from "./components/Review/Review";
 import Navbar from "./components/Navbar/Navbar";
 import Home from "./components/Home/Home"
 import Hero from "./components/Hero/Hero"
@@ -43,7 +42,6 @@ function App() {
         <Route path="nairobi" element={ <Nairobi/> } />
         <Route path="safari" element={ <Safari/> } />
         <Route path="culture" element={ <Culture/> } />
-        <Route path="review" element={<ReviewSection/>}/>
         <Route path="footer" element={ <Footer/> } />
         {/* <Route path="btn" element={<Buttons/>} /> */}
 
