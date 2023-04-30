@@ -16,7 +16,8 @@ a.btn {
 	opacity: 9;
 	font-weight: 500;
 	transition: all 400ms;
-        border: 2px solid rgb(246, 252, 246);
+    border: 2px solid rgb(246, 252, 246);
+	
 
 		
 }
