@@ -9,51 +9,112 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-    <nav>
-  <div id="logo">Your Logo here</div>
-  <label for="drop" class="toggle">Menu</label>
-  <input type="checkbox" id="drop" />
-  <ul class="menu">
-    <li><a href="#">About</a></li>
-    <li>
-      <label for="drop-1" class="toggle">Service +</label>
-      <a href="#">Discover</a>
-      <input type="checkbox" id="drop-1"/>
-      <ul>
-        <li><a href="#">Wildlife</a></li>
-        <li><a href="#">Northern</a></li>
-        <li><a href="#">Nairobi</a></li>
-        <li><a href="#">Safaris</a></li>
-        <li><a href="#">Diverse Culture</a></li>
-        <li><a href="#">National Parks</a></li>
+  <div class="navbar">
+ 
+    <div class="nav-header">
+      <div class="nav-logo">
+        <a href="#">
+        </a>
+      </div>
+    </div>
+ 
+    <input type="checkbox" id="nav-check" />
+    <div class="nav-btn">
+      <label for="nav-check">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+    </div>
+ 
+    <div class="nav-links">
+      <NavLink to='/about'>
+      <a href="#">About</a>
+      </NavLink>
+ 
+      <div class="dropdown">
+        <a class="dropBtn" href="#">Discover
+          <i class="fas fa-angle-down"></i>
+        </a>
+        <div class="drop-content">
+          <NavLink to='/wildlife'>
+            <a href="#">Wildlife</a>
+          </NavLink>
+          <NavLink to='/nairobi'>
+            <a href="#">Nairobi</a>
+          </NavLink> <NavLink to='/culture'>
+            <a href="#">Culture</a>
+          </NavLink> <NavLink to='/north'>
+            <a href="#">Northern</a>
+          </NavLink> <NavLink to='/parks'>
+            <a href="#">Parks</a>
+          </NavLink>
+         
+ 
+          <div class="dropdown2">
+          
+            <div class="drop-content2">
+              <a href="#">HTML</a>
+              <a href="#">CSS</a>
+              <a href="#">JavaScript</a>
+              <a href="#">jQuery</a>
+            </div>
+          </div>
+        </div>
+      </div>
 
-      </ul>
-    </li>
-    <li>
-       
-      <label for="drop-2" class="toggle">Portfolio +</label>
-      <a href="#">Coast</a>
-      <input type="checkbox" id="drop-2"/>
-      <ul>
-        <li><a href="#">Portfolio 1</a></li>
-        <li><a href="#">Portfolio 2</a></li>
-        <li>
-           
-          <label for="drop-3" class="toggle">Works +</label>
-          <a href="#">Works</a>
-          <input type="checkbox" id="drop-3"/>
-          <ul>
-            <li><a href="#">HTML/CSS</a></li>
-            <li><a href="#">jQuery</a></li>
-            <li><a href="#">Python</a></li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li><a href="#">Blog</a></li>
-    <li><a href="#">FAQ</a></li>
-  </ul>
-</nav>
+      <div class="dropdown">
+        <a class="dropBtn" href="#">Services
+          <i class="fas fa-angle-down"></i>
+        </a>
+        <div class="drop-content">
+          <a href="#">Web Design</a>
+          <a href="#">Marketing</a>
+          <a href="#">WordPress</a>
+ 
+          <div class="dropdown2">
+            <a class="dropBtn2" href="#">More
+              <i class="fas fa-angle-right"></i>
+            </a>
+            <div class="drop-content2">
+              <a href="#">HTML</a>
+              <a href="#">CSS</a>
+              <a href="#">JavaScript</a>
+              <a href="#">jQuery</a>
+            </div>
+          </div>
+        </div>
+      </div>
+ 
+      <a href="#">Blogs</a>
+      
+      <div class="dropdown">
+        <a class="dropBtn" href="#">Services
+          <i class="fas fa-angle-down"></i>
+        </a>
+        <div class="drop-content">
+          <a href="#">Web Design</a>
+          <a href="#">Marketing</a>
+          <a href="#">WordPress</a>
+ 
+          <div class="dropdown2">
+            <a class="dropBtn2" href="#">More
+              <i class="fas fa-angle-right"></i>
+            </a>
+            <div class="drop-content2">
+              <a href="#">HTML</a>
+              <a href="#">CSS</a>
+              <a href="#">JavaScript</a>
+              <a href="#">jQuery</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+ 
+  </div>
+ 
 
     </>
   )
