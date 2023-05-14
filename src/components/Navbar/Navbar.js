@@ -1,123 +1,106 @@
-
-import "./Navbar.css";
 import { NavLink } from "react-router-dom";
-
-
- 
-import React from 'react'
+import "./Navbar.css";
 
 const Navbar = () => {
   return (
-    <>
-  <div class="navbar">
- 
-    <div class="nav-header">
-      <div class="nav-logo">
-        <a href="#">
-        </a>
-      </div>
-    </div>
- 
-    <input type="checkbox" id="nav-check" />
-    <div class="nav-btn">
-      <label for="nav-check">
-        <span></span>
-        <span></span>
-        <span></span>
-      </label>
-    </div>
- 
-    <div class="nav-links">
-      <NavLink to='/about'>
-      <a href="#">About</a>
-      </NavLink>
- 
-      <div class="dropdown">
-        <a class="dropBtn" href="#">Discover
-          <i class="fas fa-angle-down"></i>
-        </a>
-        <div class="drop-content">
-          <NavLink to='/wildlife'>
-            <a href="#">Wildlife</a>
-          </NavLink>
-          <NavLink to='/nairobi'>
-            <a href="#">Nairobi</a>
-          </NavLink> <NavLink to='/culture'>
-            <a href="#">Culture</a>
-          </NavLink> <NavLink to='/north'>
-            <a href="#">Northern</a>
-          </NavLink> <NavLink to='/parks'>
-            <a href="#">Parks</a>
-          </NavLink>
-         
- 
-          <div class="dropdown2">
-          
-            <div class="drop-content2">
-              <a href="#">HTML</a>
-              <a href="#">CSS</a>
-              <a href="#">JavaScript</a>
-              <a href="#">jQuery</a>
-            </div>
-          </div>
+    <nav className="navbar navbar-expand-lg navbar-light bg-light navbar">
+      <div class="container-fluid">
+        {/* <a className="navbar-brand heading" href="#">Beach to Forest</a> */}
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavDropdown"
+          aria-controls="navbarNavDropdown"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <NavLink to="/about">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">
+                  About
+                </a>
+              </li>
+            </NavLink>
+
+            {/* <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li> */}
+            <NavLink to="/coast">
+              <li class="nav-item">
+                <a class="nav-link" href="#">
+                  Coastal Kenya
+                </a>
+              </li>
+            </NavLink>
+
+            <li class="nav-item dropdown">
+              <a
+                className="nav-link dropdown-toggle discover"
+                href="#"
+                id="navbarDropdownMenuLink"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Discover
+              </a>
+              <ul
+                class="dropdown-menu"
+                aria-labelledby="navbarDropdownMenuLink"
+              >
+                <NavLink to="/wildlife">
+                  <li>
+                    <a class="dropdown-item" href="#">
+                      Wildlife
+                    </a>
+                  </li>
+                </NavLink>
+                <NavLink to="/nairobi">
+                  <li>
+                    <a class="dropdown-item" href="#">
+                      Nairobi
+                    </a>
+                  </li>
+                </NavLink>
+                <NavLink to="/culture">
+                  <li>
+                    <a class="dropdown-item" href="#">
+                      Diverse Culture
+                    </a>
+                  </li>
+                </NavLink>
+                <NavLink to="/parks">
+                  <li>
+                    <a class="dropdown-item" href="#">
+                      National Parks
+                    </a>
+                  </li>
+                </NavLink>
+                {/* <NavLink to='/safaris'>
+              <li><a class="dropdown-item" href="#">Safaris</a></li>
+            </NavLink> */}
+                <NavLink to="/north">
+                  <li>
+                    <a class="dropdown-item" href="#">
+                      Northern Kenya
+                    </a>
+                  </li>
+                </NavLink>
+              </ul>
+
+            </li>
+          </ul>
         </div>
       </div>
+      {/* <li>review</li> */}
 
-      <div class="dropdown">
-        <a class="dropBtn" href="#">Services
-          <i class="fas fa-angle-down"></i>
-        </a>
-        <div class="drop-content">
-          <a href="#">Web Design</a>
-          <a href="#">Marketing</a>
-          <a href="#">WordPress</a>
- 
-          <div class="dropdown2">
-            <a class="dropBtn2" href="#">More
-              <i class="fas fa-angle-right"></i>
-            </a>
-            <div class="drop-content2">
-              <a href="#">HTML</a>
-              <a href="#">CSS</a>
-              <a href="#">JavaScript</a>
-              <a href="#">jQuery</a>
-            </div>
-          </div>
-        </div>
-      </div>
- 
-      <a href="#">Blogs</a>
-      
-      <div class="dropdown">
-        <a class="dropBtn" href="#">Services
-          <i class="fas fa-angle-down"></i>
-        </a>
-        <div class="drop-content">
-          <a href="#">Web Design</a>
-          <a href="#">Marketing</a>
-          <a href="#">WordPress</a>
- 
-          <div class="dropdown2">
-            <a class="dropBtn2" href="#">More
-              <i class="fas fa-angle-right"></i>
-            </a>
-            <div class="drop-content2">
-              <a href="#">HTML</a>
-              <a href="#">CSS</a>
-              <a href="#">JavaScript</a>
-              <a href="#">jQuery</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-    </div>
- 
-  </div>
- 
+    </nav>
+  );
+};
 
-    </>
-  )
-}
-
-export default Navbar
+export default Navbar;
