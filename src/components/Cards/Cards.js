@@ -5,15 +5,37 @@ import "./Cards.css";
 const Cards = () => {
   return (
     
-    <div className='card'>
-      <img src='https://images.unsplash.com/photo-1682687220499-d9c06b872eee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80' />
-      <div>
-        <h2>Cards</h2>
-        <h3>Cards</h3>
-        <p>lorembs uhsuhfsvhdsd uhfusivhds</p>
-        <button>Show</button>
+
+    <div class="container">
+    <div class="img-wrapper">
+      <img src="image1.jpg" alt="Image 1" />
+      <div class="img-text">
+        <p>Image 1 description</p>
       </div>
     </div>
+    
+    <div class="img-wrapper">
+      <img src="image2.jpg" alt="Image 2" />
+      <div class="img-text">
+        <p>Image 2 description</p>
+      </div>
+    </div>
+    
+    <div class="img-wrapper">
+      <img src="image3.jpg" alt="Image 3" />
+      <div class="img-text">
+        <p>Image 3 description</p>
+      </div>
+    </div>
+    
+    <div class="img-wrapper">
+      <img src="image4.jpg" alt="Image 4" />
+      <div class="img-text">
+        <p>Image 4 description</p>
+      </div>
+    </div>
+  </div>
+  
   )
 }
 
