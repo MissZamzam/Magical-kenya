@@ -1,7 +1,6 @@
 import "./Coastal.css";
 import { NavLink } from "react-router-dom";
 import Footer from "../Footer/Footer";
-import Navbar from "../Navbar/Navbar";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLandmark } from "@fortawesome/free-solid-svg-icons";
 import { faUtensils } from "@fortawesome/free-solid-svg-icons";
@@ -11,12 +10,9 @@ import { faShip } from "@fortawesome/free-solid-svg-icons";
 const Buttons = () => {
   return (
     <div className="coastal-btn">
-      <Navbar />
       <NavLink to="/hero">
-        <h2 className="picha"> &#8592;</h2>
       </NavLink>
       <h1 className="paragraphs">Coastal Cities</h1>
-
       <p className="text-center">DREAMING OF A KENYA COAST BEACH VACATION?</p>
       <p className="text-center">
         East Africa's Kenya is a favourite "beach and bush" destination - with

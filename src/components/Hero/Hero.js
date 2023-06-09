@@ -1,16 +1,11 @@
-// import { Button } from 'bootstrap';
 import "./Hero.css";
 import { NavLink } from "react-router-dom";
 import Footer from "../Footer/Footer";
-import Navbar from "../Navbar/Navbar";
-// import { Tooltip } from 'bootstrap';
 
 function Hero() {
   return (
     <div>
-      <Navbar />
       <NavLink to="/about">
-        <h2 className="picha"> &#8592;</h2>
       </NavLink>
       <h1 className="paragraphs">Karibu Kenya</h1>
       

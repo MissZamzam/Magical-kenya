@@ -1,10 +1,8 @@
 import "./Diani.css";
-import Navbar from "../Navbar/Navbar";
 
 const Diani = () => {
   return (
     <div className="container">
-      <Navbar />
       <div>
         <h1>Diani Beach</h1>
         <hr></hr>
