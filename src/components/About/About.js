@@ -47,9 +47,8 @@ function About() {
           <section class="hero">
             <div class="background-image"></div>
             <div class="hero-content-area">
-              <h1>Life is a party!</h1>
+              <h1> Magical Kenya</h1>
               <h3>Unmissable Adventure Tours With Us!</h3>
-
               <NavLink to="/hero">
                 <a href="#" class="btn">
                   Discover Kenya

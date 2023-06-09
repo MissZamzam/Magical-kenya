@@ -1,11 +1,12 @@
-import "./Lamu.css";
+import "./Tester.css";
+// import Navbar from "./Navbar/Navbar";
 
-const Lamu = () => {
+const Tester = () => {
   return (
     <div className="container">
+      {/* <Navbar /> */}
       <div>
         <h1>Lamu Island</h1>
-
         <p>
           Brimming with intriguing history, natural beauty, and amenities for
           every travel style, but set apart from the tourist crowds? Then Lamu
@@ -275,4 +276,4 @@ const Lamu = () => {
   );
 };
 
-export default Lamu;
+export default Tester;

@@ -41,6 +41,7 @@ const Footer = () => {
           <a href="https://twitter.com/ZamuHajji">Zamzam</a>{" "}
         </p>
       </div>
+      
     </footer>
   );
 };
