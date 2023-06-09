@@ -2,10 +2,9 @@ import "./Lamu.css";
 
 const Lamu = () => {
   return (
-    <div className="container">
-      <div>
+    <div className="container__body">
+      <div className="container__container">
         <h1>Lamu Island</h1>
-
         <p>
           Brimming with intriguing history, natural beauty, and amenities for
           every travel style, but set apart from the tourist crowds? Then Lamu
