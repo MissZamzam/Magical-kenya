@@ -71,7 +71,7 @@ img {
 }
 
 .button:hover{
-  background-color: rgb(45, 94, 45);
+  background-color: rgb(30, 49, 30);
   opacity: .3;
   color: white;
   transition: 0.3s;
@@ -113,18 +113,17 @@ img {
   
 }
 
+.container__paragraph{
+  color: rgb(14, 15, 14);
+  font-size: 18px;
+  /* max-width: 700px; */
+  opacity: 0.7;
+  margin: 10px 10px;
+  cursor: pointer;
+  transition: 0.5s;
 
-#text-centre{
-  font-family: Grechen Fuemen , sans-serif;
-  font-size: 100px;
-  color: green;
 }
 
-p{
-  margin: 20px;
-  font-size: 16px;
-  color: #4E6C50;
-}
 
 .paragraphs{
   font-size: larger;

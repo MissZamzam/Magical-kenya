@@ -9,7 +9,7 @@ function Hero() {
       </NavLink>
       <h1 className="paragraphs">Karibu Kenya</h1>
       
-      <p>
+      <p className="container__paragraph">
         Kenya is a country in East Africa with coastline on the Indian Ocean. It
         encompasses savannah, lakelands, the dramatic Great Rift Valley and
         mountain highlands. It’s also home to wildlife like lions, elephants and

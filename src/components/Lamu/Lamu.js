@@ -262,12 +262,7 @@ const Lamu = () => {
           <br></br>
           <br></br>
           <br></br>
-          <a
-            href="https://www.tripadvisor.com/Tourism-g294208-Lamu_Island_Coast_Province-Vacations.html"
-            className="more"
-          >
-            More About Lamu
-          </a>
+         
         </p>
       </div>
     </div>

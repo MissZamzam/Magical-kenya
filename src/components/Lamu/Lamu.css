@@ -9,6 +9,7 @@
 .container__body{
     min-height:100vh;
     padding: 8rem 8rem;
+    background-color: rgb(228, 225, 225);
 }
 .container__body h1{
     text-align: center;
@@ -41,18 +42,12 @@
     font-size: 17px;
     color: black;
 }
-.more{
-    font-size: 25px;
-    text-decoration: none;
-}
-.more:hover{
-    color: green;
 
-}
 
 @media screen and (max-width:1024px) {
     .container__body{
         padding: 3rem 3rem;
+        background-color: rgb(225, 228, 233);
     }
 
     .container__body h1{
