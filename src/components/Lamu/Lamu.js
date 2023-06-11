@@ -1,9 +1,11 @@
 import "./Lamu.css";
+import Footer from "../Footer/Footer";
 
 const Lamu = () => {
   return (
+    <>
     <div className="container__body">
-      <div className="container__container">
+    <div className="container__container">
         <h1>Lamu Island</h1>
         <p>
           Brimming with intriguing history, natural beauty, and amenities for
@@ -264,10 +266,11 @@ const Lamu = () => {
           <br></br>
           <br></br>
           <br></br>
-         
         </p>
+        </div>
       </div>
-    </div>
+      <Footer />
+    </>
   );
 };
 

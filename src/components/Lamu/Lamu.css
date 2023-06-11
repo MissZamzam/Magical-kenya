@@ -8,7 +8,7 @@
 
 .container__body{
     min-height:100vh;
-    padding: 8rem 8rem;
+    padding: 3rem 3rem;
 }
 .container__body h1{
     text-align: center;
@@ -40,7 +40,8 @@
     line-height: 1.6;
     padding-bottom: 10px;
     font-size: 17px;
-    color: black;
+    color: rgb(7, 7, 7);
+    margin: 0;
 }
 
 
@@ -49,14 +50,14 @@
         padding: 3rem 3rem;
     }
 
-    .container__body h1{
+    .container__body__lamu h1{
         font-size: 2em;
     }
-    .container__body p{
+    .container__body__lamu p{
         font-size: 17px;
   
     }
-    .container__body h1{
+    .container__body__lamu h1{
         font-size: 2.2em;
         font-weight: 600;
     }

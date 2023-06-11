@@ -1,6 +1,8 @@
+import Footer from "../Footer/Footer"
 
 const Mombasa = () => {
   return (
+    <>
     <div className="container__body">
     <div className="container__container">
         <h1>Mombasa City</h1>
@@ -617,7 +619,8 @@ const Mombasa = () => {
         </p>
       </div>
     </div>
-
+    <Footer />
+   </>
   );
 };
 

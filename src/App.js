@@ -19,8 +19,6 @@ import Safari from "./components/Safari"
 import Footer from "./components/Footer/Footer";
 import About from "./components/About/About";
 // import Buttons from "./components/Coastal/Coastal"
-import Cards from "./components/Cards/Cards";
-import Tester from "./components/Tester";
 
 function App() {
   return (
@@ -45,8 +43,6 @@ function App() {
         <Route path="safari" element={ <Safari/> } />
         <Route path="culture" element={ <Culture/> } />
         <Route path="footer" element={ <Footer/> } />
-        <Route path="card" element={<Cards/>} />
-        <Route path="tester" element={ <Tester/> } />
 
 
 

@@ -1,6 +1,8 @@
+import Footer from "../Footer/Footer";
 
 const Diani = () => {
   return (
+<>
     <div className="container__body">
     <div className="container__container">
         <h1>Diani Beach</h1>
@@ -81,10 +83,21 @@ const Diani = () => {
           world. The place is open from Monday up to Saturday between 9 am, and
           5 pm, and no prior bookings are needed. You can follow the Diani beach
           Art Gallery on Twitter or join their Facebook group, and see what to
-          expect during your visit.
+          expect during your visit.Loremh some of our art items? Diani Beach Art Gallery is a hub of some of
+          Africa’s most beautiful art pieces. This gallery brings together
+          unique and unusual pieces of art made by talented Africans, at meager
+          prices. The entrance is endowed with superb sculptures, and all
+          workers have a knack for art and creation. Here, you will find some
+          beautiful creations that you may never see in any other part of the
+          world. The place is open from Monday up to Saturday between 9 am, and
+          5 pm, and no prior bookings are needed. You can follow the Diani beach
+          Art Gallery on Twitter or join their Facebook group, and see what to
+          expect during your visit.Loremh
         </p>
       </div>
-    </div>
+      </div>
+      <Footer />
+    </>
   );
 };
 

@@ -1,6 +1,7 @@
-
+import Footer from "../Footer/Footer";
 const Mtwapa = () => {
   return (
+    <>
     <div className="container__body">
     <div className="container__container">
         <h1>Mtwapa</h1>
@@ -140,6 +141,8 @@ const Mtwapa = () => {
         </p>
       </div>
     </div>
+    <Footer />
+    </>
   );
 };
 

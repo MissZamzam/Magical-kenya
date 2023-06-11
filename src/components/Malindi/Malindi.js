@@ -1,6 +1,7 @@
-
+import Footer from "../Footer/Footer";
 const Malindi = () => {
   return (
+    <>
     <div className="container__body">
     <div className="container__container">
         <h1>Malindi Kenya</h1>
@@ -140,6 +141,8 @@ const Malindi = () => {
         </p>
       </div>
     </div>
+    <Footer />
+    </>
   );
 };
 
