@@ -1,13 +1,12 @@
 import Footer from "../Footer/Footer";
 import { NavLink } from "react-router-dom";
-import ReactReadMoreReadLess from "react-read-more-read-less";
-
-import "./wildlife.css";
+// 
 
 const Wildlife = () => {
   return (
-    <div className="container">
-      <NavLink to="/hero">
+    <>
+<div className="container__body">
+    <div className="container__container">      <NavLink to="/hero">
       </NavLink>
       <h1>The Wildlife</h1>
       <hr></hr>
@@ -464,8 +463,11 @@ const Wildlife = () => {
           exactly the final leg of the movement starts is difficult to predict.
         </p>
       </div>
-      <Footer />
+      </div>
     </div>
+    <Footer />
+    </>
+
   );
 };
 
