@@ -4,12 +4,17 @@ import Footer from "../Footer/Footer";
 
 function Hero() {
   return (
-    <div>
+    <div className="hero__container">
       <NavLink to="/about">
       </NavLink>
       <h1 className="paragraphs">Karibu Kenya</h1>
-      
       <p className="container__paragraph">
+        Kenya is a country in East Africa with coastline on the Indian Ocean. It
+        encompasses savannah, lakelands, the dramatic Great Rift Valley and
+        mountain highlands. It’s also home to wildlife like lions, elephants and
+        rhinos. From Nairobi, the capital, safaris visit the Maasai Mara
+        Reserve, known for its annual wildebeest migrations, and Amboseli
+        National Park, offering views of Tanzania’s 5,895m Mt. Kilimanjaro.
         Kenya is a country in East Africa with coastline on the Indian Ocean. It
         encompasses savannah, lakelands, the dramatic Great Rift Valley and
         mountain highlands. It’s also home to wildlife like lions, elephants and
@@ -20,7 +25,7 @@ function Hero() {
       {/* <NavLink to='/faq'>
             <button className='button'>FAQ</button>
         </NavLink>   */}
-      <p className="paragraphs">Facts about Kenya</p>
+      <h2 className="paragraphs">Facts about Kenya</h2>
 
       <div class="wrapper">
         <div class="cards_wrap">

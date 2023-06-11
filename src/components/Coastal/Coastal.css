@@ -1,15 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito", sans-serif;
+  
+  }
 
+  .coastal__container h1{
+    color: green;
+    font-size: 50px;
+    text-align: center;
+      font-family: "Paytone One";
+      letter-spacing: -3px;
+    margin: 3rem;
+    
+  }
+  
+  
+  .coastal__container p{
+    font-size: 18px;
+    margin: 3rem 9rem;
+    text-align: center;
+  }
+  
 
-/* .coastal-btn{
-    position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	background-size: cover;
-	z-index: -1;
-    opacity: .8;
-
-} */
 
 .container1{
     text-align: center;
@@ -86,20 +100,3 @@ p{
     }
   }
   
-  /* .picha{
-    width: 1000px;
-    margin-left: 30px;
-    font-weight: 500;
-    font-size: 50px;
-    color: black;
-  }
-
-  @media only screen and (max-width: 576px) {
-    .picha{
-        width: 100px;
-        margin-left: 30px;
-        font-weight: 500;
-        font-size: 50px;
-        color: black;
-      }
-} */

@@ -9,12 +9,12 @@ import { faShip } from "@fortawesome/free-solid-svg-icons";
 
 const Buttons = () => {
   return (
-    <div className="coastal-btn">
+    <div className="coastal__container">
       <NavLink to="/hero">
       </NavLink>
-      <h1 className="paragraphs">Coastal Cities</h1>
-      <p className="text-center">DREAMING OF A KENYA COAST BEACH VACATION?</p>
-      <p className="text-center">
+      <h1>Coastal Cities</h1>
+      <p>DREAMING OF A KENYA COAST BEACH VACATION?</p>
+      <p>
         East Africa's Kenya is a favourite "beach and bush" destination - with
         arguably the best safari destinations and the most perfect tropical
         beaches. The accommodation - whether bush or beach - ranges from rustic
