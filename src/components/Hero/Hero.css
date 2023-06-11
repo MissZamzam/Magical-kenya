@@ -34,12 +34,17 @@
 .cards_wrap {
   display: flex;
   flex-wrap: wrap;
-  
+}
+.cards_wrap .card_inner {
+  background: #22411f;
+  border: none;
+  border-radius: 10px;
 }
 
 .cards_wrap .card_item {
   width: 25%;
   padding: 10px;
+  
 }
 img {
   display: block;
@@ -65,10 +70,9 @@ img {
   text-transform: uppercase;
   text-align: center;
   font-size: 16px;
-  font-weight: 900;
-  color: #4E6C50;
+  font-weight: 700;
+  color: #fff;
   font-family: "Paytone One";
-	letter-spacing: -1px;
 }
 
 
@@ -80,29 +84,23 @@ img {
 
   .button{
     padding: 10px 25px;
-    border: 1px green solid;
-    color: green;
-    background: #fff;
-    border-radius: 10px;
+    border: none;
+    color: #fff;
+    background: rgb(5, 104, 5);
+    border-radius: 3px;
     font-family: "Paytone One";
 
 
 }
 
 .button:hover{
-  background-color: rgb(30, 49, 30);
-  opacity: .3;
+  background-color: rgb(50, 138, 50);
   color: white;
   transition: 0.3s;
 }
 
 
 
-.cards_wrap .card_inner {
-  background: #fff;
-  border: 1px solid rgb(98, 175, 47);
-  border-radius: 10px;
-}
 
 
 

@@ -9,14 +9,14 @@
 .container__body{
     min-height:100vh;
     padding: 8rem 8rem;
-    background-color: rgb(228, 225, 225);
 }
 .container__body h1{
     text-align: center;
     font-size: 3em;
     padding:15px 0;
-    font-family: Grechen Fuemen , sans-serif;
+    font-family: "Paytone One";
     color: green;
+    font-weight: 600;
 }
 .container__body img{
     width:320px;
@@ -47,7 +47,6 @@
 @media screen and (max-width:1024px) {
     .container__body{
         padding: 3rem 3rem;
-        background-color: rgb(225, 228, 233);
     }
 
     .container__body h1{
@@ -57,6 +56,10 @@
         font-size: 17px;
   
     }
+    .container__body h1{
+        font-size: 2.2em;
+        font-weight: 600;
+    }
 }
 
 @media screen and (max-width:600px) {
@@ -64,8 +67,15 @@
         padding: 2rem 2rem;
         
     }
+    .container__body h1{
+        font-size: 1.5rem;
+        font-weight: 400;
+        padding:12px 0;
+
+    }
     .container__body p{
         font-size: 15px;
         
     }
+
 }
