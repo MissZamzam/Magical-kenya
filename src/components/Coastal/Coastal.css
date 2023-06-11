@@ -42,6 +42,7 @@
     border-radius: 50px;
     margin-bottom: 48px;
 }
+
 .btn1, .btn2{
     color: green;
 }
@@ -87,16 +88,40 @@ p{
         transition: 0.5s;
     
 }
-@media (max-width: 528px) {
-    p {
-        margin: 20px 10px;
-    }
-    .btn{
-        margin: 13px;
-    }
+
+@media screen and (max-width: 1024px) {
+    .coastal__container h1{
+        font-size: 50px;        
+      }
+      
+      .coastal__container p{
+        font-size: 18px;
+        margin: 3rem 5rem;
+      }
+      
+   
     .container1{
         margin-top: 40px;
         margin-bottom: 10px;
     }
   }
   
+@media screen and (max-width:600px) {
+     
+  .coastal__container p{
+    font-size: 13px;
+    margin: 2rem 2rem;
+    text-align: center;
+  }
+
+  .btn{
+    padding: 15px 55px;
+    font-size: 15px;
+    cursor: pointer;
+    margin: 8px;
+    border-radius: 5px;
+    margin-bottom: 48px;
+    background-color: green;
+    color: white;
+}
+}
