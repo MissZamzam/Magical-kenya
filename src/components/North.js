@@ -1,10 +1,9 @@
 import Footer from "./Footer/Footer";
-import Navbar from "./Navbar/Navbar";
 const North = () => {
   return (
-    <div className="container">
-      <Navbar />
-      <div>
+    <>
+    <div className="container__body">
+        <div className="container__container">  
         <h1>Northern Kenya</h1>
 
         <p>
@@ -154,8 +153,10 @@ const North = () => {
           officiis nostrum velit.
         </p>
       </div>
-      <Footer />
     </div>
+    <Footer />
+
+    </>
   );
 };
 

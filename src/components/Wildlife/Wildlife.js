@@ -6,10 +6,12 @@ const Wildlife = () => {
   return (
     <>
 <div className="container__body">
-    <div className="container__container">      <NavLink to="/hero">
+    <div className="container__container">      
+    <NavLink to="/hero">
       </NavLink>
       <h1>The Wildlife</h1>
-      <hr></hr>
+      <br></br>
+      <br></br>
 
       <div>
         <h1>Lion</h1>
