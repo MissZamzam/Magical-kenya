@@ -21,7 +21,9 @@ const Lamu = () => {
           beginning!
         </p>
 
-        <hr></hr>
+        <br></br>
+        <br></br>
+
 
         <h1>The Ancient Alleyways of Lamu Old Town</h1>
         <img

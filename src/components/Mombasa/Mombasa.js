@@ -1,11 +1,11 @@
 
 const Mombasa = () => {
   return (
-    <div className="container">
-      <div>
+    <div className="container__body">
+    <div className="container__container">
         <h1>Mombasa City</h1>
-        <hr></hr>
         <br></br>
+        <br></br>       
 
         <h1>Fort Jesus Museum</h1>
         <img
@@ -617,6 +617,7 @@ const Mombasa = () => {
         </p>
       </div>
     </div>
+
   );
 };
 
