@@ -1,10 +1,11 @@
 
 const Malindi = () => {
   return (
-    <div className="container">
-      <div>
+    <div className="container__body">
+    <div className="container__container">
         <h1>Malindi Kenya</h1>
-        <hr></hr>
+        <br></br>
+        <br></br>
 
         <h1>Wrap Image</h1>
         <img
