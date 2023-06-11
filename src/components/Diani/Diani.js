@@ -1,11 +1,11 @@
-import "./Diani.css";
 
 const Diani = () => {
   return (
-    <div className="container">
-      <div>
+    <div className="container__body">
+    <div className="container__container">
         <h1>Diani Beach</h1>
-        <hr></hr>
+        <br></br>
+        <br></br>
 
         <h1>Skydiving in Diani</h1>
         <img
