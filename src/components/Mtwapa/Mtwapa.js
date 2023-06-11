@@ -1,10 +1,10 @@
 
 const Mtwapa = () => {
   return (
-    <div className="container">
-      <div>
+    <div className="container__body">
+    <div className="container__container">
         <h1>Mtwapa</h1>
-        <hr></hr>
+        <br></br>
         <br></br>
 
         <h1>Wrap Image</h1>
