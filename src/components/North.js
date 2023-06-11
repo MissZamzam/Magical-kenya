@@ -18,7 +18,7 @@ const North = () => {
           Saruni Samburu and Saruni Rhino in Kalama Conservancy and Sera
           Conservancy respectively.
         </p>
-        <hr></hr>
+        <br></br>
         <br></br>
 
         <h1>Lake Turkana</h1>

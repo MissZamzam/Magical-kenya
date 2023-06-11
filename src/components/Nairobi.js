@@ -1,12 +1,10 @@
-// import './Wildlife.css'
 import Footer from "./Footer/Footer";
-import Navbar from "./Navbar/Navbar";
 const Wildlife = () => {
   return (
-    <div className="container">
-      <Navbar />
-      <h1>Nairobi City</h1>
-      <hr></hr>
+    <>
+<div className="container__body">
+    <div className="container__container">        <h1>Nairobi City</h1>
+      <br></br>
       <br></br>
       <p>
         Nairobi is the bustling capital city of Kenya and the main entry point
@@ -247,8 +245,11 @@ const Wildlife = () => {
           outside of the usual hours.
         </p>
       </div>
-      <Footer />
     </div>
+    </div>
+    <Footer />
+
+    </>
   );
 };
 
