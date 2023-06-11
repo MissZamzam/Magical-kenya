@@ -152,7 +152,7 @@ function Hero() {
                 />
               </div>
               <div class="card_bottom">
-                <div class="card_category">National Parks & Reserves</div>
+                <div class="card_category">National Parks</div>
 
                 <div class="card_creator">
                   <NavLink to="/parks">

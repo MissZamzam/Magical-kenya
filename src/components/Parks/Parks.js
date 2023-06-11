@@ -1,14 +1,12 @@
-import "./Parks.css";
 import Footer from "../Footer/Footer";
-import Navbar from "../Navbar/Navbar";
 
 const Parks = () => {
   return (
-    <div className="container">
-      <Navbar />
-      <div>
+     <>
+    <div className="container__body">
+        <div className="container__container">  
         <h1>National Parks & Game Reserves</h1>
-        <hr></hr>
+        <br></br>
         <br></br>
         <h1>Amboseli National Park</h1>
         <img
@@ -430,8 +428,9 @@ const Parks = () => {
           with wildlife.{" "}
         </p>
       </div>
+      </div>
       <Footer />
-    </div>
+      </>
   );
 };
 
