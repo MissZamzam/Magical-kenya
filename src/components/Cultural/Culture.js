@@ -1,15 +1,14 @@
 // import './Wildlife.css'
 import Footer from "../Footer/Footer";
-import Navbar from "../Navbar/Navbar";
 
 const Culture = () => {
   return (
-    <div className="container">
-      <Navbar />
+    <>
+<div className="container__body">
+    <div className="container__container">        
       <h1>Kenyan Communities</h1>
-      <hr></hr>
       <h2 className="text-center">Culturally Vibrant, Beautifully Diverse</h2>
-      <hr></hr>
+      <br></br>
       <p>
         Kenya — home to more than 40 different ethnic groups — boasts of both
         cultural and natural diversity. If you were to travel across the
@@ -165,9 +164,11 @@ const Culture = () => {
           Kenya 2016 report | Diversity of Cultural Expressions - UNESCO
         </a>
       </div>
-
-      <Footer />
     </div>
+    </div>
+    <Footer />
+
+    </>
   );
 };
 
