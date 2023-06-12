@@ -17,12 +17,12 @@ a.btn {
 	transition: all 400ms;
 	padding: 20px 46px;
 	background-color: green;
+	transition: 0.3ms;
 }
 
 a.btn:hover {
-	background-color: #fff;
-	opacity: 9;
-	color: green;
+	background-color: #397a1b;
+	color: rgb(243, 245, 243);
 	border: none;
 }
 

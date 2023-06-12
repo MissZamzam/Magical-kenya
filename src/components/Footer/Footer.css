@@ -5,8 +5,9 @@
     box-sizing: border-box;
    } */
 footer{
-    /* background: rgb(189, 185, 176); */
-    background: #ecebe6;
+    background: #22411f;
+
+    
 
 }
 .footer-content{
@@ -19,60 +20,78 @@ footer{
 }
 .footer-bottom{
     background-color: green;
-    
+    background: #276b08;
     padding: 1px;
 }
 
 .footer-content h3{
     color: green;
     font-size: 2.4rem;
-    /* font-family: Grechen Fuemen , sans-serif; */
     font-family: "Paytone One";
-
-
-}
-.footer-content h2{
-    color: green;
-    font-size: 2rem;
-    font-family: Grechen Fuemen , sans-serif;
-
-
+    margin: 10px 0;
 }
 
 .footer-content p{
-    color: green;
+    color: rgb(192, 216, 192);
     font-size: 18px;
     max-width: 700px;
     opacity: 0.7;
-    margin: 10px 0;
+    margin: 20px 0;
     cursor: pointer;
     transition: 0.5s;
 
-}
-.footer-bottom p:hover{
-    opacity: 1;
 }
 .social a{
     text-decoration: none;
 }
 .social a i{
-    color: green;
     margin: 10px;
     font-size: 1.2rem;
-    border: 1px solid green;
     padding: 7px;
     border-radius: 50%;
+    background-color: rgb(66, 134, 10);
+    color: white;
+
 }
 
+.social a i:hover{
+    background-color: rgb(231, 236, 227);
+    color: rgb(41, 146, 41);
+}
 
 .footer-bottom p{
-    color: wheat;
+    color: rgb(14, 13, 11);
     text-align: center;
     padding: 10px 0;
 }
-.designer{
-    opacity: 0.7;
-    font-weight: 400;
-    text-transform: uppercase;
+
+
+@media screen and (max-width:1024px) {
+    
+.footer-content h3{
+    font-size: 2rem;
+}
 }
 
+@media screen and (max-width:600px) {
+    
+.footer-content h3{
+    font-size: 1.6rem;
+}
+
+.footer-content p{
+    font-size: 1rem;
+    font-family: "Paytone One";
+}
+.social a i{
+    margin: 6px;
+    font-size: 1.1rem;
+
+}
+.footer-bottom p{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 13px;
+    
+}
+}

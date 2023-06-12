@@ -12,12 +12,9 @@ const Footer = () => {
         </p>
 
         <div class="social">
-          <h2>Follow us</h2>
-          {/* <a href="#"><i class="fa fa-facebook"></i> </a> */}
           <a href="https://twitter.com/ZamuHajji">
             <i class="fa fa-twitter"></i>{" "}
           </a>
-          {/* <a href="#"><i class="fa fa-snapchat-ghost"></i> </a> */}
           <a href="https://www.instagram.com/zamuhajji/?hl=el">
             <i class="fa fa-instagram"></i>{" "}
           </a>
@@ -37,8 +34,7 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <p>
-          copyright &copy;2023 MagicalKenya.Designed & Developed by{" "}
-          <a href="https://twitter.com/ZamuHajji">Zamzam</a>{" "}
+          copyright &copy;2023 MagicalKenya
         </p>
       </div>
       
