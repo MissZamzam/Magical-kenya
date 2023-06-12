@@ -20,6 +20,7 @@
 }
 
 
+
 .hero__container p{
   font-size: 18px;
   margin: 3rem 6rem;
@@ -40,6 +41,9 @@
   border: none;
   border-radius: 10px;
 }
+
+
+
 
 .cards_wrap .card_item {
   width: 25%;

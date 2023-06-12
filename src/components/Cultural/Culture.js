@@ -27,10 +27,9 @@ const Culture = () => {
           src="https://i.pinimg.com/564x/eb/1e/b6/eb1eb61d51f963e12899e90487b9212b.jpg"
           alt=""
         />
-
-        <p>
+        <div className="paragraph__read-more">
+            <p>
           The idea that Kenya is made up of 42(+) tribes is widespread,
-          {/* It was a hot and dusty day in January 2019. Sam had been driving me around Nairobi since my first visit, ten years earlier. I often float ideas past him as we endure interminable traffic. ‘Sam, how many tribes are there in Kenya?’ I knew there was no definitive answer but I wanted to know his thoughts. ‘Well, now we are … is it … 46? Or 47? We used to be 42 but some new ones were recently added. Makondes. Asians. Who else was it? Nubians … ’. ‘And where is the list?’ I probed. ‘Oh that one … is it gazetted somewhere? I don’t know.’ Later that day, while he refined my left hook, I asked my boxing trainer, Jeff. Embarrassed, he laughed and said ‘You know … I’ve not brushed up on my tribes lately … .’ ‘Just roughly … how many?’ He replied after some thought, ‘I think … well … I know that we used to be … is it 41? Or 42? 42. */}
           We used to be 42. But now, I don’t know.’ In multiple interviews with
           various government officials, I was repeatedly told there were 42+
           tribes, but nobody could tell me the nature or location of the list.
@@ -42,6 +41,10 @@ const Culture = () => {
           so, who controls it, and how? Why does nobody know? And does it
           matter?
         </p>
+        <a class="read-more" href="#">Read More</a>
+
+        </div>
+      
         <img
           id="img1"
           src="https://i.pinimg.com/564x/d2/d8/e8/d2d8e8a4ece17cdd70e6fd7199762a02.jpg"
@@ -135,26 +138,6 @@ const Culture = () => {
           offering.
         </p>
 
-        <h1>Cultural Activities in Kenya</h1>
-        <br></br>
-        <br></br>
-        <br></br>
-
-        <h1>Lamu Festivals & Events</h1>
-        <ul>
-          <li>Maulidi Islamics Festival</li>
-          <li>Lamu Cultural Festival</li>
-          <li>Lamu Yoga Festival</li>
-          <li>Maulidi Islamics festival</li>
-          <li>Lamu Painter Festival</li>
-          <li>Maulidi Islamics festival</li>
-          <li>The Shela Hat Contest</li>
-          <li>New Year Eve in Shela</li>
-          <li>Eid</li>
-          <a href="https://www.lamuholiday.com/swahili-culture/swahili-festivals.html">
-            Read more on Lamu Cultural Festivals
-          </a>
-        </ul>
 
         <br></br>
         <br></br>

@@ -5,8 +5,6 @@ import Footer from "../Footer/Footer";
 function Hero() {
   return (
     <div className="hero__container">
-      <NavLink to="/about">
-      </NavLink>
       <h1 className="paragraphs">Karibu Kenya</h1>
       <p className="container__paragraph">
         Kenya is a country in East Africa with coastline on the Indian Ocean. It
@@ -22,9 +20,7 @@ function Hero() {
         Reserve, known for its annual wildebeest migrations, and Amboseli
         National Park, offering views of Tanzania’s 5,895m Mt. Kilimanjaro.
       </p>
-      {/* <NavLink to='/faq'>
-            <button className='button'>FAQ</button>
-        </NavLink>   */}
+  
       <h2 className="paragraphs">Facts about Kenya</h2>
 
       <div class="wrapper">
