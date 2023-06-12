@@ -14,6 +14,10 @@ const Wildlife = () => {
         Maasai Market, Nairobi has plenty to offer.
       </p>
       <div>
+      <br></br>
+        <br></br>
+        <br></br>
+    
         <h1>Shopping Malls</h1>
         <img
           id="img1"
@@ -21,32 +25,20 @@ const Wildlife = () => {
           alt=""
         />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
-          expedita facere doloribus sint illo, minus, explicabo eius quam eaque
-          eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam
-          odio eaque architecto corrupti sapiente consectetur laborum possimus
-          culpa voluptate. Iure in placeat voluptate nihil quam voluptatem
-          asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae.
-          Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt
-          animi aliquam? Atque ut expedita iure culpa explicabo cupiditate
-          laborum reiciendis doloribus repellat recusandae. At sunt, iusto
-          consequatur cumque veritatis debitis alias incidunt esse? Labore
-          asperiores alias deleniti consequatur dolores quidem sit accusantium
-          nemo earum minus non reprehenderit, necessitatibus nam. Enim,
-          aspernatur, veritatis sunt quia expedita assumenda vitae pariatur
-          itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur
-          perferendis placeat quis earum, officiis repellat, fugit reprehenderit
-          aut iusto minus nemo quas sed quia quae dolore neque cupiditate,
-          expedita distinctio. Asperiores obcaecati, quidem facilis beatae
-          accusamus aliquid enim veritatis harum, tempore autem magni sint modi
-          voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad
-          vero quos in ex, id doloribus labore totam cupiditate alias. Magnam
-          minima nemo deleniti provident iure dolorem ipsa maxime architecto.
-          Consequatur distinctio, illum fugiat suscipit repellendus
-          exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat
-          officiis nostrum velit.
-        </p>
+        Shopping malls have become vibrant hubs of activity and leisure, offering an unparalleled retail experience that caters to diverse tastes and preferences. These sprawling complexes have become iconic landmarks in cities around the world, and Nairobi is no exception. In Nairobi, the capital city of Kenya, you'll find an impressive array of shopping malls that have become integral parts of the city's vibrant lifestyle.
 
+Step into the world of Nairobi's shopping malls, and you'll be immersed in a world of endless possibilities. These malls showcase a wide range of stores, from high-end international brands to local boutiques, catering to fashion enthusiasts, tech lovers, and home decor aficionados alike. Whether you're seeking the latest fashion trends, cutting-edge gadgets, or unique furnishings, you'll find it all under one roof.
+
+But shopping is just the beginning. Nairobi's malls have evolved into much more than retail destinations. They have transformed into vibrant social spaces where friends and families gather to enjoy a day out. Indulge in a culinary adventure at the mall's diverse mix of restaurants, cafes, and food courts, serving up delectable cuisines from around the world. Catch the latest blockbuster at the state-of-the-art cinemas, or challenge your friends to a friendly competition at the gaming zones.
+
+For families with children, the malls offer play areas and entertainment zones that provide endless fun and excitement. From interactive games to thrilling rides, there's something for everyone. These malls truly offer an immersive experience that goes beyond shopping.
+
+Moreover, Nairobi's shopping malls are not just about leisure and entertainment; they also contribute to the local economy and job market. They provide employment opportunities and support various businesses, both big and small. By supporting these malls, you're not just enjoying a shopping spree but also contributing to the growth and development of the city.
+
+In conclusion, Nairobi's shopping malls have become more than just places to shop. They are vibrant centers of activity, creativity, and entertainment, offering a complete package of fashion, dining, and leisure experiences. Whether you're a local resident or a tourist exploring the city, a visit to Nairobi's shopping malls promises an unforgettable experience filled with excitement, discovery, and the joy of finding something special.
+        </p>
+        <br></br>
+        <br></br>
         <h1>Giraffe Centre</h1>
         <img
           id="img2"
@@ -54,19 +46,22 @@ const Wildlife = () => {
           alt=""
         />
         <p>
-          An initiative of the African Fund for Endangered Wildlife, (AFEW), The
-          Giraffe Centre is a conservation, education, and breeding center for
-          the endangered Rothschild’s giraffe. It’s open daily between 09:00 am
-          and 5:00 pm, including weekends and public holidays. Aside from the
-          information center, there’s also an elevated platform that allows you
-          to hand-feed the giraffes.The center is one of the most popular day
-          trip destinations in Nairobi. It’s also part of the Nairobi wildlife
-          experiences which include a game drive at Nairobi National Park, a
-          visit to the Elephant Sanctuary, and the Karen Blixen Museum. If you
-          only have one day in the city, the Giraffe Center should be one of
-          your top things to do in Nairobi. Another option is to spend a night
-          at this gorgeous Airbnb that’s right next door to both The Giraffe
-          Center and The David Sheldrick Wildlife Trust center.
+        The Giraffe Centre, an initiative of the African Fund for Endangered Wildlife (AFEW), is a remarkable conservation, education, and breeding center dedicated to the preservation of the endangered Rothschild's giraffe. Located in Nairobi, Kenya, the Giraffe Centre offers visitors a unique opportunity to engage with these magnificent creatures up close and learn about their conservation efforts.
+
+Open daily from 9:00 am to 5:00 pm, including weekends and public holidays, the Giraffe Centre welcomes visitors of all ages to explore its facilities. Upon arrival, you'll find an informative visitor center where you can delve into the fascinating world of giraffes. Learn about their behaviors, habitats, and the challenges they face in the wild. The knowledgeable staff is always ready to answer any questions and provide insights into giraffe conservation.
+
+One of the highlights of the Giraffe Centre is the chance to interact with the giraffes on an elevated platform. Here, you can get an up-close encounter with these gentle giants and even feed them. Feel the thrill as they extend their long necks to reach the pellets you offer, creating an unforgettable connection with these majestic animals. It's an experience that both children and adults will cherish.
+
+Beyond its captivating giraffe encounters, the Giraffe Centre is also a popular day trip destination in Nairobi. It is often combined with other wildlife experiences in the area, such as a game drive at Nairobi National Park, a visit to the Elephant Sanctuary, or exploring the Karen Blixen Museum. If you have limited time in the city, the Giraffe Centre should undoubtedly be at the top of your list.
+
+For those seeking an immersive experience, there is a charming Airbnb located adjacent to both the Giraffe Centre and the David Sheldrick Wildlife Trust center. This allows visitors to spend a night in close proximity to these incredible conservation sites, deepening their connection to Kenya's wildlife.
+
+The Giraffe Centre stands as a testament to the importance of preserving endangered species and promoting conservation awareness. By visiting this unique center, you not only get to witness the beauty of giraffes but also contribute to their survival. It's an experience that will leave a lasting impact and inspire a greater appreciation for the remarkable wildlife that shares our planet.
+
+
+
+
+
         </p>
 
         <h1>Nairobi National Park</h1>
@@ -76,21 +71,18 @@ const Wildlife = () => {
           alt=""
         />
         <p>
-          Nairobi National Park is situated a few kilometers from the city
-          center. Aside from being one of the best places to visit in Nairobi,
-          the park is a good starting point for game reserve and safari trips in
-          Kenya. It’s accessible both by private and public means from the
-          capital. However, the best way to experience this magical park is by
-          taking a guided game drive. During the 4-hour early morning game drive
-          of the Nairobi National Park, you’ll have the chance to spot wildlife
-          like lions, black rhinos, cheetahs, buffalos, giraffes, and hippos, as
-          well as many bird species.Some people prefer doing the game drive
-          only, but visiting the Safari Walk inside the park is also both
-          educating and refreshing. The safari walk is home to rhinos, hyenas,
-          and other wild animals. It ranks high up as one of the best places to
-          visit in Nairobi for couples.
-        </p>
+        Nairobi National Park, situated just a short distance from the bustling city center, is a remarkable treasure amidst the urban landscape of Nairobi. This iconic park stands as a testament to Kenya's commitment to wildlife conservation and offers visitors a unique opportunity to witness extraordinary wildlife in their natural habitat.
 
+Renowned as the only national park located within a capital city, Nairobi National Park is a haven for nature enthusiasts and a gateway to Kenya's renowned game reserves and safaris. The park is easily accessible by both private and public transportation, making it a convenient escape into the wilderness.
+
+Embarking on a guided game drive is a must-do experience in Nairobi National Park. Set off on an early morning adventure, accompanied by knowledgeable guides who will unravel the mysteries of the park's diverse ecosystem. As you traverse the vast savannahs and rugged terrain, keep your eyes peeled for sightings of majestic lions, graceful giraffes, herds of buffalos, agile cheetahs, and elusive black rhinos. The park is also home to a variety of bird species, making it a paradise for birdwatchers.
+
+Nairobi National Park not only offers remarkable wildlife encounters but also presents breathtaking landscapes that will leave you in awe. Capture panoramic views of the city skyline juxtaposed against the backdrop of sprawling plains and rolling hills, creating a striking contrast between urban development and untamed nature.
+
+In addition to the captivating game drives, the park offers other attractions worth exploring. The Ivory Burning Site Monument stands as a powerful reminder of Kenya's commitment to wildlife conservation, while the Nairobi Safari Walk provides an opportunity to encounter more wildlife up close, including rhinos, hyenas, and various bird species. Educational and interpretive centers within the park provide valuable insights into conservation efforts and the importance of preserving Kenya's natural heritage.
+
+Nairobi National Park is not just a destination for wildlife enthusiasts; it is a place of tranquility, beauty, and cultural significance. It serves as a reminder of the harmonious coexistence of nature and urban life and offers a respite from the city's hustle and bustle. Whether you are a wildlife enthusiast, a nature lover, or simply seeking a unique experience, Nairobi National Park promises an unforgettable journey into the heart of Kenya's wildlife and natural wonders.
+        </p>
         <h1>Karura Forest</h1>
         <img
           id="img2"
@@ -98,30 +90,21 @@ const Wildlife = () => {
           alt=""
         />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
-          expedita facere doloribus sint illo, minus, explicabo eius quam eaque
-          eos error est nulla. Facilis ratione nesciunt fugiat ipsa, aut quam
-          odio eaque architecto corrupti sapiente consectetur laborum possimus
-          culpa voluptate. Iure in placeat voluptate nihil quam voluptatem
-          asperiores omnis, aliquid reiciendis, aliquam praesentium, ab beatae.
-          Voluptate voluptas dolor earum, fugit aperiam totam ipsam incidunt
-          animi aliquam? Atque ut expedita iure culpa explicabo cupiditate
-          laborum reiciendis doloribus repellat recusandae. At sunt, iusto
-          consequatur cumque veritatis debitis alias incidunt esse? Labore
-          asperiores alias deleniti consequatur dolores quidem sit accusantium
-          nemo earum minus non reprehenderit, necessitatibus nam. Enim,
-          aspernatur, veritatis sunt quia expedita assumenda vitae pariatur
-          itaque eveniet ad dignissimos? Voluptatum, neque. Consequuntur
-          perferendis placeat quis earum, officiis repellat, fugit reprehenderit
-          aut iusto minus nemo quas sed quia quae dolore neque cupiditate,
-          expedita distinctio. Asperiores obcaecati, quidem facilis beatae
-          accusamus aliquid enim veritatis harum, tempore autem magni sint modi
-          voluptates perspiciatis itaque voluptate voluptatem! Tempora quia ad
-          vero quos in ex, id doloribus labore totam cupiditate alias. Magnam
-          minima nemo deleniti provident iure dolorem ipsa maxime architecto.
-          Consequatur distinctio, illum fugiat suscipit repellendus
-          exercitationem, dolorum voluptatum rerum tenetur dignissimos repellat
-          officiis nostrum velit.
+        Nestled within the bustling city of Nairobi, Karura Forest stands as a serene oasis of natural beauty and tranquility. Spanning over 1,000 hectares, this urban forest reserve offers a respite from the concrete jungle, inviting visitors to immerse themselves in its lush greenery and diverse ecosystems.
+
+Karura Forest is not only a sanctuary for nature lovers but also a place of historical significance and cultural heritage. The forest played a pivotal role during Kenya's fight for democracy, as it served as a meeting point and refuge for activists seeking political change. Today, it stands as a symbol of resilience and the power of conservation.
+
+Exploring Karura Forest is a delight for outdoor enthusiasts, as it boasts an extensive network of well-maintained trails and paths that wind through the forest's varied landscapes. Whether you prefer a leisurely stroll, an invigorating jog, or a peaceful bike ride, there are options for every fitness level and interest.
+
+As you venture deeper into the forest, you'll discover hidden treasures waiting to be uncovered. Visit the breathtaking waterfalls that cascade down moss-covered rocks, providing a picturesque backdrop for serene moments of contemplation. Encounter diverse flora and fauna, from towering trees and colorful flowers to playful monkeys and a variety of bird species. Don't miss the tranquil Lake Victoria, where you can relax and soak in the peaceful atmosphere.
+
+For those seeking knowledge and education, Karura Forest offers an informative and interactive experience. Explore the various educational and interpretive centers, which provide insights into the forest's ecosystems, biodiversity, and the importance of environmental conservation.
+
+Karura Forest also caters to the needs of its visitors by providing picnic areas, designated cycling zones, and even outdoor exercise stations. It is a haven for families, friends, and individuals looking to connect with nature, engage in recreational activities, or simply find solace in the midst of Nairobi's bustling energy.
+
+In addition to its natural wonders, Karura Forest is a hotspot for cultural and community events. From art exhibitions to yoga sessions, there is always something happening that celebrates the harmonious blend of nature, culture, and community.
+
+Whether you seek an escape from the city, a rejuvenating nature walk, or a space to unwind and reconnect with yourself, Karura Forest offers an unparalleled experience. Discover the magic of this urban gem, embrace the serenity it provides, and let its beauty captivate your senses.
         </p>
 
         <h1>Maasai Market</h1>
@@ -224,7 +207,7 @@ const Wildlife = () => {
         </p>
         <h1>Nairobi Elephant Orphanage</h1>
         <img
-          id="img2"
+          id="img1"
           src="https://www.heleninwonderlust.co.uk/wp-content/uploads/2019/05/Nairobi-13-1.png"
           alt=""
         />
