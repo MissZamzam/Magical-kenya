@@ -14,7 +14,7 @@ function About() {
             <div class="background-image"></div>
             <div class="hero-content-area">
               <h1> Magical Kenya</h1>
-              <h3>Unmissable Adventure Tours With Us!</h3>
+              <h3>Unmissable Adventure Tours!</h3>
               <NavLink to="/hero">
                 <a href="#" class="btn">
                   Discover Kenya
