@@ -44,14 +44,14 @@ display: inline-block;
     
   } 
   .head {
-    background-color: rgb(30, 97, 13);
-    color: white;
-    font-size: 25px;
+    /* background-color: rgb(30, 97, 13); */
+    color: rgb(5, 5, 5);
+    font-size: 45px;
     padding: 16px 17px;
     transition: 0.3s;
 	font-family: "Paytone One";
-	letter-spacing: -2px;
-
+	letter-spacing: -4px;
+  font-weight: 900;
   }
 
   @media (max-width: 800px) {

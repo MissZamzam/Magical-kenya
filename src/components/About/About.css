@@ -253,6 +253,8 @@ section h3.title {
   }
   
   @media screen and (max-width:600px) {
-	
+	section p {
+		margin: 0;
+	}
   }
  

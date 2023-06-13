@@ -19,13 +19,12 @@ footer{
     padding: 20px 10px;
 }
 .footer-bottom{
-    background-color: green;
     background: #276b08;
     padding: 1px;
 }
 
 .footer-content h3{
-    color: green;
+    color: rgb(102, 150, 102);
     font-size: 2.4rem;
     font-family: "Paytone One";
     margin: 10px 0;

@@ -38,8 +38,9 @@
 }
 .cards_wrap .card_inner {
   background: #22411f;
-  border: none;
   border-radius: 10px;
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.2);
+
 }
 
 
@@ -90,15 +91,17 @@ img {
     padding: 10px 25px;
     border: none;
     color: #fff;
-    background: rgb(5, 104, 5);
+    background: #0a5e02;
+
     border-radius: 3px;
     font-family: "Paytone One";
-
+    cursor: pointer;
 
 }
 
 .button:hover{
   background-color: rgb(50, 138, 50);
+
   color: white;
   transition: 0.3s;
 }
