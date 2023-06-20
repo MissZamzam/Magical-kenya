@@ -15,7 +15,6 @@ import Mtwapa from "./components/Mtwapa/Mtwapa"
 import Diani from "./components/Diani/Diani"
 import Parks from "./components/Parks/Parks"
 import FAQ from "./components/FAQ"
-import Safari from "./components/Safari"
 import Footer from "./components/Footer/Footer";
 import About from "./components/About/About";
 import Features from "./Features";
@@ -39,7 +38,6 @@ function App() {
         <Route path="coast" element={ <Coastal/> } />
         <Route path="north" element={ <North/> } />
         <Route path="nairobi" element={ <Nairobi/> } />
-        <Route path="safari" element={ <Safari/> } />
         <Route path="culture" element={ <Culture/> } />
         <Route path="features" element={<Features/>}/>
         <Route path="footer" element={ <Footer/> } />

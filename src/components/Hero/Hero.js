@@ -82,25 +82,6 @@ function Hero() {
               </div>
             </div>
           </div>
-
-          <div class="card_item">
-            <div class="card_inner">
-              <div class="card_top">
-                <img
-                  src="https://i.pinimg.com/564x/f6/71/d1/f671d17b6393a922e4fe959cec5f9a23.jpg"
-                  alt="car"
-                />
-              </div>
-              <div class="card_bottom">
-                <div class="card_category">safaris</div>
-                <div class="card_creator">
-                  <NavLink to="/safari">
-                    <button className="button">Explore More</button>
-                  </NavLink>
-                </div>
-              </div>
-            </div>
-          </div>
           <div class="card_item">
             <div class="card_inner">
               <div class="card_top">

@@ -1,12 +1,12 @@
 import Footer from "./components/Footer/Footer";
-import Aberdare from './images/Aberdare.jpg'
-import Chyulu from './images/chyulu.jpeg'
-import Coast from './images/coastkenya.jpg'
-import GreatRift from './images/The-Great-Rift-Valley-in-Kenya.jpg'
-import Kericho from './images/Kericho-Landscape.jpg'
-import Turkana from './images/LakeTurkana.jpg'
-import Maasai from './images/Maasaimara.jpg'
-import Tana from './images/river-tana.jpg'
+import Aberdare from "./images/Aberdare.jpg";
+import Chyulu from "./images/chyulu.jpeg";
+import Coast from "./images/coastkenya.jpg";
+import GreatRift from "./images/The-Great-Rift-Valley-in-Kenya.jpg";
+import Kericho from "./images/Kericho-Landscape.jpg";
+import Turkana from "./images/LakeTurkana.jpg";
+import Maasai from "./images/Maasaimara.jpg";
+import Tana from "./images/river-tana.jpg";
 
 const Features = () => {
   return (
@@ -39,11 +39,7 @@ const Features = () => {
           </p>
           <div>
             <h1>The Great Rift Valley</h1>
-            <img
-              id="img1"
-              src={GreatRift}
-              alt=""
-            />
+            <img id="img1" src={GreatRift} alt="" />
             <p>
               The Rift Valley in Kenya is a breathtaking region that captivates
               visitors with its dramatic landscapes, geological wonders, and
@@ -90,11 +86,7 @@ const Features = () => {
             </p>
 
             <h1>Lake Turkana</h1>
-            <img
-              id="img2"
-              src={Turkana} 
-              alt=""
-            />
+            <img id="img2" src={Turkana} alt="" />
             <p>
               Lake Turkana, also known as the "Jade Sea," is a captivating
               tourist attraction in Kenya. This magnificent lake is the largest
@@ -135,11 +127,7 @@ const Features = () => {
             </p>
 
             <h1>Chyulu Hills</h1>
-            <img
-              id="img1"
-              src={Chyulu}
-              alt=""
-            />
+            <img id="img1" src={Chyulu} alt="" />
             <p>
               The Chyulu Hills, nestled between Amboseli and Tsavo National
               Parks, offer a captivating blend of natural beauty and adventure.
@@ -194,11 +182,7 @@ const Features = () => {
             </p>
 
             <h1>Aberdare Range</h1>
-            <img
-              id="img2"
-              src={Aberdare} 
-              alt=""
-            />
+            <img id="img2" src={Aberdare} alt="" />
             <p>
               Nestled in the central highlands of Kenya, the Aberdare Range is a
               captivating destination that showcases the diverse beauty of the
@@ -239,11 +223,7 @@ const Features = () => {
             </p>
 
             <h1>Tana River Delta</h1>
-            <img
-              id="img1"
-              src={Tana}
-              alt=""
-            />
+            <img id="img1" src={Tana} alt="" />
             <p>
               Located on the eastern coast of Kenya, the Tana River Delta is a
               hidden gem waiting to be explored. This vast wetland ecosystem
@@ -282,11 +262,7 @@ const Features = () => {
             </p>
 
             <h1>The coast</h1>
-            <img
-              id="img2"
-              src={Coast}
-              alt=""
-            />
+            <img id="img2" src={Coast} alt="" />
             <p>
               Stretching along the eastern edge of Kenya, the coast is a
               captivating region that beckons travelers with its pristine
@@ -328,11 +304,7 @@ const Features = () => {
             </p>
 
             <h1>Maasai Mara National Reserve</h1>
-            <img
-              id="img1"
-              src={Maasai}
-              alt=""
-            />
+            <img id="img1" src={Maasai} alt="" />
             <p>
               Nestled in the southwestern part of Kenya, the Maasai Mara
               National Reserve is a wildlife haven that promises an
@@ -371,13 +343,8 @@ const Features = () => {
               an unforgettable safari adventure in Kenya.
             </p>
 
-           
             <h1>Kericho</h1>
-            <img
-              id="img2"
-              src={Kericho}
-              alt=""
-            />
+            <img id="img2" src={Kericho} alt="" />
             <p>
               Nestled in the highlands of Kenya, Kericho is a captivating
               destination that promises a delightful escape into nature's
