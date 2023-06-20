@@ -266,10 +266,7 @@ const Wildlife = () => {
               local culture, or simply enjoy the lively atmosphere, the Maasai
               Market in Nairobi is an experience that should not be missed.
             </p>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
+          
 
             <h1>Nairobi Nightlife</h1>
             <img
