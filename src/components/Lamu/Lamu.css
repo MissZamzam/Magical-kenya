@@ -8,13 +8,8 @@
 
 .container__body{
     min-height:100vh;
-    padding: 3rem 23rem;
-    background-color: white;
-}
-.container__body .container__container{
-    padding: 3rem 2rem;
-    border: 2px solid rgb(32, 124, 32);
-    /* background-color: rgb(188, 196, 186); */
+    padding: 3rem 3rem;
+    background-color: rgb(233, 231, 231);
 }
 
 
@@ -59,9 +54,6 @@
     .container__body{
         padding: 3rem 3rem;
     }
-    .container__body .container__container{
-        border: none;
-    }
 
     .container__body__lamu h1{
         font-size: 2em;
@@ -80,9 +72,6 @@
     .container__body{
         padding: 2rem 2rem;
         
-    }
-    .container__body .container__container{
-        border: none;
     }
     .container__body h1{
         font-size: 1.5rem;
